@@ -20,16 +20,15 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Basics of the Bible
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Demystifying the Bible through a visual learning style approach.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Explaining the Bible visually
 
 # A list of keywords for your blog
 keywords:              []
@@ -49,12 +48,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
-  - title:             Projects
+  #- title:             Blog
+  #  url:               /blog/
+  - title:             Graphics
     url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
+  #- title:             Résumé*
+  #  url:               /resume/
   - title:             Documentation
     url:               /docs/
 
@@ -69,7 +68,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2024. All rights reserved.
+copyright:             CC 2025. Materials are provided free of charge, are marked with the Creative Commons logo, and can be printed, copied, and distributed.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/

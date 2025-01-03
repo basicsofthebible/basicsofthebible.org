@@ -14,8 +14,8 @@ image:
     960w:  /assets/img/projects/bst@0,5x.jpg
     480w:  /assets/img/projects/bst@0,25x.jpg
 links:
-  - title: Link
-    url: https://qwtel.com/
+  - title: PDF
+    url: "{{ site.baseurl }}/assets/pdfs/BibleStructureTimeline.pdf"
 sitemap: false
 ---
 

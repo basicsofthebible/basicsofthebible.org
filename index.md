@@ -1,17 +1,19 @@
 ---
 layout: page
-title: Thank You!
+title: basics of the bible | explaining the bible visually
 sitemap: false
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+Thank you for visiting basicsofthebible.org, a collection of free Bible visualizations ! 🎉
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+## About
+The groundwork for Basics of the Bible was laid in 2007 when I created study guides for family members and friends confused about the Bible and wanting to understand it better. I kept creating new materials, and launched the website in 2011 to freely share these resources with a larger audience. Everything here is free for personal enrichment and Christian educational purposes. The website has no advertising or banner ads, and no revenue of any kind is generated for its use. Thank you for visiting!
 
-## First Steps
+## Start here
+
+
+## Delete
+
 Start by reading the [Documentation]{:.heading.flip-title}.
 Specifically, the chapters below should be relevant now:
 

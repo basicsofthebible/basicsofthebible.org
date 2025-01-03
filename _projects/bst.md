@@ -15,13 +15,13 @@ image:
     480w:  /assets/img/projects/bst@0,25x.jpg
 links:
   - title: PDF
-    url: assets/pdfs/BibleStructureTimeline.pdf
+    url: ../assets/pdfs/BibleStructureTimeline.pdf
 sitemap: false
 ---
 
 Description of BST graphic.
 
-# Download  (can this be made into an element?)
+# Download
 - JPG (size)
 - PDF (size)
 

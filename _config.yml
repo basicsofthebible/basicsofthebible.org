@@ -68,7 +68,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             CC 2025. Materials are provided free of charge, are marked with the Creative Commons logo, and can be printed, copied, and distributed.
+copyright:             Creative Commons CC BY-NC-SA 4.0, 2025.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/

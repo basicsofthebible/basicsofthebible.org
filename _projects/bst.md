@@ -22,25 +22,26 @@ sitemap: false
 Description of BST graphic.
 
 # Download
-- JPG (size)
-- PDF (size)
+- JPG Old Testament (size)
+- JPG New Testament (size)
+- PDF Legal print size (size)
 
 # Translated versions  
-1. Arabic
-2. Bahasa Indonesian
-3. Chinese (Simplified)
-4. Chinese (Traditional)
-5. Chinese (Pinyin)
-6. French
-7. German
-8. Hindi
-9. Hungarian
-10. Italian
-11. Japanese
-12. Korean
-13. Portugeuse
-14. Russian
-15. Spanish
-16. Thai
-17. Vietnamese
+1. Arabic pdf jpg OT jpg NT
+2. Bahasa Indonesian pdf jpg OT jpg NT
+3. Chinese (Simplified) pdf jpg OT jpg NT
+4. Chinese (Traditional) pdf jpg OT jpg NT
+5. Chinese (Pinyin) pdf jpg OT jpg NT
+6. French pdf jpg OT jpg NT
+7. German pdf jpg OT jpg NT
+8. Hindi pdf jpg OT jpg NT
+9. Hungarian pdf jpg OT jpg NT
+10. Italian pdf jpg OT jpg NT
+11. Japanese pdf jpg OT jpg NT
+12. Korean pdf jpg OT jpg NT
+13. Portugeuse pdf jpg OT jpg NT
+14. Russian pdf jpg OT jpg NT
+15. Spanish pdf jpg OT jpg NT
+16. Thai pdf jpg OT jpg NT
+17. Vietnamese pdf jpg OT jpg NT
 {:.figcaption}

@@ -3,7 +3,6 @@ layout: projects
 title: Projects
 show_collection: projects
 description: >
-  How people are using Hydejack in the real world. 
-  This page is built using the `projects` layout* that you can use yourself to build a portfolio.
+  Beautifully-crafted visualizations that facilitate understanding of the Bible. Designed for new learners who have little or no prior background in the Bible but are interested in learning more, and for experienced learners who want to deepen their understanding.
 no_groups: true
 ---

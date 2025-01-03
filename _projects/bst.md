@@ -15,7 +15,7 @@ image:
     480w:  /assets/img/projects/bst@0,25x.jpg
 links:
   - title: PDF
-    url: "{{ site.baseurl }}/assets/pdfs/BibleStructureTimeline.pdf"
+    url: assets/pdfs/BibleStructureTimeline.pdf
 sitemap: false
 ---
 

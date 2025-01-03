@@ -297,7 +297,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /projects/:path/
+    permalink:         /graphics/:path/
     output:            true
 
 

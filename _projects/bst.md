@@ -1,6 +1,6 @@
 ---
 layout: project
-title: '@bst'
+title: 'bst'
 caption: Bible Structure and Timeline
 description: >
   A visual guide that illustrates the structure of the Bible, arranged chronologically. 
@@ -22,25 +22,25 @@ sitemap: false
 Description of BST graphic.
 
 # Download  (can this be made into an element?)
-JPG (size)
-PDF (size)
+- JPG (size)
+- PDF (size)
 
 # Translated versions  
-Arabic
-Bahasa Indonesian
-Chinese (Simplified)
-Chinese (Traditional)
-Chinese (Pinyin)
-French
-German
-Hindi
-Hungarian
-Italian
-Japanese
-Korean
-Portugeuse
-Russian
-Spanish
-Thai
-Vietnamese
+1. Arabic
+2. Bahasa Indonesian
+3. Chinese (Simplified)
+4. Chinese (Traditional)
+5. Chinese (Pinyin)
+6. French
+7. German
+8. Hindi
+9. Hungarian
+10. Italian
+11. Japanese
+12. Korean
+13. Portugeuse
+14. Russian
+15. Spanish
+16. Thai
+17. Vietnamese
 {:.figcaption}

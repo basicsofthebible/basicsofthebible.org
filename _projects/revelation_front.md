@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'revelation_front'
-caption: The Revelation of Jesus Christ (front side of graphic)
+caption: Revelation (front side of graphic)
 description: >
   A graphic layout of the book of Revelation (front side of graphic), focusing on the Seven churches of Revelation, and an overview of the interpretative frameworks for understanding the book of Revelation. 
   Formatted for large, tabloid-size paper (11x17 in).

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'revelation_reverse'
-caption: The Revelation of Jesus Christ (reverse side of graphic)
+caption: Revelation (reverse side of graphic)
 description: >
   A structure of the book of Revelation (reverse side of graphic), as a series of visions and interludes to better facilitate interpretation of this complex book. Includes a tabulation of cross-references with other scripture (from Open Bible), and the chiastic organization (from Bibilcal Blueprints).  
   Formatted for large, tabloid-size paper (11x17 in).

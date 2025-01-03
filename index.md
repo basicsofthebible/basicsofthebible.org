@@ -1,6 +1,6 @@
 ---
 layout: page
-title: basics of the bible | explaining the bible visually
+title: explaining the bible visually
 sitemap: false
 ---
 

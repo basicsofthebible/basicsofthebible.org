@@ -50,8 +50,10 @@ author:
 menu:
   #- title:             Blog
   #  url:               /blog/
-  - title:             Projects
+  - title:             Graphics
     url:               /projects/
+  - title:             Study Guide
+    url:               /studyguide/
   #- title:             Résumé*
   #  url:               /resume/
   - title:             Documentation

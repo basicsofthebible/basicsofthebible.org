@@ -370,7 +370,7 @@ plugins:
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/basicsofthebible
+#     - https://github.com/<username>
 
 
 # Plugin Configs

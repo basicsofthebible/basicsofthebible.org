@@ -19,7 +19,7 @@ links:
 sitemap: false
 ---
 
-Description of BST graphic.
+I created this graphic as a means to visualize both the structure of the Bible as well as providing a rough timeline of the historical events recorded in each book of the Bible. Of course, when creating a big picture view such as this, it isn’t always possible to accurately represent all the detailed historical information recorded in the Bible. The color scheme and structural organization of the books of the Bible was inspired by *Walk Thru the Old Testament*. The timeline material comes from my own research used in the *Interactive Timeline of Bible History*.
 
 # Download
 - PNG Old Testament (size)
@@ -27,21 +27,21 @@ Description of BST graphic.
 - PDF Legal print size (size)
 
 # Translated versions  
-1. Arabic pdf jpg OT jpg NT
-2. Bahasa Indonesian pdf jpg OT jpg NT
-3. Chinese (Simplified) pdf jpg OT jpg NT
-4. Chinese (Traditional) pdf jpg OT jpg NT
-5. Chinese (Pinyin) pdf jpg OT jpg NT
-6. French pdf jpg OT jpg NT
-7. German pdf jpg OT jpg NT
-8. Hindi pdf jpg OT jpg NT
-9. Hungarian pdf jpg OT jpg NT
-10. Italian pdf jpg OT jpg NT
-11. Japanese pdf jpg OT jpg NT
-12. Korean pdf jpg OT jpg NT
-13. Portugeuse pdf jpg OT jpg NT
-14. Russian pdf jpg OT jpg NT
-15. Spanish pdf jpg OT jpg NT
-16. Thai pdf jpg OT jpg NT
-17. Vietnamese pdf jpg OT jpg NT
+1. Arabic pdf png OT png NT
+2. Bahasa Indonesian pdf png OT png NT
+3. Chinese (Simplified) pdf png OT png NT
+4. Chinese (Traditional) pdf png OT png NT
+5. Chinese (Pinyin) pdf png OT png NT
+6. French pdf png OT png NT
+7. German pdf png OT png NT
+8. Hindi pdf png OT png NT
+9. Hungarian pdf png OT png NT
+10. Italian pdf png OT png NT
+11. Japanese pdf png OT png NT
+12. Korean pdf png OT png NT
+13. Portugeuse pdf png OT png NT
+14. Russian pdf png OT png NT
+15. Spanish pdf png OT png NT
+16. Thai pdf png OT png NT
+17. Vietnamese pdf png OT png NT
 {:.figcaption}

@@ -22,8 +22,8 @@ sitemap: false
 Description of BST graphic.
 
 # Download
-- JPG Old Testament (size)
-- JPG New Testament (size)
+- PNG Old Testament (size)
+- PNG New Testament (size)
 - PDF Legal print size (size)
 
 # Translated versions  

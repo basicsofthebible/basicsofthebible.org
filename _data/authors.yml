@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Shawn Handran
+  email:             bb@basicsofthebible.org
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -28,7 +28,7 @@ author1:
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
     twitter:         <username>
-    github:          <username>
+    github:          basicsofthebible
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -51,14 +51,14 @@ author1:
     # steam:           <number>
     # reddit:          <username>
     # tumblr:          <username>
-    # pinterest:       <username>
+    pinterest:       basicsbible
     # foursquare:      <number>
     # yelp:            <string>
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        shawnhandran
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

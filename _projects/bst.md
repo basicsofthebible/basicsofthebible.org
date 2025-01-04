@@ -8,11 +8,11 @@ description: >
   Available in over a dozen languages.
 date: 1 Jan 2008
 image: 
-  path: /assets/img/projects/bst.jpg
+  path: /assets/img/projects/bst.png
   srcset: 
-    1920w: /assets/img/projects/bst.jpg
-    960w:  /assets/img/projects/bst@0,5x.jpg
-    480w:  /assets/img/projects/bst@0,25x.jpg
+    1920w: /assets/img/projects/bst.png
+    960w:  /assets/img/projects/bst@0,5x.png
+    480w:  /assets/img/projects/bst@0,25x.png
 links:
   - title: PDF
     url: ../../assets/pdfs/BibleStructureTimeline.pdf

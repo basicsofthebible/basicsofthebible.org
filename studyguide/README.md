@@ -34,7 +34,7 @@ Most people that are new to the Bible approach it like any other book that they 
 * [關於這本導讀]{:.heading.flip-title} --- 關於這本導讀。
 {:.related-posts.faded}
 
-[Introduction]: eng0.md
+[Introduction]: Introduction.md
 [TheBasics]: eng1.md
 [DigDeeper]: eng2.md
 [NextSteps]: eng3.md

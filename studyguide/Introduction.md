@@ -57,6 +57,9 @@ The Bible is numbered so that it is easy to navigate and find a particular passa
 
 Most of the books are divided into chapters (a few of the smallest books have a single un-numbered chapter), and each chapter in turn is divided into verses. A verse is typically one or two sentences. Even those that are unfamiliar with the Bible have probably heard someone quote or refer to John 3:16. This means the book of John, chapter 3, verse 16. When looking up books in the Bible, refer to the table of contents. In this example, the book of John, or the Gospel of John as it is known by its longer title, is located toward the back of the Bible. Once you locate John, flip through a couple of pages until you reach chapter 3. In most Bibles, the font size of the chapter number is much larger than the rest of the text whereas the verse number is a small superscript number embedded within the text itself. See examples:
 
+Genesis 1:1	1<sup>1</sup>In the beginning God created the heavens and the earth.  
+
+
 
     Genesis 1:1	1<sup>1</sup>In the beginning God created the heavens and the earth.
 

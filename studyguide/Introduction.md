@@ -59,9 +59,4 @@ Most of the books are divided into chapters (a few of the smallest books have a 
 
 Genesis 1:1	1<sup>1</sup>In the beginning God created the heavens and the earth.  
 
-
-
-    Genesis 1:1	1<sup>1</sup>In the beginning God created the heavens and the earth.
-
-
-    John 3:16	<sup>16</sup>For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
+John 3:16	<sup>16</sup>For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.

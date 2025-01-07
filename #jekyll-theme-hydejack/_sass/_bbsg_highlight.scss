@@ -2,7 +2,7 @@
 $bbsg-highlight-light-text: #990000; // Bold red text for light mode
 $bbsg-highlight-light-bg: #ffffff;   // White background for light mode (no visible background)
 $bbsg-highlight-dark-text: #990000;  // Vivid yellow text for dark mode
-$bbsg-highlight-dark-bg: #4a4a4a;    // Middle-grey background for dark mode
+$bbsg-highlight-dark-bg: #eeeeee;    // Light-grey background for dark mode
 
 // Mixin for light mode
 @mixin bbsg-highlight-light {

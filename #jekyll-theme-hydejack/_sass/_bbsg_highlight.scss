@@ -1,13 +1,14 @@
 // Define variables for light and dark mode colors
-$bbsg-highlight-light-bg: #fffae6; // Light yellow background for light mode
-$bbsg-highlight-dark-bg: #3b3a30; // Dark yellowish-brown background for dark mode
-$bbsg-highlight-light-text: #333;  // Dark text for light mode
-$bbsg-highlight-dark-text: #f8f8f2; // Light text for dark mode
+$bbsg-highlight-light-bg: #ffffff; // white background for light mode
+$bbsg-highlight-dark-bg: #4a4a4a; // Medium grey background for dark mode
+$bbsg-highlight-light-text: #990000;  // Bold red text for light mode
+$bbsg-highlight-dark-text: #ffcc00; // Vivid yellow text for dark mode
 
 // Mixin for light mode
 @mixin bbsg-highlight-light {
   background-color: $bbsg-highlight-light-bg;
   color: $bbsg-highlight-light-text;
+  font-weight: bold;
   border: 1px solid lighten($bbsg-highlight-light-bg, 20%);
   padding: 0.2em 0.4em;
   border-radius: 4px;
@@ -17,6 +18,7 @@ $bbsg-highlight-dark-text: #f8f8f2; // Light text for dark mode
 @mixin bbsg-highlight-dark {
   background-color: $bbsg-highlight-dark-bg;
   color: $bbsg-highlight-dark-text;
+  font-weight: bold;
   border: 1px solid darken($bbsg-highlight-dark-bg, 20%);
   padding: 0.2em 0.4em;
   border-radius: 4px;

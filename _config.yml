@@ -50,13 +50,15 @@ author:
 menu:
   #- title:             Blog
   #  url:               /blog/
-  - title:             Projects
-    url:               /projects/
+  - title:             BST
+    url:               /bst/
   - title:             Guide
     url:               /studyguide/
+  - title:             Projects
+    url:               /projects/
   #- title:             Résumé*
   #  url:               /resume/
-  - title:             Documentation
+  - title:             Source
     url:               /docs/
 
 # Add links to the footer.

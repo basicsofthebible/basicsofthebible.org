@@ -50,8 +50,9 @@ The Bible consists of the <span class="bbsg_highlight">Hebrew</span> and <span c
 
 The <span class="bbsg_highlight">Hebrew</span> Scriptures contain <span class="bbsg_highlight">39 books</span> written by many different authors over a one thousand year period, between approximately 1400-400 BC. Except for a few sections, it is written entirely in Hebrew. A more detailed description of the Hebrew Scriptures is included later in this study, but for the purposes of this introduction, it is sufficient to summarize that the Hebrew Scriptures as a whole tell of a special and unique task that the Creator God gave to the descendants of a man named Abraham—the <span class="bbsg_highlight">Israelites</span>. The purpose of this task was that the Israelites were "commissioned" to tell all the other people of the world about the <span class="bbsg_highlight">Creator God</span>. The Hebrew Scriptures contain many references of the coming of a Messiah (which is the Hebrew word for savior or rescuer).
 
+![Full-width image](../assets/img/projects/bst.png){:.lead width="800" height="100" loading="lazy"}
 Old Testament Structure and Timeline
- ![Full-width image](../assets/img/projects/bst.png){:.lead width="800" height="100" loading="lazy"}
+{:.figcaption}
 
 The <span class="bbsg_highlight">Greek</span> Scriptures contain <span class="bbsg_highlight">27 books</span>, also written by several different authors over a period of approximately 50 years, around 40-90 AD. The Greek Scriptures show how the Creator God entered into history by becoming a human, fulfilling what was written in the Hebrew Scriptures about the coming <span class="bbsg_highlight">Messiah</span> (Savior). The Messiah is a descendant of Abraham named Yeshua (Joshua), or as translated in English: Jesus. The Greek word for Messiah is Christos, from which the title <span class="bbsg_highlight">Christ</span> is derived. Today, we put the name and title together: Jesus (the) Christ.
 

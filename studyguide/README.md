@@ -2,7 +2,7 @@
 title: Guide
 description: >
   A self-directed reading plan and study guide for people that are new to the Bible and want to learn what it means to be a follower of Jesus.
-hide_description: true
+hide_description: false
 sitemap: false
 permalink: /studyguide/
 ---

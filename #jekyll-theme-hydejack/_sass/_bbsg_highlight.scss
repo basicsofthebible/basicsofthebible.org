@@ -1,10 +1,33 @@
-.bbsg_highlight {
-  color: #990000; // Light mode: Red text
-  background-color: #ffffff; // Light mode: White background
-  font-weight: bold;
+// Define variables for light and dark mode styles
+$bbsg-highlight-light-text: #990000; // Bold red text for light mode
+$bbsg-highlight-light-bg: #ffffff;   // White background for light mode (no visible background)
+$bbsg-highlight-dark-text: #990000;  // Vivid yellow text for dark mode
+$bbsg-highlight-dark-bg: #4a4a4a;    // Middle-grey background for dark mode
 
+// Mixin for light mode
+@mixin bbsg-highlight-light {
+  color: $bbsg-highlight-light-text;
+  background-color: $bbsg-highlight-light-bg;
+  font-weight: bold;
+  padding: 0.2em 0.4em;
+  border-radius: 4px; // Optional: keeps styling consistent
+}
+
+// Mixin for dark mode
+@mixin bbsg-highlight-dark {
+  color: $bbsg-highlight-dark-text;
+  background-color: $bbsg-highlight-dark-bg;
+  font-weight: bold;
+  padding: 0.2em 0.4em;
+  border-radius: 4px; // Optional: consistent with light mode
+}
+
+// Style for the bbsg_highlight span
+.bbsg_highlight {
+  @include bbsg-highlight-light(); // Default to light mode
+
+  // Apply dark mode styles when dark mode is active
   @media (prefers-color-scheme: dark) {
-    color: #ffcc00; // Dark mode: Yellow text
-    background-color: #4a4a4a; // Dark mode: Grey background
+    @include bbsg-highlight-dark();
   }
 }

@@ -343,6 +343,9 @@ plugins:
   - jekyll-last-modified-at
 
 
+# Google Analytics
+google_analytics: G-EXW33YYNJZ
+
 # SEO Tag
 # ---------------------------------------------------------------------------------------
 

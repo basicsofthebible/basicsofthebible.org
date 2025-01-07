@@ -56,7 +56,9 @@ Old Testament Structure and Timeline
 
 The <span class="bbsg_highlight">Greek</span> Scriptures contain <span class="bbsg_highlight">27 books</span>, also written by several different authors over a period of approximately 50 years, around 40-90 AD. The Greek Scriptures show how the Creator God entered into history by becoming a human, fulfilling what was written in the Hebrew Scriptures about the coming <span class="bbsg_highlight">Messiah</span> (Savior). The Messiah is a descendant of Abraham named Yeshua (Joshua), or as translated in English: Jesus. The Greek word for Messiah is Christos, from which the title <span class="bbsg_highlight">Christ</span> is derived. Today, we put the name and title together: Jesus (the) Christ.
 
+![Full-width image](../assets/img/projects/bstnt.png){:.lead width="800" height="100" loading="lazy"}
 New Testament Structure and Timeline
+{:.figcaption}
 
 # Navigating the Bible: Chapters and Verses
 The Bible is <span class="bbsg_highlight">numbered</span> so that it is easy to navigate and find a particular passage.

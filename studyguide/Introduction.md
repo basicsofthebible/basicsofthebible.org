@@ -18,7 +18,7 @@ sitemap: false
 # Welcome 
 This course is designed for the person that wants to learn what it means to become or be a follower of Jesus. Many people that seek this knowledge realize that the Bible is where they must look, but have been hampered in their quest for one reason or another (e.g. intimidated by the size of the Bible, don't know where to begin, tried to read the Bible but couldn't make sense of it, got discouraged, etc.).
 
-This is a self-directed study to assist you in your quest for answers. It is intended to take you rapidly through select books of the Bible to give you a "big picture" overview of what it means to be or become a follower of Jesus, and to become familiarized with the Bible—which is the definitive handbook for those who want to follow Jesus. For maximum benefit, plan on spending about 30 minutes every day for the next few weeks.
+This is a <span class="bbsg_highlight">self-directed study</span> to assist you in your quest for answers. It is intended to take you rapidly through select books of the Bible to give you a "big picture" overview of what it means to be or become a follower of Jesus, and to become familiarized with the Bible—which is the definitive handbook for those who want to follow Jesus. For maximum benefit, plan on spending about 30 minutes every day for the next few weeks.
 
 The course consists of two parts: the first covers the basics and can be completed in two weeks. The second part "digs deeper" into the Bible and takes an additional five weeks of daily reading. This study lays the basic foundation for understanding the Bible and what it means to be a follower of Jesus.
 

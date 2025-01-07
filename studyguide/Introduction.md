@@ -18,23 +18,23 @@ sitemap: false
 # Welcome 
 This course is designed for the person that wants to learn what it means to become or be a follower of Jesus. Many people that seek this knowledge realize that the Bible is where they must look, but have been hampered in their quest for one reason or another (e.g. intimidated by the size of the Bible, don't know where to begin, tried to read the Bible but couldn't make sense of it, got discouraged, etc.).
 
-This is a <span class="bbsg_highlight">self-directed study</span> to assist you in your quest for answers. It is intended to take you rapidly through select books of the Bible to give you a "big picture" overview of what it means to be or become a follower of Jesus, and to become familiarized with the Bible—which is the definitive handbook for those who want to follow Jesus. For maximum benefit, plan on spending about 30 minutes every day for the next few weeks.
+This is a <span class="bbsg_highlight">self-directed study</span> to assist you in your quest for answers. It is intended to take you rapidly through select books of the Bible to give you a "<span class="bbsg_highlight">big picture</span>" overview of what it means to be or become a follower of Jesus, and to become familiarized with the Bible—which is the definitive handbook for those who want to follow Jesus. For maximum benefit, plan on spending about <span class="bbsg_highlight">30 minutes</span> every day for the next few weeks.
 
-The course consists of two parts: the first covers the basics and can be completed in two weeks. The second part "digs deeper" into the Bible and takes an additional five weeks of daily reading. This study lays the basic foundation for understanding the Bible and what it means to be a follower of Jesus.
+The course consists of <span class="bbsg_highlight">two parts</span>: the first covers the basics and can be completed in two weeks. The second part "digs deeper" into the Bible and takes an additional five weeks of daily reading. This study lays the basic foundation for understanding the Bible and what it means to be a follower of Jesus.
 
-After completing this course, you will be equipped, empowered and excited to continue your study of the Bible.
+After completing this course, you will be <span class="bbsg_highlight">equipped, empowered</span> and <span class="bbsg_highlight">excited</span> to continue your study of the Bible.
 
 # The Non-Sequential Reading Approach
 Most people that are new to the Bible approach it like any other book that they read—they start at the beginning and read linearly through to the end. 
 
-However, this often leads to frustration because a linear reading approach does not readily facilitate an understanding of the Bible as you are reading it. This course takes a different approach by taking you through books of the Bible in a non-sequential order. As such, this facilitates a greater understanding of the big picture of the Bible as you are reading it—that is, as you progress through the daily reading schedule, you will understand more and more what the Bible is saying.
+However, this often leads to frustration because a linear reading approach does not readily facilitate an understanding of the Bible *<span class="bbsg_highlight">as you are reading it</span>*. This course takes a different approach by taking you through books of the Bible in a <span class="bbsg_highlight">non-sequential</span> order. As such, this facilitates a <span class="bbsg_highlight">greater understanding</span> of the big picture of the Bible as you are reading it—that is, as you progress through the daily reading schedule, you will understand more and more what the Bible is saying.
 
 # Getting Started
-You will need a Bible and a pencil or highlighter.
+You will need a <span class="bbsg_highlight">Bible</span> and a <span class="bbsg_highlight">pencil</span> or <span class="bbsg_highlight">highlighter</span>.
 
-It is not necessary to buy a study version of the Bible for this course, but you may find it beneficial in the long term to start this course using a study Bible. If English is your native language (fn), choose a modern Bible translation—NIV, NRSV, NASB, ESV and NKJV are all excellent choices—but avoid paraphrase versions for this study. (Paraphrase versions are excellent for getting a different perspective on a word in the original Greek or Hebrew text, but this type of study should be saved for later in your journey.)
+It is not necessary to buy a study version of the Bible for this course, but you may find it beneficial in the long term to start this course using a study Bible. If English is your native language[^1], choose a modern Bible translation—NIV, NRSV, NASB, ESV and NKJV are all excellent choices—but avoid paraphrase versions for this study. (Paraphrase versions are excellent for getting a different perspective on a word in the original Greek or Hebrew text, but this type of study should be saved for later in your journey.)
 
-(fn) Generally, you'll understand the Bible best in your first language, so feel free to use that translation if it is available in your native tongue. If you are bilingual, use the language with which you are most comfortable
+[^1]: Generally, you'll understand the Bible best in your first language, so feel free to use that translation if it is available in your native tongue. If you are bilingual, use the language with which you are most comfortable
 
 # The Importance of Daily Reading
 Carve out time each day to complete the readings.

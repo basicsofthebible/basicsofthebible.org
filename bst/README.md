@@ -1,5 +1,5 @@
 ---
-title: BST
+title: Bible Structure and Timeline
 description: >
   A visual guide that illustrates the structure of the Bible, arranged chronologically. 
 hide_description: false

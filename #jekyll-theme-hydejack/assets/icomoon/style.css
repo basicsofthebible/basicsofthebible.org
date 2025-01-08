@@ -352,9 +352,9 @@
 .icon-history:before {
   content: "\1f552";
 }
-.file-picture:before {
+.icon-file-picture:before {
   content: "\eadf";
 }
-.file-zip:before {
+.icon-file-zip:before {
   content: "\e92b"
 }

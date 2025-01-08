@@ -23,86 +23,86 @@ Old Testament Structure and Timeline
 
 # Translated versions  
 ## العربية Arabic 
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/الترتيبالزمنيوالهيكليالكتابالمقدس.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Bahasa Indonesian
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/StrukturdanKronologiAlkitab_BahasaIndonesia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## 简体中文 Chinese (Simplified)
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/圣经架构与时间表(简化字).pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## 繁體中文 Chinese (Traditional)
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/聖經架構與時間表(繁體字).pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Chinese (Pinyin)
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/SimplifiedChinesePinyin.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Français French
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/StructureBibliqueEtChronologie.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Deutsch German
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/GliederungUndZeitleisteDerBibel.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ##  हिंदी भाषा Hindi
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/बाइबिलसंरचनाऔरसमयरेखा.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Magyar Hungarian
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/BibliaSzerkezeteEsIdorendje.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Italiano Italian
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/StrutturaELineaCronologicaDellaBibbia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ##  日本語 Japanese
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/聖書の構造と時系列.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## 한국어 Korean
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/성경의구조와%20연대기.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Português Portugeuse
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/EstruturaBiblicaECronologia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Русский Russian
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/БиблейскаяСтруктураиИсторическаяЛиния.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Español Spanish
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/EstructuraBiblicaYCronograma.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## ภาษาไทย Thai
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/โครงสร้างและช่วงเวลาในพระคัมภีร์.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Tiếng Việt Vietnamese
-[PDF](){:.heading.flip-title} <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/VietnameseBST.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>

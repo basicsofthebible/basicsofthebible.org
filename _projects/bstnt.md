@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'bstt'
+title: 'bstnt'
 caption: Bible Structure and Timeline New Testament
 description: >
   A visual guide that illustrates the structure of the Bible, arranged chronologically. 

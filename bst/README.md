@@ -12,7 +12,7 @@ Available in over a dozen languages.
 {:.note}
 
 # BST in English
-[PDF](assets/pdfs/BibleStructureTimeline.pdf) <span class="icon-file-pdf"></span>
+[PDF](../assets/pdfs/BibleStructureTimeline.pdf) <span class="icon-file-pdf"></span>
 
 
 

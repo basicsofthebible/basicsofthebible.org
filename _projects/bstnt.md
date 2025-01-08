@@ -6,7 +6,7 @@ description: >
   A visual guide that illustrates the structure of the Bible, arranged chronologically. 
   Provides a better understanding of when the events described in the Bible occurred in history. 
   Available in over a dozen languages.
-date: 1 Jan 2010
+date: 1 Jan 2008
 image: 
   path: /assets/img/projects/bstnt.png
   srcset: 

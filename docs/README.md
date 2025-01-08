@@ -14,4 +14,4 @@ Materials are provided free of charge, are marked with the Creative Commons logo
 Create your own translation of the Bible Structure and Timeline in Adobe Illustrator or Microsoft Publisher.
 
 * [Illustrator]() files (LTR languages) <span class="icon-file-zip"></span> (25 MB zip)
-* [Publisher]() files (RTL languages) <span class="icon-file-zip"></span> (25 MB zip) (0.2 MB zip)
+* [Publisher]() files (RTL languages) <span class="icon-file-zip"></span> (0.2 MB zip)

@@ -2,7 +2,7 @@
 title: Source
 description: >
   Permissions and BST source files.
-hide_description: false
+hide_description: true
 sitemap: false
 permalink: /docs/
 ---

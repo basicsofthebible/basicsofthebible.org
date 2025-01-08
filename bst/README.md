@@ -17,8 +17,10 @@ Available in over a dozen languages.
 [PNG NT](../assets/img/projects/bstnt.png) <span class="icon-file-picture"></span>
 
 # Translated versions  
-## Arabic
-[pdf]() OT [png]() NT [png]()
+## العربية Arabic 
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG]() <span class="icon-file-picture"></span>
+[PNG]() <span class="icon-file-picture"></span>
 
 2. Bahasa Indonesian pdf png OT png NT
 3. Chinese (Simplified) pdf png OT png NT

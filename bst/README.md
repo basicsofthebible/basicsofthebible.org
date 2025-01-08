@@ -11,7 +11,7 @@ Provides a better understanding of when the events described in the Bible occurr
 Available in over a dozen languages.
 {:.note}
 
-![Actual-width image](../assets/img/projects/bstot@0,25x.png){: width="480" height="270" loading="lazy"}
+![Full-width image](../assets/img/projects/bstot.png){:.lead width="800" height="100" loading="lazy"}
 Old Testament Structure and Timeline
 {:.figcaption}
 

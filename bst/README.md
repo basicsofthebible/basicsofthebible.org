@@ -14,7 +14,7 @@ Available in over a dozen languages.
 # BST in English
 [PDF](../assets/pdfs/BibleStructureTimeline.pdf) <span class="icon-file-pdf"></span>
 [PNG OT](../assets/img/projects/bstot.png) <span class="icon-file-picture"></span>
-
+[PNG NT](../assets/img/projects/bstnt.png) <span class="icon-file-picture"></span>
 
 # Translated versions  
 ## Arabic

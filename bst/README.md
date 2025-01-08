@@ -12,7 +12,9 @@ Available in over a dozen languages.
 {:.note}
 
 # BST in English
-* [PDF]{:.heading.flip-title}(assets/pdfs/BibleStructureTimeline.pdf)
+[PDF](assets/pdfs/BibleStructureTimeline.pdf) <span class="icon-file-pdf"></span>
+
+
 
 # Translated versions  
 ## Arabic

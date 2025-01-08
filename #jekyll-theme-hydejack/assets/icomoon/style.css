@@ -353,5 +353,8 @@
   content: "\1f552";
 }
 .file-picture:before {
-  content: "\e901";
+  content: "\eadf";
+}
+.file-zip:before {
+  content: "\e92b"
 }

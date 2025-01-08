@@ -352,3 +352,6 @@
 .icon-history:before {
   content: "\1f552";
 }
+.icon-picture:before {
+  content: "\e900";
+}

@@ -43,7 +43,7 @@ Psalm 119 is telling us that to know the Creator God you must know His law, ordi
 
 # Download
 [PDF](../assets/pdfs/psalm119.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> banner (1.6 MB)  
-[PDF](../assets/pdfs/Psalm119paginated.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> pagniated 17x10 in (1.8 MB)  
+[PDF](../assets/pdfs/Psalm119paginated.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> paginated 16:9 widescreen format (1.8 MB)  
 [PNG](../assets/img/projects/psalm119.png){:.heading.flip-title} <span class="icon-file-picture"></span> banner 13x120 in (size MB)  
 [ZIP](../assets/img/projects/psalm119paginated.zip){:.heading.flip-title} <span class="icon-file-zip"></span> paginated (size MB zip)
 

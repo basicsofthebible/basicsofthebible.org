@@ -10,7 +10,7 @@ permalink: /bst/
 Provides a better understanding of when the events described in the Bible occurred in history. 
 Available in over a dozen languages.
 {:.note}
-0
+
 # BST in English
 [PDF](../assets/pdfs/BibleStructureTimeline.pdf) <span class="icon-file-pdf"></span>
 [PNG OT](../assets/img/projects/bstot.png) <span class="icon-file-zip"></span>

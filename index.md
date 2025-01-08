@@ -12,6 +12,10 @@ The groundwork for Basics of the Bible was laid in 2007 when I created study gui
 ## Start here
 
 
+## Share <span class="icon-qrcode"></span>
+
+ ![Actual-size image](assets/img/misc/homepage_qr.png){:.lead loading="lazy"}
+
 ## Delete
 
 Start by reading the [Documentation]{:.heading.flip-title}.

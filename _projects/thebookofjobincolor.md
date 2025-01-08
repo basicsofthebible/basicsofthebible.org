@@ -3,7 +3,7 @@ layout: project
 title: 'thebookofjobincolor'
 caption: The Book of Job in Color
 description: >
-I read through the book of Job about once a year and find it very difficult to interpret. It occurred to me one day that it would be helpful to color the text according to each speaker, so that I could remember who is speaking (since Job is mainly a series of speeches written as poetry), with the hope that this would facilitate understanding and interpreting this complex and amazing book. The reader should fully appreciate that my own commentary is itself an oversimplified interpretation—the very thing that I critique of Job and his friends.
+I read through the book of Job about once a year and find it very difficult to interpret. It occurred to me one day that it would be helpful to color the text according to each speaker, so that I could remember who is speaking (since Job is mainly a series of speeches written as poetry), with the hope that this would facilitate understanding and interpreting this complex and amazing book.
 date: 1 Jan 2012
 image: 
   path: /assets/img/projects/thebookofjobincolor.png

@@ -3,8 +3,7 @@ layout: project
 title: 'revelation_reverse'
 caption: Revelation (reverse side of graphic)
 description: >
-  A structure of the book of Revelation (reverse side of graphic), as a series of visions and interludes to better facilitate interpretation of this complex book. Includes a tabulation of cross-references with other scripture (from Open Bible), and the chiastic organization (from Bibilcal Blueprints).  
-  Formatted for large, tabloid-size paper (11x17 in).
+  The structure of the book of Revelation (reverse side of graphic), as a series of visions and interludes.
 date: 1 Jan 2025
 image: 
   path: /assets/img/projects/revelation_reverse.jpg
@@ -18,11 +17,11 @@ links:
 sitemap: false
 ---
 
-Description of Revelation graphic (reverse).
+The graphic facilitates interpretation of this complex book. Includes a tabulation of cross-references with other scripture (from Open Bible), and the chiastic organization (from [Bibilcal Blueprints](https://revelation.biblicalblueprints.com/home)). Formatted for large, tabloid-size paper (11x17 in).
 
 # Download
-- JPG front side (size)
-- JPG reverse side (size)
-- PDF Tabloid print size (size)
+[PDF](../assets/pdfs/Revelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Legal print size (0.4 MB)  
+[PNG](../assets/img/projects/revelation_front.png){:.heading.flip-title} <span class="icon-file-picture"></span> Revelation (front) tabloid print size (size MB)  
+[PNG](../assets/img/projects/revelation_reverse.png){:.heading.flip-title} <span class="icon-file-picture"></span> Revelation (reverse) tabloid print size (size MB)
 
 {:.figcaption}

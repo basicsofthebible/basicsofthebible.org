@@ -12,11 +12,11 @@ Available in over a dozen languages.
 {:.note}
 
 # BST in English
-* [Introduction]{:.heading.flip-title} --- Before you start the 49 day reading plan.
+* [PDF]{:.heading.flip-title}(assets/pdfs/BibleStructureTimeline.pdf)
 
 # Translated versions  
 ## Arabic
-[pdf](assets/pdfs/BibleStructureTimeline.pdf) OT [png]() NT [png]()
+[pdf]() OT [png]() NT [png]()
 
 2. Bahasa Indonesian pdf png OT png NT
 3. Chinese (Simplified) pdf png OT png NT

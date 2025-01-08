@@ -358,3 +358,9 @@
 .icon-file-zip:before {
   content: "\e92b"
 }
+.icon-qrcode:before {
+  content: "\e938"
+}
+.icon-fire:before {
+  content: "\e9a9"
+}

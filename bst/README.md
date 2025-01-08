@@ -17,8 +17,8 @@ Old Testament Structure and Timeline
 
 
 # BST in English
-[PDF](../assets/pdfs/BibleStructureTimeline.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.separator }}
-[PNG OT](../assets/img/projects/bstot.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.separator }}
+[PDF](../assets/pdfs/BibleStructureTimeline.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
+[PNG OT](../assets/img/projects/bstot.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
 [PNG NT](../assets/img/projects/bstnt.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 # Translated versions  

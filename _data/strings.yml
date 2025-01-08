@@ -81,7 +81,7 @@ tag_separator:         ', '
 from_to_separator:     '–'
 breadcrumbs_home:      'home'
 breadcrumbs_separator: '/'
-large_separator:       '**&nbsp;|&nbsp;**'
+large_separator:       '**&nbsp;&nbsp;|&nbsp;**'
 
 # Date formats
 # ---------------------------------------------------------------------------------------

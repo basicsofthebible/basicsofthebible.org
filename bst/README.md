@@ -19,22 +19,85 @@ Available in over a dozen languages.
 # Translated versions  
 ## العربية Arabic 
 [PDF]() <span class="icon-file-pdf"></span>
-[PNG]() <span class="icon-file-picture"></span>
-[PNG]() <span class="icon-file-picture"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
 
-2. Bahasa Indonesian pdf png OT png NT
-3. Chinese (Simplified) pdf png OT png NT
-4. Chinese (Traditional) pdf png OT png NT
-5. Chinese (Pinyin) pdf png OT png NT
-6. French pdf png OT png NT
-7. German pdf png OT png NT
-8. Hindi pdf png OT png NT
-9. Hungarian pdf png OT png NT
-10. Italian pdf png OT png NT
-11. Japanese pdf png OT png NT
-12. Korean pdf png OT png NT
-13. Portugeuse pdf png OT png NT
-14. Russian pdf png OT png NT
-15. Spanish pdf png OT png NT
-16. Thai pdf png OT png NT
-17. Vietnamese pdf png OT png NT
+## Bahasa Indonesian
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+## 简体中文 Chinese (Simplified)
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+## 繁體中文 Chinese (Traditional)
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+## Chinese (Pinyin)
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+## Français French
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+## Deutsch German
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+##  हिंदी भाषा Hindi
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+## Magyar Hungarian
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+## Italiano Italian
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+##  日本語 Japanese
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+## 한국어 Korean
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+## Português Portugeuse
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+## Русский Russian
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+## Español Spanish
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+## ภาษาไทย Thai
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>
+
+## Tiếng Việt Vietnamese
+[PDF]() <span class="icon-file-pdf"></span>
+[PNG OT]() <span class="icon-file-picture"></span>
+[PNG NT]() <span class="icon-file-picture"></span>

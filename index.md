@@ -14,7 +14,7 @@ The groundwork for Basics of the Bible was laid in 2007 when I created study gui
 
 ## Share <span class="icon-qrcode"></span>
 
- ![Actual-size image](assets/img/misc/homepage_qr.png){:.lead width="150" height="150" loading="lazy"}
+ ![Actual-size image](assets/img/misc/homepage_qr.png){: width="150" height="150" loading="lazy"}
 
 ## Delete
 

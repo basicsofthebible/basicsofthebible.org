@@ -7,10 +7,10 @@ sitemap: false
 permalink: /docs/
 ---
 
-# Permissions
+## Permissions
 Materials are provided free of charge, are marked with the Creative Commons logo, and can be printed, copied, and distributed.
 
-# BST Source Files
+## BST Source Files
 Create your own translation of the Bible Structure and Timeline in Adobe Illustrator or Microsoft Publisher.
 
 * [Illustrator]() files (LTR languages) <span class="icon-file-zip"></span> (25 MB zip)

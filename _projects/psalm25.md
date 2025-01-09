@@ -6,14 +6,14 @@ description: >
   A visual representation of Psalm 25, an acrostic psalm, in the original Hebrew (The Westminster Leningrad Codex) with English, using the World English Bible version.
 date: 1 Jan 2012
 image: 
-  path: /assets/img/projects/psalm119.png
+  path: /assets/img/projects/psalm25.png
   srcset: 
-    1920w: /assets/img/projects/psalm119.png
-    960w:  /assets/img/projects/psalm119@0,5x.png
-    480w:  /assets/img/projects/psalm119@0,25x.png
+    1920w: /assets/img/projects/psalm25.png
+    960w:  /assets/img/projects/psalm25@0,5x.png
+    480w:  /assets/img/projects/psalm25@0,25x.png
 links:
   - title: PDF
-    url: ../../assets/pdfs/psalm119.pdf
+    url: ../../assets/pdfs/psalm25.pdf
 sitemap: false
 ---
 

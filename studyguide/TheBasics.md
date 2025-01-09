@@ -6,6 +6,9 @@ description: >
 hide_description: true
 sitemap: false
 ---
+* The Basics: Big Picture Summary
+* The Basics Reading Schedule
+* The Basics: Stop and Take a Look Back
 {:toc}
 
 *The Basics* covers <span class="bbsg_highlight">three books</span> from the Greek Scriptures (commonly referred to as the <span class="bbsg_highlight">New Testament</span>) and a portion of the first book of the Hebrew Scriptures (commonly referred to as the Old Testament):
@@ -109,7 +112,7 @@ This passage tells the account of <span class="bbsg_highlight">the first murder<
 ### Day 9: Genesis 6-8
 *Focus point: Genesis 6:5-8*
 
-The depravity of mankind only further deteriorated since the days of Cain and Abel, until it was in such a state that God was grieved to the heart——not that God has a heart like we do, but the author here (tradition states it was Moses) is using imagery that we can relate to in order to understand how God felt. Stop and think of that for a moment——God has feelings and emotion, such as grief and pain. That is an astonishing thought for most people, but it is true. This passage introduces the account of Noah, who found favor with God and through whom God would remake the world and re-establish the human race through a catastrophic flood.
+The <span class="bbsg_highlight">depravity of mankind</span> only further deteriorated since the days of Cain and Abel, until it was in such a state that God was grieved to the heart——not that God has a heart like we do, but the author here (tradition states it was Moses) is using imagery that we can relate to in order to understand <span class="bbsg_highlight">how God felt</span>. Stop and think of that for a moment——God has feelings and emotion, such as grief and pain. That is an astonishing thought for most people, but it is true. This passage introduces the account of Noah, who found favor with God and through whom God would remake the world and re-establish the human race through a catastrophic flood.
 
 ### Day 10: Genesis 9-11
 *Focus point: Genesis 11:1-4*

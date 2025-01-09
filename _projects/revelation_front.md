@@ -17,7 +17,7 @@ links:
 sitemap: false
 ---
 
-A graphic that attempts to facilitate interpretation of this stunningly complex book. Introduces interpretive frameworks, types of symbolism, and a graphic representation of the Seven Churches of Revelation, as described in Chapters 2-3. Formatted for large, tabloid-size paper (11x17 in).
+This graphic attempts to facilitate interpretation of this stunningly complex book through a visual approach. The front side of the graph introduces the interpretive frameworks of Revelation, numerical symbolism found in the book, and a graphic description of the Seven Churches of Revelation, as described in Chapters 2-3. Formatted for large, tabloid-size paper (11x17 in).
 
 # Download
 [PDF](../assets/pdfs/Revelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Legal print size (0.4 MB)  

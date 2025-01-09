@@ -35,20 +35,20 @@ Most people that are new to the Bible approach it like any other book that they 
 {:.related-posts.faded}
 
 [Introduction]: Introduction.md
-[TheBasics]: eng1.md
-[DigDeeper]: eng2.md
-[NextSteps]: eng3.md
-[About]: eng4.md
+[TheBasics]: TheBasics.md
+[DigDeeper]: DigDeeper.md
+[NextSteps]: NextSteps.md
+[About]: About.md
 
-[开始]: chs0.md
-[基础篇]: chs1.md
-[深度阅读]: chs2.md
-[下一步骤]: chs3.md
-[关于这本导读]: chs4.md
+[开始]: 开始.md
+[基础篇]: 基础篇.md
+[深度阅读]: 深度阅读.md
+[下一步骤]: 下一步骤.md
+[关于这本导读]: 关于这本导读.md
 
-[簡介]: cht0.md
-[基礎篇]: cht1.md
-[深度閱讀]: cht2.md
-[下一步驟]: cht3.md
-[關於這本導讀]: cht4.md
+[簡介]: 簡介.md
+[基礎篇]: 基礎篇.md
+[深度閱讀]: 深度閱讀.md
+[下一步驟]: 下一步驟.md
+[關於這本導讀]: 關於這本導讀.md
 

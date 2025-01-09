@@ -3,8 +3,7 @@ layout: project
 title: 'revelation_front'
 caption: Revelation (front side of graphic)
 description: >
-  A graphic layout of the book of Revelation (front side of graphic), focusing on the Seven churches of Revelation, and an overview of the interpretative frameworks for understanding the book of Revelation. 
-  Formatted for large, tabloid-size paper (11x17 in).
+  A graphic layout of the book of Revelation (front side of graphic), focusing on the Seven churches of Revelation, and an overview of the interpretative frameworks for understanding the book of Revelation.
 date: 1 Jan 2025
 image: 
   path: /assets/img/projects/revelation_front.jpg
@@ -18,11 +17,11 @@ links:
 sitemap: false
 ---
 
-Description of Revelation graphic (front).
+A graphic that attempts to facilitate interpretation of this stunningly complex book. Introduces interpretive frameworks, types of symbolism, and a graphic representation of the Seven Churches of Revelation, as described in Chapters 2-3. Formatted for large, tabloid-size paper (11x17 in).
 
 # Download
-- JPG front side (size)
-- JPG reverse side (size)
-- PDF Tabloid print size (size)
+[PDF](../assets/pdfs/Revelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Legal print size (0.4 MB)  
+[PNG](../assets/img/projects/revelation_front.png){:.heading.flip-title} <span class="icon-file-picture"></span> Revelation (front) tabloid print size (size MB)  
+[PNG](../assets/img/projects/revelation_reverse.png){:.heading.flip-title} <span class="icon-file-picture"></span> Revelation (reverse) tabloid print size (size MB)
 
 {:.figcaption}

@@ -8,8 +8,8 @@ sitemap: false
 ---
 * The Basics: Big Picture Summary
 * The Basics Reading Schedule
-    * Week 1
-    * Week 2
+* Week 1
+* Week 2
 * The Basics: Stop and Take a Look Back
 {:toc}
 
@@ -35,14 +35,13 @@ sitemap: false
 # The Basics Reading Schedule
 
 # Week 1:
-* Day 1: Mark 1-4  
-* Day 2: Mark 5-8  
-* Day 3: Mark 9-12  
-* Day 4: Mark 13-16  
-* Day 5: 1 John 1-3  
-* Day 6: 1 John 4-5  
-* Day 7: Genesis 1-3  
-{:toc}
+Day 1: Mark 1-4  
+Day 2: Mark 5-8  
+Day 3: Mark 9-12  
+Day 4: Mark 13-16  
+Day 5: 1 John 1-3  
+Day 6: 1 John 4-5  
+Day 7: Genesis 1-3  
 
 # Day 1: Mark 1-4
 ## Focus point: Mark 2:1-12
@@ -99,14 +98,13 @@ Now look at verse 15. This verse answers the question raised yesterday——who 
 I can't overemphasize the importance of this chapter in understanding the rest of the Bible. There are few chapters in the whole Bible that are as critical. Rather than comment very much on it, I recommend that you read and re-read this chapter frequently during *The Basics* and *Dig Deeper* studies——there are many other passages in Scripture that will shed more light and color on what we commonly refer to as <span class="bbsg_highlight">"The Fall"</span>——that is, the <span class="bbsg_highlight">fall of mankind</span> from a state of perfection and grace. We, as descendants of Adam and Eve, no longer have this perfect fellowship with the Creator God. The rest of the Bible is <span class="bbsg_highlight">God's wonderful plan to bring us back</span> into that fellowship with Him. But as you will discover, the rest of the Bible also shows how mankind, sadly, repeatedly rejects God's wonderful plan, even to this day.
 
 # Week 2:
-* Day 8: Genesis 4-5  
-* Day 9: Genesis 6-8  
-* Day 10: Genesis 9-11  
-* Day 11: Romans 1-4  
-* Day 12: Romans 5-8  
-* Day 13: Romans 9-12  
-* Day 14: Romans 13-16  
-{:toc}
+Day 8: Genesis 4-5  
+Day 9: Genesis 6-8  
+Day 10: Genesis 9-11  
+Day 11: Romans 1-4  
+Day 12: Romans 5-8  
+Day 13: Romans 9-12  
+Day 14: Romans 13-16  
 
 # Day 8: Genesis 4-5
 ## Focus point: Genesis 4:1-12

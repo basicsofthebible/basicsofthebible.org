@@ -14,7 +14,6 @@ sitemap: false
 * Navigating the Bible: Chapters and Verses 
 {:toc}
 
-
 # Welcome 
 This course is designed for the person that wants to learn what it means to become or be a follower of Jesus. Many people that seek this knowledge realize that the Bible is where they must look, but have been hampered in their quest for one reason or another (e.g. intimidated by the size of the Bible, don't know where to begin, tried to read the Bible but couldn't make sense of it, got discouraged, etc.).
 

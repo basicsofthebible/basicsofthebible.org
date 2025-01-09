@@ -6,7 +6,6 @@ description: >
 hide_description: true
 sitemap: false
 ---
-
 * The Basics: Big Picture Summary
 * The Basics Reading Schedule
     * Week 1
@@ -81,23 +80,23 @@ Stop and think about it for a moment: if Jesus were just an ordinary man (as the
 # Day 5: 1 John 1-3
 ## Focus point: 1st John 3:1-10
 
-Many people find it unusual or strange that the Bible uses familial language so often. Many people have an idea that God is a distant, incomprehensible figure. When we reflect on the scope and size of creation, it is easy to get this feeling about the Being who brought forth the entire universe. Yet, John wants to make it clear, using language that we can easily understand and relate to, that God is like a wonderful father who pours His love out on us.
+Many people find it unusual or strange that the Bible uses familial language so often. Many people have an idea that God is a distant, incomprehensible figure. When we reflect on the scope and size of creation, it is easy to get this feeling about the Being who brought forth the entire universe. Yet, John wants to make it clear, using language that we can easily understand and relate to, that <span class="bbsg_highlight">God is like a wonderful father</span> who pours His love out on us.
 
-As you read this section, try imagining that you are God's "favorite" child (for the purpose of emphasizing the point John is making in verse 1) and see what a difference it makes in your understanding of God's loving character. But also be mindful of the other point that John is making here——this lavish love is only for God's children. And just who are God's children? We find that out in the next chapter.
+As you read this section, try imagining that you are God's "favorite" child (for the purpose of emphasizing the point John is making in verse 1) and see what a difference it makes in your understanding of God's loving character. But also be mindful of the other point that John is making here——<span class="bbsg_highlight">this lavish love is only for God's children</span>. And just who are God's children? We find that out in the next chapter.
 
 # Day 6: 1 John 4-5
 ## Focus point: 1st John 4:7-16
 
-This is perhaps one of the finest explanations in the entire Bible about the nature of the relationship that we can have with our loving Heavenly Father——and the basis of that relationship is love.
+This is perhaps one of the finest explanations in the entire Bible about the nature of the relationship that we can have with our loving Heavenly Father——and the <span class="bbsg_highlight">basis</span> of that relationship is <span class="bbsg_highlight">love</span>.
 
-At first glance, it may sound similar to what many other philosophies and religions say, that one has to intentionally express love to God and to others and once you do that, you are a loving person and God is pleased with you. But re-read verse 10 and notice the striking difference between John's explanation and that of the "world's" explanation: it is not by us expressing love to God that brings us into a relationship with Him——it's the other way around! God expresses His love to us, and that is how we become His children. Most people believe that the "work" has to be done on our side in order to make us pleasing and acceptable to God. Not so. Isn't it wonderful that the "work" is done by God and not us——this is one of the reasons why the gospel, that is, the "Good News" (for that is what the Greek word gospel means in English) really is good news.
+At first glance, it may sound similar to what many other philosophies and religions say, that one has to intentionally express love to God and to others and once you do that, you are a loving person and God is pleased with you. But <span class="bbsg_highlight">re-read verse 10</span> and notice the striking difference between John's explanation and that of the "world's" explanation: it is not by us expressing love to God that brings us into a relationship with Him——it's the other way around! <span class="bbsg_highlight">God expresses His love to us</span>, and that is how we become His children. Most people believe that the "work" has to be done on our side in order to make us pleasing and acceptable to God. Not so. Isn't it wonderful that the "work" is done by God and not us——this is one of the reasons why the gospel, that is, the <span class="bbsg_highlight">"Good News"</span> (for that is what the Greek word gospel means in English) really is good news.
 
-Now look at verse 15. This verse answers the question raised yesterday——who are the children of God? Do you now see how to enter into a relationship with our loving Creator God? It is only by believing in Jesus Christ, our wonderful Savior!
+Now look at verse 15. This verse answers the question raised yesterday——who are the children of God? Do you now see how to enter into a relationship with our loving Creator God? <span class="bbsg_highlight">It is only by believing in Jesus Christ</span>, our wonderful Savior!
 
 # Day 7: Genesis 1-3
 ## Focus point: Genesis 3:1-13
 
-I can't overemphasize the importance of this chapter in understanding the rest of the Bible. There are few chapters in the whole Bible that are as critical. Rather than comment very much on it, I recommend that you read and re-read this chapter frequently during The Basics and Dig Deeper studies——there are many other passages in Scripture that will shed more light and color on what we commonly refer to as "The Fall"——that is, the fall of mankind from a state of perfection and grace. We, as descendants of Adam and Eve, no longer have this perfect fellowship with the Creator God. The rest of the Bible is God's wonderful plan to bring us back into that fellowship with Him. But as you will discover, the rest of the Bible also shows how mankind, sadly, repeatedly rejects God's wonderful plan, even to this day.
+I can't overemphasize the importance of this chapter in understanding the rest of the Bible. There are few chapters in the whole Bible that are as critical. Rather than comment very much on it, I recommend that you read and re-read this chapter frequently during *The Basics* and *Dig Deeper* studies——there are many other passages in Scripture that will shed more light and color on what we commonly refer to as <span class="bbsg_highlight">"The Fall"</span>——that is, the <span class="bbsg_highlight">fall of mankind</span> from a state of perfection and grace. We, as descendants of Adam and Eve, no longer have this perfect fellowship with the Creator God. The rest of the Bible is <span class="bbsg_highlight">God's wonderful plan to bring us back</span> into that fellowship with Him. But as you will discover, the rest of the Bible also shows how mankind, sadly, repeatedly rejects God's wonderful plan, even to this day.
 
 # Week 2:
 * Day 8: Genesis 4-5  

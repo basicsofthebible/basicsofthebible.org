@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'psalm125'
+title: 'psalm25'
 caption: Psalm 25
 description: >
   A visual representation of Psalm 25, an acrostic psalm, in the original Hebrew (The Westminster Leningrad Codex) with English, using the World English Bible version.

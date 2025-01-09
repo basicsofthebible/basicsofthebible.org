@@ -111,7 +111,7 @@ I can't overemphasize the importance of this chapter in understanding the rest o
 # Day 8: Genesis 4-5
 ## Focus point: Genesis 4:1-12
 
-This passage tells the account of the first murder in the history of mankind. It is implied, but not explicitly stated, that the reason that Cain's sacrifice was not pleasing to the Lord is because Cain didn't give the very best of his harvest but held the best portions back for himself; whereas Abel gave the choicest portion of his offering. In other words, in Cain's heart, he didn't put God as the first and highest priority. Today it is no different——we too hold back the best for ourselves——it is in our very nature.
+This passage tells the account of <span class="bbsg_highlight">the first murder</span> in the history of mankind. It is implied, but not explicitly stated, that the reason that Cain's sacrifice was not pleasing to the Lord is because Cain didn't give the very best of his harvest but held the best portions back for himself; whereas Abel gave the choicest portion of his offering. In other words, in Cain's heart, he didn't put God as the first and highest priority. Today it is no different——we too hold back the best for ourselves——it is in our very nature.
 
 # Day 9: Genesis 6-8
 ## Focus point: Genesis 6:5-8

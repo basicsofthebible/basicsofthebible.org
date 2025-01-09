@@ -17,7 +17,7 @@ sitemap: false
 * Genesis 1-11
 * Romans
 
-[^1]Not to be confused with the Gospel of John; the 1st letter of John is located near the end of the Bible
+[^1]: Not to be confused with the Gospel of John; the 1st letter of John is located near the end of the Bible
 {:note}
 
 # The Basics: Big Picture Summary

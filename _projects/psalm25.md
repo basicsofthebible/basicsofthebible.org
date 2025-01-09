@@ -13,7 +13,7 @@ image:
     480w:  /assets/img/projects/psalm25@0,25x.png
 links:
   - title: PDF
-    url: ../../assets/pdfs/psalm25.pdf
+    url: ../../assets/pdfs/Psalm25.pdf
 sitemap: false
 ---
 

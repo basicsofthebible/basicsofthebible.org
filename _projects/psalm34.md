@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'psalm125'
+title: 'psalm34'
 caption: Psalm 34
 description: >
   A visual representation of Psalm 34, an acrostic psalm, in the original Hebrew (The Westminster Leningrad Codex) with English, using the World English Bible version.

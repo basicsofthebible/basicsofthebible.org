@@ -6,11 +6,11 @@ description: >
   The Seven churches of Revelation and an overview of the interpretative frameworks for understanding the book of Revelation.
 date: 1 Jan 2025
 image: 
-  path: /assets/img/projects/7churchesofrevelation.jpg
+  path: /assets/img/projects/7churchesofrevelation.png
   srcset: 
-    1920w: /assets/img/projects/7churchesofrevelation.jpg
-    960w:  /assets/img/projects/7churchesofrevelation@0,5x.jpg
-    480w:  /assets/img/projects/7churchesofrevelation@0,25x.jpg
+    1920w: /assets/img/projects/7churchesofrevelation.png
+    960w:  /assets/img/projects/7churchesofrevelation@0,5x.png
+    480w:  /assets/img/projects/7churchesofrevelation@0,25x.png
 links:
   - title: PDF
     url: ../../assets/pdfs/7ChurchesOfRevelation.pdf
@@ -23,5 +23,3 @@ This graphic attempts to facilitate interpretation of this stunningly complex bo
 [PDF](../assets/pdfs/7ChurchesOfRevelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Tabloid print size (5.6 MB)  
 [PNG](../assets/img/projects/7churchesofrevelation.png){:.heading.flip-title} <span class="icon-file-picture"></span> Revelation (front) tabloid print size (1.1 MB)  
 [PNG](../assets/img/projects/structureofrevelation.png){:.heading.flip-title} <span class="icon-file-picture"></span> Revelation (reverse) tabloid print size (1.3 MB)
-
-{:.figcaption}

@@ -68,4 +68,4 @@ Most of the books are divided into <span class="bbsg_highlight">chapters</span> 
 
 <span class="bbsg_highlight">John 3:16</span>	<sup>16</sup>For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
 
-[TheBasics]{:.heading.flip-title} --- Click here to continue to the next section.
+[TheBasics](TheBasics.md){:.heading.flip-title} --- Click here to continue to the next section.

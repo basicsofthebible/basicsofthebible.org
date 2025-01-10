@@ -21,7 +21,6 @@ sitemap: false
 {:note}
 
 # The Basics: Big Picture Summary
-
 <span class="bbsg_highlight">Mark:</span> a fast-paced and vivid account of the life, death and resurrection of Yeshua the Messiah (Jesus Christ). Written by a disciple of Jesus named John Mark.
 
 <span class="bbsg_highlight">1st John:</span> the most succinct and eloquent writing in the entire Bible on the loving aspect of our Heavenly Father, the Creator God. Written by John the son of Zebedee, one of Jesus' closest and most beloved disciples.
@@ -31,7 +30,6 @@ sitemap: false
 <span class="bbsg_highlight">Romans:</span> a profound and stunningly clear description of the depravity of mankind and how to be reconciled with the Creator God through faith in Yeshua the Messiah (Jesus Christ). Written by Paul, the first missionary to Asia Minor (modern day Turkey) and Greece.
 
 # The Basics Reading Schedule
-
 ## Week 1:
 Day 1: Mark 1-4  
 Day 2: Mark 5-8  
@@ -150,7 +148,6 @@ But just <span class="bbsg_highlight">who is the "Lord"</span> that Paul is refe
 In Romans, you have heard Paul refer to the "Law" on many occasions. Just what is this Law that he keeps referring to? To answer that question will require more background reading in the Bible——in fact, we won't get to a detailed study of the Law until after we finish the <span class="bbsg_highlight">*Dig Deeper*</span> section. But for purposes of getting a big picture overview of the Law, this section of Romans provides one of the best summaries in the entire Bible. Keep this overview of the Law in mind as you continue your study through the Bible, so that when you finally do read about the Law (which is quite comprehensive), you will not "get lost" or mired in the details of the Law. You can refer back here to Paul's summary in order to keep you grounded in understanding the true and <span class="bbsg_highlight">underlying intention</span> of God when He gave the Law to the Israelites. In Paul's masterful way of expressing ideas, he introduces, or rather reminds us that <span class="bbsg_highlight">the ultimate purpose of the Law is to lead us into love</span>, which should sound very familiar to what you just recently read in the 1st Letter of John.
 
 # The Basics: Stop and Take a Look Back
-
 Even though we've only read a little over three books of the Bible (out of a total of 66), you should already be getting the sense that the Bible "answers itself." That is, the various books of the Bible, even though they are written by many different authors in many different places and time periods, are <span class="bbsg_highlight">harmonious</span> and <span class="bbsg_highlight">complementary</span> to one another. Or perhaps a better way to put it is that the Bible contains the answers to many of the perplexing questions we have about life——if we are willing to <span class="bbsg_highlight">invest</span> the time to search for the answers and be open to listening to what God is saying to us through the words of the Bible. This is one of the main goals of the first section of this course——recognizing that when questions "come up" as we read through the Bible, the answers are ultimately found in other passages of the Bible itself. This is why we said at the beginning of this course that we can understand the Bible better and better <span class="bbsg_highlight">*as we are reading it*</span>.
 
 As you continue your journey through the Dig Deeper study, keep this in mind——in fact, knowing that the answers to your questions might be <span class="bbsg_highlight">"just around the corner"</span> makes it very exciting to read through the Bible and you will find yourself not wanting to put it down!

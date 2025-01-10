@@ -114,5 +114,5 @@ Old Testament Structure and Timeline
 # BST Source Files
 Create your own translation of the Bible Structure and Timeline in Adobe Illustrator or Microsoft Publisher.
 
-* [Illustrator](){:.heading.flip-title} files (LTR languages) <span class="icon-file-zip"></span> (25 MB zip)
-* [Publisher](){:.heading.flip-title} files (RTL languages) <span class="icon-file-zip"></span> (0.2 MB zip)
+* [Illustrator](../assets/zip/Illustrator.zip){:.heading.flip-title} files (LTR format) <span class="icon-file-zip"></span> (2.1 MB zip)
+* [Publisher](../assets/zip/Publisher.zip){:.heading.flip-title} files (RTL format) <span class="icon-file-zip"></span> (0.2 MB zip)

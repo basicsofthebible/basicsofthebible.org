@@ -38,7 +38,7 @@ Genesis 12-50:</span> detailed account of the Creator God's special relationship
 Gospel of John:</span> like 1st John, an eloquent and profoundly moving account of the life, death and resurrection of Yeshua the Messiah (Jesus Christ).
 
 <span class="bbsg_highlight">
-Matthew 28:</san> the Great Commission that Jesus gave his followers——these instructions are the most important and highest priority task of those who follow Jesus.
+Matthew 28:</span> the Great Commission that Jesus gave his followers——these instructions are the most important and highest priority task of those who follow Jesus.
 
 # More Background for the Dig Deeper Study
 By now you have a basic understanding not only of the life, death and resurrection of Jesus, but also a better idea of the underlying reasons for <span class="bbsg_highlight">His Life:</span> to come as the Messiah, ushering in a new kingdom of Life and conquering the old kingdom of Death. <span class="bbsg_highlight">Death:</span> to die on our behalf in payment for our sin——because we are incapable of paying that debt ourselves. <span class="bbsg_highlight">Resurrection:</span> to defeat death and leave a testimony in the historical record about the validity of His claim to have conquered sin and death.

@@ -15,6 +15,10 @@ Available in over a dozen languages.
 Old Testament Structure and Timeline
 {:.figcaption}
 
+* BST in English
+* Translated versions
+* BST Source Files
+{toc:}
 
 # BST in English
 [PDF](../assets/pdfs/BibleStructureTimeline.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
@@ -106,3 +110,9 @@ Old Testament Structure and Timeline
 [PDF](../assets/pdfs/VietnameseBST.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+
+# BST Source Files
+Create your own translation of the Bible Structure and Timeline in Adobe Illustrator or Microsoft Publisher.
+
+* [Illustrator](){:.heading.flip-title} files (LTR languages) <span class="icon-file-zip"></span> (25 MB zip)
+* [Publisher](){:.heading.flip-title} files (RTL languages) <span class="icon-file-zip"></span> (0.2 MB zip)

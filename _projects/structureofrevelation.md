@@ -6,11 +6,11 @@ description: >
   The structure of the book of Revelation as a series of visions and interludes.
 date: 1 Jan 2025
 image: 
-  path: /assets/img/projects/structureofrevelation.jpg
+  path: /assets/img/projects/structureofrevelation.png
   srcset: 
-    1920w: /assets/img/projects/structureofrevelation.jpg
-    960w:  /assets/img/projects/structureofrevelation@0,5x.jpg
-    480w:  /assets/img/projects/structureofrevelation@0,25x.jpg
+    1920w: /assets/img/projects/structureofrevelation.png
+    960w:  /assets/img/projects/structureofrevelation@0,5x.png
+    480w:  /assets/img/projects/structureofrevelation@0,25x.png
 links:
   - title: PDF
     url: ../../assets/pdfs/StructureOfRevelation.pdf
@@ -23,5 +23,3 @@ The graphic facilitates interpretation of this stunningly complex book. Includes
 [PDF](../assets/pdfs/StructureOfRevelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Legal print size (21 MB)  
 [PNG](../assets/img/projects/7churchesofrevelation.png){:.heading.flip-title} <span class="icon-file-picture"></span> Revelation (front) tabloid print size (1.1 MB)  
 [PNG](../assets/img/projects/structureofrevelation.png){:.heading.flip-title} <span class="icon-file-picture"></span> Revelation (reverse) tabloid print size (1.3 MB)
-
-{:.figcaption}

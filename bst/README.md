@@ -15,6 +15,10 @@ Available in over a dozen languages.
 Old Testament Structure and Timeline
 {:.figcaption}
 
+![Full-width image](../assets/img/projects/bstnt.png){:.lead width="800" height="100" loading="lazy"}
+New Testament Structure and Timeline
+{:.figcaption}
+
 * BST in English
 * Translated versions
 * BST Source Files

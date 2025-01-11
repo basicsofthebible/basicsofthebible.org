@@ -364,3 +364,9 @@
 .icon-fire:before {
   content: "\e9a9"
 }
+.icon-quotes-left:before {
+  content: "\e977"
+}
+.icon-quotes-right:before {
+  content: "\e979"
+}

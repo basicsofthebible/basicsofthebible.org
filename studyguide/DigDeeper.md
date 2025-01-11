@@ -155,6 +155,6 @@ But before you continue on, let's learn an important lesson from the book of Act
 <span class="icon-quotes-left"></span>Now the Bereans were of more noble character than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.<span class="icon-quotes-right"></span>
 {:.lead}
 
-Being a Berean means to examine and study the Scriptures for yourself to see if what Paul (or anyone else) says about God is true. As you embark on your journey, I encourage you to {:.lead}be a Berean for the rest of your life</span>.
+Being a Berean means to examine and study the Scriptures for yourself to see if what Paul (or anyone else) says about God is true. As you embark on your journey, I encourage you to <span class="bbsg_highlight">be a Berean for the rest of your life</span>.
 
 [NextSteps](NextSteps.md){:.heading.flip-title} --- Click here to continue to the next section.

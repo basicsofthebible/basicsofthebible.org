@@ -40,7 +40,7 @@ Most people that are new to the Bible approach it like any other book that they 
 [NextSteps]: NextSteps.md
 [About]: About.md
 
-[开始]: 开始
+[开始]: 开始.md
 [基础篇]: 基础篇.md
 [深度阅读]: 深度阅读.md
 [下一步骤]: 下一步骤.md

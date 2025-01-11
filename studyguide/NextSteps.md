@@ -173,7 +173,7 @@ Ruth
 ## OT History: Monarchy Period
 After the Judges period, three monarchs or kings ruled over Israel. This period lasted 120 years during which time Israel's wealth and prominence among the surrounding nations greatly increased. This lesson takes us through the so-called <span class="bbsg_highlight">United Kingdom</span> period of Israel's history, so named because all 12 tribes were united under the rule of a single king.
 
-The first king, Saul, had great potential but his heart did not follow God. The second king, <span class="bbsg_highlight">David</span>, was a <span class="bbsg_highlight">"man after God's own heart"</span> and is still today considered the one of the greatest figures in all of Israel's history. His son, <span class="bbsg_highlight">Solomon</san>, was the third and final king of the United Kingdom period. He started off with a heart for God, but over time, he drifted away, which set in motion the events that led to the <span class="bbsg_highlight">division of Israel</span> into two nations.
+The first king, Saul, had great potential but his heart did not follow God. The second king, <span class="bbsg_highlight">David</span>, was a <span class="bbsg_highlight">"man after God's own heart"</span> and is still today considered the one of the greatest figures in all of Israel's history. His son, <span class="bbsg_highlight">Solomon</span>, was the third and final king of the United Kingdom period. He started off with a heart for God, but over time, he drifted away, which set in motion the events that led to the <span class="bbsg_highlight">division of Israel</span> into two nations.
 
 1 Samuel 8-31  
 2 Samuel  
@@ -336,4 +336,6 @@ It is my prayer that <span class="bbsg_highlight">God</span> will continue to le
 <span class="icon-quotes-left"></span>To him who is able to keep you from falling and to present you before his glorious presence without fault and with great joy——to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen.<span class="icon-quotes-right"></span>
 {:.lead}
 
-[About](About.md){:.heading.flip-title} --- Return to the guide home page.
+[About](About.md){:.heading.flip-title} --- Click here to continue to the next section.
+
+Return to the guide home page.

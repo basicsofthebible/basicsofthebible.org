@@ -17,9 +17,9 @@ sitemap: false
 # Next Steps: Big Picture Summary
 <span class="bbsg_highlight">Congratulations!</span> You now have a basic understanding of the Bible and what it means to be a <span class="bbsg_highlight">follower of Jesus</span>. You now should also have more confidence in your ability to read, interpret and understand the Scriptures and feel <span class="bbsg_highlight">empowered</span> to continue your study of the Bible. This is exciting because, for the rest of your life, as you continue to read and re-read the Bible, you will likewise continue to gain a deeper and deeper understanding of the Bible and as a result, grow closer and closer in <span class="bbsg_highlight">your relationship with Him</span>.
 
-The remainder of this study guide provides you with a proposed reading order to complete the rest of the Bible. Depending on your reading speed and the amount of time you commit each day, you can expect to finish <span class="bbsg_highlight">the entire Bible</span> between 3-12 months. The important thing is not how fast you read but <span class="bbsg_highlight">what you learn</span> during the process—speed reading through the Bible for the sake of finishing it does little good if you miss the message.
+The remainder of this study guide provides you with a proposed reading order to complete the rest of the Bible. Depending on your reading speed and the amount of time you commit each day, you can expect to finish <span class="bbsg_highlight">the entire Bible</span> between 3-12 months. The important thing is not how fast you read but <span class="bbsg_highlight">what you learn</span> during the process——speed reading through the Bible for the sake of finishing it does little good if you miss the message.
 
-Like *The Basics* and *Dig Deeper* lessons, the following plans also take you through the Bible in a non-sequential order, again to facilitate better understanding of the Bible *as you are reading it*. <span class="bbsg_highlight">Continue your daily prayer</span> that God give you His Holy Spirit to help you understand what you are about to read—and expect that you will be wonderfully rewarded. 
+Like *The Basics* and *Dig Deeper* lessons, the following plans also take you through the Bible in a non-sequential order, again to facilitate better understanding of the Bible *as you are reading it*. <span class="bbsg_highlight">Continue your daily prayer</span> that God give you His Holy Spirit to help you understand what you are about to read——and expect that you will be wonderfully rewarded. 
 
 # The Structure of the Hebrew Scriptures
 The Law: known as Torah in Hebrew, which means "instruction;" the Law consists of the first five books of the Bible: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. Tradition states that Moses is the author of the Torah.
@@ -60,7 +60,7 @@ Special books
 ## The Law
 The books of the Law describe how the Creator God called a nation of special servants, the Israelites, and gave them the task of telling the whole world about Him. You will quickly discover that the Israelites failed in this task time and again. Yet God never abandoned the people of Israel, even to this day and He will still fulfill the promise He made to Abraham in Genesis 12. The books of the Law lay the foundation for understanding all the historical and prophetic books of the Hebrew Scriptures and even more importantly, for understanding how Yeshua the Messiah (Jesus Christ) perfectly and completely fulfills the requirements of the Law on our behalf. If He hadn't, we wouldn't be able to have a relationship with our Creator and would remain His enemy (through our own doing, not His).
 
-Here, instead of diving right into the details of the Law (where the chances of getting "lost" are pretty high), we start with the letter to the Hebrews, which is the best summary and explanation of the Law in the entire Bible. The Law begins with the book of Genesis, but since you've just completed reading that book, there is no need to repeat it in this study. Then, after reading Exodus through Deuteronomy, the study is again "framed" by another explanatory book on the Law—the letter by Paul to the Galatians, which provides a wonderful way to "stop and look back" on what you've just read.
+Here, instead of diving right into the details of the Law (where the chances of getting "lost" are pretty high), we start with the letter to the Hebrews, which is the best summary and explanation of the Law in the entire Bible. The Law begins with the book of Genesis, but since you've just completed reading that book, there is no need to repeat it in this study. Then, after reading Exodus through Deuteronomy, the study is again "framed" by another explanatory book on the Law——the letter by Paul to the Galatians, which provides a wonderful way to "stop and look back" on what you've just read.
 
 Hebrews  
 Exodus  
@@ -83,7 +83,7 @@ Deuteronomy: after the unbelieving generation died in the wilderness, the new ge
 Galatians: a letter by Paul that gives a succinct summary of the Law and how through Jesus, we are released from the bondage of the Law to live Spirit-filled lives.
 
 ## Prophecy and End Times
-The Bible speaks considerably about future events—in both the Hebrew (Old Testament) and Greek Scriptures (New Testament).
+The Bible speaks considerably about future events——in both the Hebrew (Old Testament) and Greek Scriptures (New Testament).
 
 Some events described in both testaments have been fulfilled, whereas others events have yet to take place. Some prophecies are obvious in their fulfillment, such as the Suffering Servant of Isaiah 53, whereas it is not as clear in other cases. As we read through the Bible, we should not overly focus on determining if a certain prophecy has been fulfilled or not, but rather try to learn what God is telling us through the words of the prophets. Here, we take a closer look at the books of the Bible that speak directly about end times. The readings are ordered so that by the time we get to the final book of the Bible, we can better understand the visions described in Revelation. You will notice that Revelation unveils and explains many of the mysterious visions of the prophets, particularly Zechariah and Daniel.
 
@@ -111,7 +111,7 @@ Daniel 7-12: visions given to the Hebrew named Daniel during the Exile period (6
 Revelation: visions of the end of the age, when Jesus returns to finalize His Kingdom.
 
 ## Life in the Body of Christ
-The Bible and Paul in particular, speaks frequently of life in the "body of Christ"—the gathering together of local believers for the purpose of enlarging the Kingdom of Jesus and to encourage, help and support one another. This study takes us through the books in the Bible that speak most directly on the "body life" of the believer—that is, how we should live our lives as disciples (that is, followers) of Jesus.
+The Bible and Paul in particular, speaks frequently of life in the "body of Christ"——the gathering together of local believers for the purpose of enlarging the Kingdom of Jesus and to encourage, help and support one another. This study takes us through the books in the Bible that speak most directly on the "body life" of the believer——that is, how we should live our lives as disciples (that is, followers) of Jesus.
 
 1-2 Corinthians  
 Philippians  
@@ -193,14 +193,14 @@ Psalms
 Proverbs
 
 *The Writings of David and Solomon: Reading Order*
-Psalms: most of the Psalms are attributed to King David—74 of the 150 bear his name. Twelve are ascribed to Asaph, nine to the Korahites, two to King Solomon, and one each to Ethan the Ezrahite and Moses. The remaining 51 Psalms have no designation. The Psalms are considered the most beautiful and moving portions of the whole Bible. They are worship songs (note that the English word song is derived from the Hebrew word psalm) and many contain instructions on what instruments are to be played or what tune is to be used. Thus it is no wonder that believers of the Creator God throughout the ages have used the Psalms as their source of inspiration for the worship music of their generation. See a visualization of the beautiful structure of Psalm 119 and how this psalm helps us better understand the Creator God of the Bible.
+Psalms: most of the Psalms are attributed to King David——74 of the 150 bear his name. Twelve are ascribed to Asaph, nine to the Korahites, two to King Solomon, and one each to Ethan the Ezrahite and Moses. The remaining 51 Psalms have no designation. The Psalms are considered the most beautiful and moving portions of the whole Bible. They are worship songs (note that the English word song is derived from the Hebrew word psalm) and many contain instructions on what instruments are to be played or what tune is to be used. Thus it is no wonder that believers of the Creator God throughout the ages have used the Psalms as their source of inspiration for the worship music of their generation. See a visualization of the beautiful structure of Psalm 119 and how this psalm helps us better understand the Creator God of the Bible.
 
 Proverbs: a compilation of wisdom sayings, most of which are attributed to the wise King Solomon but also includes the sayings of other wise men of Israel, including Agur and Lemuel.
 
 ## OT History Refresher: David and Solomon
 Whenever anything is repeated in the Bible, whether it is the repetition of a single word, phrase or verse, or whether it is entire narratives, this is God's ways of saying to us: "pay very close attention." Thus, before moving any further in our historical study of Israel, let's revisit the lives of David and Solomon, the two most prominent and important kings in Israel's history.
 
-The historical account given in the book of Chronicles is very similar—oftentimes identical—to the accounts we recently read in the books of 1-2 Samuel and 1 Kings. However, the Chronicler (and we don't know the identity of the author) makes a special point of highlighting and commenting on the rule of King David. Recall that it is from the line of David that the Messiah (Savior) is to come, thus the importance that God has placed on this period of Israel's history. Don't think of it as boring repetition, but instead look at the special emphasis that God wants you to pay very close attention to—having this kind of mindset as you read through Chronicles will allow the Holy Spirit to teach you more about God.
+The historical account given in the book of Chronicles is very similar——oftentimes identical——to the accounts we recently read in the books of 1-2 Samuel and 1 Kings. However, the Chronicler (and we don't know the identity of the author) makes a special point of highlighting and commenting on the rule of King David. Recall that it is from the line of David that the Messiah (Savior) is to come, thus the importance that God has placed on this period of Israel's history. Don't think of it as boring repetition, but instead look at the special emphasis that God wants you to pay very close attention to——having this kind of mindset as you read through Chronicles will allow the Holy Spirit to teach you more about God.
 
 1 Chronicles  
 2 Chronicles 1-9
@@ -261,9 +261,9 @@ Jeremiah: known as the "weeping prophet," Jeremiah frantically warns a hard-hear
 Lamentations: a poetical lament over the destruction of Jerusalem. Attributed to the prophet Jeremiah, thus it is included here in this study.
 
 ## OT History: Exile and the Restoration
-The day that the prophets had warned of had finally arrived—the kingdom of Judah was conquered by the Babylonians. Unlike the Assyrians that completely destroyed the Northern Kingdom of Israel nearly two centuries earlier, the Babylonians were different kinds of victors. They allowed the people of Judah to retain their cultural identity even though many were deported from Jerusalem to Babylon (modern day Iraq). It was here that the Hebrew people became known as the "Jews" (short for Judah)—from which we get the modern term "Jewish" when referring to someone descended from the 12 tribes of Israel.
+The day that the prophets had warned of had finally arrived——the kingdom of Judah was conquered by the Babylonians. Unlike the Assyrians that completely destroyed the Northern Kingdom of Israel nearly two centuries earlier, the Babylonians were different kinds of victors. They allowed the people of Judah to retain their cultural identity even though many were deported from Jerusalem to Babylon (modern day Iraq). It was here that the Hebrew people became known as the "Jews" (short for Judah)——from which we get the modern term "Jewish" when referring to someone descended from the 12 tribes of Israel.
 
-Exile was the most humiliating thing that could possibly happen to the descendants of Abraham—it seemed that God abandoned His people. But God did not abandon His people and moved in amazing and miraculous ways to restore a remnant of the people to the capital city of Jerusalem and rebuild it. The Exile lasted 70 years, and the events of that time, as well as the restoration are what we will read in this lesson.
+Exile was the most humiliating thing that could possibly happen to the descendants of Abraham——it seemed that God abandoned His people. But God did not abandon His people and moved in amazing and miraculous ways to restore a remnant of the people to the capital city of Jerusalem and rebuild it. The Exile lasted 70 years, and the events of that time, as well as the restoration are what we will read in this lesson.
 
 Ezekiel
 Daniel 1-6
@@ -286,7 +286,7 @@ Ezra 7-10: the second phase of the Restoration, where Ezra returns to Jerusalem 
 Nehemiah: the final phase of the Restoration, led by Nehemiah who oversees the rebuilding of the walls and fortifications around Jerusalem.
 
 ## Post-Exile Prophets
-There are three prophets to Judah after the Restoration: Haggai, Zechariah, and Malachi. We read Zechariah earlier in the study, so we won't repeat the reading here. Here, we also include Obadiah, even though his message was against the neighboring kingdom of Edom—distant relatives of Israelites, who were descended not of Jacob's line, but that of his twin brother Esau. The two groups had always been at war, just as Jacob and Esau were.
+There are three prophets to Judah after the Restoration: Haggai, Zechariah, and Malachi. We read Zechariah earlier in the study, so we won't repeat the reading here. Here, we also include Obadiah, even though his message was against the neighboring kingdom of Edom——distant relatives of Israelites, who were descended not of Jacob's line, but that of his twin brother Esau. The two groups had always been at war, just as Jacob and Esau were.
 
 Obadiah  
 Haggai  
@@ -312,12 +312,12 @@ Job: an exhaustive and profoundly enigmatic (much like the subject) analysis of 
 
 Ecclesiastes: a commentary on the futility of living without making the Creator God a central part of your life.
 
-Song of Solomon: beautiful poetry with sensual imagery that speaks about love on many levels—between a husband and wife, and between the loving Creator God and His people.
+Song of Solomon: beautiful poetry with sensual imagery that speaks about love on many levels——between a husband and wife, and between the loving Creator God and His people.
 
 Jonah: the well-known account of the prophet that was swallowed by a whale, but one in which most readers completely miss the point. This book is all about the grace of God and how we as depraved humans, much like Jonah, don't understand what God is trying to do. Today, we are no different than Jonah was in his day.
 
 # Suggestions on Other Reading Material
-Before giving some recommendations on reading material that will help you understand the Bible better, let me emphasize the primacy of the Bible with respect to other books—the Bible stands alone because it is the inspired Word of God. Other books may be helpful, thought-provoking and some can even be life-changing, but don't let them take a higher place in your mind than the Bible. Be on your guard (remember the study on false teachers!), for some books may have an appearance of godliness, but will actually lead you astray. This is why we should not let ourselves be overly dependent on other people's commentaries and opinions on the Bible—and by the way, that includes this study guide! Remember to let the Bible speak for itself. If we are open to hearing what the Bible has to say to us, the Holy Spirit will speak to us and instruct us in God's ways.
+Before giving some recommendations on reading material that will help you understand the Bible better, let me emphasize the primacy of the Bible with respect to other books——the Bible stands alone because it is the inspired Word of God. Other books may be helpful, thought-provoking and some can even be life-changing, but don't let them take a higher place in your mind than the Bible. Be on your guard (remember the study on false teachers!), for some books may have an appearance of godliness, but will actually lead you astray. This is why we should not let ourselves be overly dependent on other people's commentaries and opinions on the Bible——and by the way, that includes this study guide! Remember to let the Bible speak for itself. If we are open to hearing what the Bible has to say to us, the Holy Spirit will speak to us and instruct us in God's ways.
 
 With this in mind, I don't want to discourage you from using helpful tools either. Below are some recommendations to get you started:
 
@@ -334,7 +334,7 @@ You've begun an amazing journey and I hope that this study guide has been helpfu
 
 It is my prayer that God will continue to lead you into a deeper and deeper relationship with Him through faith in His son Jesus by the power of the Holy Spirit. As you now continue on your journey, I leave you with the encouraging words found in Jude, verses 24-25:
 
-<span class="icon-quotes-left"></span>To him who is able to keep you from falling and to present you before his glorious presence without fault and with great joy—to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen.<span class="icon-quotes-right"></span>
+<span class="icon-quotes-left"></span>To him who is able to keep you from falling and to present you before his glorious presence without fault and with great joy——to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen.<span class="icon-quotes-right"></span>
 {:.lead}
 
 [Study Guide](README.md){:.heading.flip-title} --- Return to the guide home page.

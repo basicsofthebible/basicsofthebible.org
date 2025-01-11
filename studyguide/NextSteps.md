@@ -329,7 +329,7 @@ With this in mind, I don't want to discourage you from using helpful tools eithe
 You've begun an amazing journey and I hope that this study guide has been helpful in getting you started. The importance of the Bible in the daily life of a follower of Jesus is told to us in Psalm 1:
 
 <span class="icon-quotes-left"></span>Blessed is the man who does not walk in the counsel of the wicked or stand in the way of sinners or sit in the seat of mockers. But his delight is in the law of the LORD, and on his law he meditates day and night. He is like a tree planted by streams of water, which yields its fruit in season and whose leaf does not wither. Whatever he does prospers. Not so the wicked! They are like chaff that the wind blows away. Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous. For the LORD watches over the way of the righteous, but the way of the wicked will perish.<span class="icon-quotes-right"></span>
-<:.lead>
+{:.lead}
 
 It is my prayer that God will continue to lead you into a deeper and deeper relationship with Him through faith in His son Jesus by the power of the Holy Spirit. As you now continue on your journey, I leave you with the encouraging words found in Jude, verses 24-25:
 

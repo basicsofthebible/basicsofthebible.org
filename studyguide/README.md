@@ -37,7 +37,7 @@ Most people that are new to the Bible approach it like any other book that they 
 [Introduction]: Introduction.md
 [TheBasics]: TheBasics.md
 [DigDeeper]: DigDeeper.md
-[NextSteps]: NextSteps
+[NextSteps]: NextSteps.md
 [About]: About.md
 
 [开始]: 开始.md

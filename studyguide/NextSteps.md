@@ -10,6 +10,8 @@ sitemap: false
 * The Structure of the Hebrew Scriptures
 * The Structure of the Greek Scriptures
 * Proposed Reading Plans
+* Suggestions on Other Reading Material
+* A Final Word
 {:toc}
 
 # Next Steps: Big Picture Summary
@@ -184,7 +186,7 @@ The first king, Saul, had great potential but his heart did not follow God. The 
 
 1 Kings 1-11: the passing of David, the reign of Solomon, his wisdom and the temple that he built to honor God.
 
-# The Writings of David and Solomon
+## The Writings of David and Solomon
 In this section, we take a break from the historical books to read through the literary and poetry books attributed to David and Solomon. For this study, we'll focus just on the books of the Psalms and Proverbs.
 
 Psalms  
@@ -315,14 +317,13 @@ Song of Solomon: beautiful poetry with sensual imagery that speaks about love on
 Jonah: the well-known account of the prophet that was swallowed by a whale, but one in which most readers completely miss the point. This book is all about the grace of God and how we as depraved humans, much like Jonah, don't understand what God is trying to do. Today, we are no different than Jonah was in his day.
 
 # Suggestions on Other Reading Material
-
 Before giving some recommendations on reading material that will help you understand the Bible better, let me emphasize the primacy of the Bible with respect to other books—the Bible stands alone because it is the inspired Word of God. Other books may be helpful, thought-provoking and some can even be life-changing, but don't let them take a higher place in your mind than the Bible. Be on your guard (remember the study on false teachers!), for some books may have an appearance of godliness, but will actually lead you astray. This is why we should not let ourselves be overly dependent on other people's commentaries and opinions on the Bible—and by the way, that includes this study guide! Remember to let the Bible speak for itself. If we are open to hearing what the Bible has to say to us, the Holy Spirit will speak to us and instruct us in God's ways.
 
 With this in mind, I don't want to discourage you from using helpful tools either. Below are some recommendations to get you started:
 
-    Other versions of the Bible, including paraphrase translations and Greek word study Bibles. You can even buy parallel Bibles, which contain several translations side-by-side, so that you can get a deeper perspective of the Scriptures by seeing different ways that the original language can be expressed (this is especially useful if you speak two languages).
-    My Utmost for His Highest, by Oswald Chambers.
-    A Bible handbook such as Halley's.
+* Other versions of the Bible, including paraphrase translations and Greek word study Bibles. You can even buy parallel Bibles, which contain several translations side-by-side, so that you can get a deeper perspective of the Scriptures by seeing different ways that the original language can be expressed (this is especially useful if you speak two languages).
+* My Utmost for His Highest, by Oswald Chambers.
+* A Bible handbook such as Halley's.
 
 # A Final Word
 

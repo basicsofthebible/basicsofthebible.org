@@ -47,12 +47,12 @@ In the *Dig Deeper* study, we will do just that——dig deeper into the Bible t
 
 # Dig Deeper Reading Schedule
 ## Week 3
-Day 15: Luke 1-4
-Day 16: Luke 5-8
-Day 17: Luke 9-12
-Day 18: Luke 13-16
-Day 19: Luke 17-20
-Day 20: Luke 21-24
+Day 15: Luke 1-4  
+Day 16: Luke 5-8  
+Day 17: Luke 9-12  
+Day 18: Luke 13-16  
+Day 19: Luke 17-20  
+Day 20: Luke 21-24  
 Day 21: Acts 1-4
 
 ### Week 3: Luke
@@ -65,12 +65,12 @@ Day 21: Acts 1-4
 <span class="bbsg_highlight">Luke 22-23:</span> the trial, crucifixion, death and burial of Jesus.
 
 ## Week 4
-Day 22: Acts 5-8
-Day 23: Acts 9-12
-Day 24: Acts 13-16
-Day 25: Acts 17-20
-Day 26: Acts 21-24
-Day 27: Acts 25-28
+Day 22: Acts 5-8  
+Day 23: Acts 9-12  
+Day 24: Acts 13-16  
+Day 25: Acts 17-20  
+Day 26: Acts 21-24  
+Day 27: Acts 25-28  
 Day 28: Ephesians 1-3
 
 ### Week 4: Acts
@@ -79,12 +79,12 @@ Day 28: Ephesians 1-3
 <span class="bbsg_highlight">Acts 26:17-18:</span> the book of Acts is one of the most exciting to read in the entire Bible. As such, it is hard to summarize such an amazing book in a few sentences. Consider the speech of Paul in chapter 26, verses 17-18, as you reflect back on the book of Acts, for this is a model of what Jesus would have us do even today. That is, to bring others out of darkness and into the light.
 
 ## Week 5
-Day 29: Ephesians 4-6
-Day 30: Genesis 12-14
-Day 31: Genesis 15-17
-Day 32: Genesis 18-20
-Day 33: Genesis 21-23
-Day 34: Genesis 24-26
+Day 29: Ephesians 4-6  
+Day 30: Genesis 12-14  
+Day 31: Genesis 15-17  
+Day 32: Genesis 18-20  
+Day 33: Genesis 21-23  
+Day 34: Genesis 24-26  
 Day 35: Genesis 27-29
 
 ### Week 5: Ephesians
@@ -97,12 +97,12 @@ Day 35: Genesis 27-29
 <span class="bbsg_highlight">Ephesians 6:10-18:</span> an essential passage for understanding how believers are to actively "equip" themselves for service in God's Kingdom work. If you have been "employed" by the King (i.e., you have become a follower of Jesus), return to this chapter and re-read it whenever you are facing discouragement, disappointment or defeat in your work for the Kingdom.
 
 ## Week 6
-Day 36: Genesis 30-32
-Day 37: Genesis 33-35
-Day 38: Genesis 36-38
-Day 39: Genesis 39-41
-Day 40: Genesis 42-44
-Day 41: Genesis 45-47
+Day 36: Genesis 30-32  
+Day 37: Genesis 33-35  
+Day 38: Genesis 36-38  
+Day 39: Genesis 39-41  
+Day 40: Genesis 42-44  
+Day 41: Genesis 45-47  
 Day 42: Genesis 48-50
 
 ### Week 6: Genesis
@@ -117,12 +117,12 @@ Day 42: Genesis 48-50
 <span class="bbsg_highlight">Genesis 45:</span> the exciting conclusion of the account of Joseph, and the unveiling of God's purpose behind the years of his tribulations.
 
 ## Week 7
-Day 43: John 1-3
-Day 44: John 4-6
-Day 45: John 7-9
-Day 46: John 10-12
-Day 47: John 13-15
-Day 48: John 16-18
+Day 43: John 1-3  
+Day 44: John 4-6  
+Day 45: John 7-9  
+Day 46: John 10-12  
+Day 47: John 13-15  
+Day 48: John 16-18  
 Day 49: John 19-21, Matthew 28
 
 ### Week 7: Gospel of John
@@ -152,7 +152,7 @@ Isn't the Bible an amazing book that you might not have appreciated before? Have
 
 But before you continue on, let's learn an important lesson from the book of Acts. While I hope this study guide has been helpful to you, let me also give you a cautionary note: don't just take the words in this study at face value——instead be a "Berean." Take a look at <span class="bbsg_highlight">Acts 17:11</span> to see what I mean:
 
-Now the Bereans were of more noble character than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.
+<span class="icon-quotes-left"></span>Now the Bereans were of more noble character than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.<span class="icon-quotes-right"></span>
 {:.lead}
 
 Being a Berean means to examine and study the Scriptures for yourself to see if what Paul (or anyone else) says about God is true. As you embark on your journey, I encourage you to {:.lead}be a Berean for the rest of your life</span>.

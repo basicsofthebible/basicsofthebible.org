@@ -1,8 +1,8 @@
 ---
 layout: page
-title: NextSteps
+title: About
 description: >
-  Part 3: Next Steps.
+  About this guide.
 hide_description: true
 sitemap: false
 ---

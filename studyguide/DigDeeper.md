@@ -40,7 +40,7 @@ Gospel of John:</span> like 1st John, an eloquent and profoundly moving account 
 <span class="bbsg_highlight">
 Matthew 28:</span> the Great Commission that Jesus gave his followers——these instructions are the most important and highest priority task of those who follow Jesus.
 
-# More Background for the Dig Deeper Study
+# More Background
 By now you have a basic understanding not only of the life, death and resurrection of Jesus, but also a better idea of the underlying reasons for <span class="bbsg_highlight">His Life:</span> to come as the Messiah, ushering in a new kingdom of Life and conquering the old kingdom of Death. <span class="bbsg_highlight">Death:</span> to die on our behalf in payment for our sin——because we are incapable of paying that debt ourselves. <span class="bbsg_highlight">Resurrection:</span> to defeat death and leave a testimony in the historical record about the validity of His claim to have conquered sin and death.
 
 In the *Dig Deeper* study, we will do just that——dig deeper into the Bible to discover more and more about our wonderful Savior and God. We will learn about what the first witnesses of Jesus' resurrection did and how they shared and spread the "Good News" to people in Africa, Asia and Europe. In the middle of the study, we'll revisit the book of Genesis in the Hebrew Scriptures to learn the fascinating background of the patriarchs of the Israelite people——Abraham, Isaac and Jacob. Then we'll return to the Greek Scriptures to read the stunningly moving account of Jesus by John, one of Jesus' closest disciples. We will then finish with the last chapter of Matthew's Gospel, to learn about the most important command of Jesus to all those that follow Him.
@@ -58,11 +58,11 @@ Day 21: Acts 1-4
 ### Week 3: Luke
 *Focus points:*
 
-Luke 15: three parables (the lost sheep, the lost coin and the lost son), illustrating the great love that God has for mankind.
+<span class="bbsg_highlight">Luke 15:</span> three parables (the lost sheep, the lost coin and the lost son), illustrating the great love that God has for mankind.
 
-Luke 19: the story of Zacchaeus; the parable of talents (in Luke's account, a very dramatic illustration emphasizing the importance of using the skills God has given to us for His Kingdom work); and the coming of Jesus to Jerusalem, one week before His death.
+<span class="bbsg_highlight">Luke 19:</span> the story of Zacchaeus; the parable of talents (in Luke's account, a very dramatic illustration emphasizing the importance of using the skills God has given to us for His Kingdom work); and the coming of Jesus to Jerusalem, one week before His death.
 
-Luke 22-23: the trial, crucifixion, death and burial of Jesus.
+<span class="bbsg_highlight">Luke 22-23:</span> the trial, crucifixion, death and burial of Jesus.
 
 ## Week 4
 Day 22: Acts 5-8
@@ -76,7 +76,7 @@ Day 28: Ephesians 1-3
 ### Week 4: Acts
 *Focus points:*
 
-Acts 26:17-18: the book of Acts is one of the most exciting to read in the entire Bible. As such, it is hard to summarize such an amazing book in a few sentences. Consider the speech of Paul in chapter 26, verses 17-18, as you reflect back on the book of Acts, for this is a model of what Jesus would have us do even today. That is, to bring others out of darkness and into the light.
+<span class="bbsg_highlight">Acts 26:17-18:</span> the book of Acts is one of the most exciting to read in the entire Bible. As such, it is hard to summarize such an amazing book in a few sentences. Consider the speech of Paul in chapter 26, verses 17-18, as you reflect back on the book of Acts, for this is a model of what Jesus would have us do even today. That is, to bring others out of darkness and into the light.
 
 ## Week 5
 Day 29: Ephesians 4-6
@@ -90,11 +90,11 @@ Day 35: Genesis 27-29
 ### Week 5: Ephesians
 *Focus points:*
 
-Ephesians 2:8-9: one of the most compact summaries in the entire Bible about what it is that followers of Jesus believe. This is an excellent passage to memorize.
+<span class="bbsg_highlight">Ephesians 2:8-9:</span> one of the most compact summaries in the entire Bible about what it is that followers of Jesus believe. This is an excellent passage to memorize.
 
-Ephesians 4:11-13: this passage is one of the best summaries of the variety of "jobs" that believers of Jesus do (v. 11), the underlying purpose of these jobs (v. 12) and the reason why God views these jobs as so important (v. 13).
+<span class="bbsg_highlight">Ephesians 4:11-13:</span> this passage is one of the best summaries of the variety of "jobs" that believers of Jesus do (v. 11), the underlying purpose of these jobs (v. 12) and the reason why God views these jobs as so important (v. 13).
 
-Ephesians 6:10-18: an essential passage for understanding how believers are to actively "equip" themselves for service in God's Kingdom work. If you have been "employed" by the King (i.e., you have become a follower of Jesus), return to this chapter and re-read it whenever you are facing discouragement, disappointment or defeat in your work for the Kingdom.
+<span class="bbsg_highlight">Ephesians 6:10-18:</span> an essential passage for understanding how believers are to actively "equip" themselves for service in God's Kingdom work. If you have been "employed" by the King (i.e., you have become a follower of Jesus), return to this chapter and re-read it whenever you are facing discouragement, disappointment or defeat in your work for the Kingdom.
 
 ## Week 6
 Day 36: Genesis 30-32
@@ -108,13 +108,13 @@ Day 42: Genesis 48-50
 ### Week 6: Genesis
 *Focus points:*
 
-Genesis 12:1-7: the promise God made to Abraham——one of the most foundational passages in the entire Bible.
+<span class="bbsg_highlight">Genesis 12:1-7:</span> the promise God made to Abraham——one of the most foundational passages in the entire Bible.
 
-Genesis 27: the account of Jacob stealing the birthright from his twin brother Esau (with a little help from his mother Rebekah). It is from Jacob that the 12 tribes of Israel (and eventually the whole nation) are descended.
+<span class="bbsg_highlight">Genesis 27:</span> the account of Jacob stealing the birthright from his twin brother Esau (with a little help from his mother Rebekah). It is from Jacob that the 12 tribes of Israel (and eventually the whole nation) are descended.
 
-Genesis 37: the account of Joseph, Jacob's eldest son by Rachel and how he was sold into slavery by his 10 older half-brothers.
+<span class="bbsg_highlight">Genesis 37:</span> the account of Joseph, Jacob's eldest son by Rachel and how he was sold into slavery by his 10 older half-brothers.
 
-Genesis 45: the exciting conclusion of the account of Joseph, and the unveiling of God's purpose behind the years of his tribulations.
+<span class="bbsg_highlight">Genesis 45:</span> the exciting conclusion of the account of Joseph, and the unveiling of God's purpose behind the years of his tribulations.
 
 ## Week 7
 Day 43: John 1-3
@@ -128,32 +128,33 @@ Day 49: John 19-21, Matthew 28
 ### Week 7: Gospel of John
 *Focus points:*
 
-John 3: a profound yet simple and clear explanation that Jesus Himself gave on the reason that we should become His follower and how to do so.
+<span class="bbsg_highlight">John 3:</span> a profound yet simple and clear explanation that Jesus Himself gave on the reason that we should become His follower and how to do so.
 
-John 11: perhaps the most moving description in the entire Bible about the deep compassion of Jesus. Here, Jesus is so distraught and moved by the death of His friend Lazarus that Jesus weeps at his grave. This passage is foundational on many levels——understanding the humanity and emotion of Jesus, understanding the perspective that Jesus had in regard to the ultimate fate of mankind (death), and understanding that death (and disease for that matter) are not in God's original plan for mankind.
+<span class="bbsg_highlight">John 11:</span> perhaps the most moving description in the entire Bible about the deep compassion of Jesus. Here, Jesus is so distraught and moved by the death of His friend Lazarus that Jesus weeps at his grave. This passage is foundational on many levels——understanding the humanity and emotion of Jesus, understanding the perspective that Jesus had in regard to the ultimate fate of mankind (death), and understanding that death (and disease for that matter) are not in God's original plan for mankind.
 
-John 15: part of Jesus' final instructions to His disciples, which is only recorded by John. In this chapter, Jesus explains the relationship that believers have to God through Him.
+<span class="bbsg_highlight">John 15:</span> part of Jesus' final instructions to His disciples, which is only recorded by John. In this chapter, Jesus explains the relationship that believers have to God through Him.
 
 ### The Great Commission
 This is it——the best description of what the followers of Jesus are supposed to do with their time left on this planet. In terms of getting guidance on our purpose in life, Matthew 28:16-20 is the most important set of instructions in the entire Bible. Don't misunderstand——the rest of the Bible is very important in building up many different aspects of the life of a follower of Jesus, but no other passage can compare when it comes to answering the question: "What exactly does God want me to do with my life?" Of course, there are many different ways that God's will can be done, and the work that God calls for one believer will likely look very different from the work He calls for another believer. We must trust (and pray) that the Holy Spirit will "fill in the details" that are specific to our own situation. But here, let's summarize the big picture of the Great Commission that Jesus gives us:
 
-Go: actively go out and share the good news of Jesus Christ with others. Another word for go is "leave," as in leave your comfort zone.
+<span class="bbsg_highlight">Go:</span> actively go out and share the good news of Jesus Christ with others. Another word for go is "leave," as in leave your comfort zone.
 
-Make disciples: teach others what God has shown you through your relationship with Jesus Christ and through the working of the Holy Spirit.
+<span class="bbsg_highlight">Make disciples:</span> teach others what God has shown you through your relationship with Jesus Christ and through the working of the Holy Spirit.
 
-Baptize them: soak them in their relationship with Jesus so that it transforms their life in highly visible and noticeable ways.
+<span class="bbsg_highlight">Baptize them:</span> soak them in their relationship with Jesus so that it transforms their life in highly visible and noticeable ways.
 
-Teach them to obey all that Jesus commanded: help them "dig deeper" and continually grow in their walk with Jesus.
+<span class="bbsg_highlight">Teach them to obey all that Jesus commanded:</span> help them "dig deeper" and continually grow in their walk with Jesus.
 
 # Dig Deeper: Stop and Take a Look Back
-Wow. Hopefully this is how you are feeling as you finish up the Dig Deeper study.
+<span class="bbsg_highlight">Wow.</span> Hopefully this is how you are feeling as you finish up the Dig Deeper study.
 
-Isn't the Bible an amazing book that you might not have appreciated before? Have you felt the Holy Spirit "speak" to you and give you insight during this study? If so, wasn't it exciting and wouldn't you like to experience more of that? The good news is that you can! Through the process of this study, you should now feel equipped to be able continue on your quest for answers. The remainder of this guide gives you a plan in which you can read the rest of the Bible. The readings are again in a non-sequential order to facilitate understanding the Bible as you are reading it.
+Isn't the Bible an amazing book that you might not have appreciated before? Have you felt the Holy Spirit "speak" to you and give you insight during this study? If so, wasn't it exciting and wouldn't you like to experience more of that? <span class="bbsg_highlight">The good news is that you can!</span> Through the process of this study, you should now feel equipped to be able continue on your quest for answers. The remainder of this guide gives you a plan in which you can read the rest of the Bible. The readings are again in a non-sequential order to facilitate understanding the Bible as you are reading it.
 
-But before you continue on, let's learn an important lesson from the book of Acts. While I hope this study guide has been helpful to you, let me also give you a cautionary note: don't just take the words in this study at face value——instead be a "Berean." Take a look at Acts 17:11 to see what I mean:
+But before you continue on, let's learn an important lesson from the book of Acts. While I hope this study guide has been helpful to you, let me also give you a cautionary note: don't just take the words in this study at face value——instead be a "Berean." Take a look at <span class="bbsg_highlight">Acts 17:11</span> to see what I mean:
 
 Now the Bereans were of more noble character than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.
+{:.lead}
 
-Being a Berean means to examine and study the Scriptures for yourself to see if what Paul (or anyone else) says about God is true. As you embark on your journey, I encourage you to be a Berean for the rest of your life.
+Being a Berean means to examine and study the Scriptures for yourself to see if what Paul (or anyone else) says about God is true. As you embark on your journey, I encourage you to {:.lead}be a Berean for the rest of your life</span>.
 
 [NextSteps](NextSteps.md){:.heading.flip-title} --- Click here to continue to the next section.

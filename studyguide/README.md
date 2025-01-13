@@ -34,6 +34,11 @@ Most people that are new to the Bible approach it like any other book that they 
 * [關於這本導讀]{:.heading.flip-title} --- 關於這本導讀。
 {:.related-posts.faded}
 
+## Presentation versions
+[PDF](../assets/pdfs/basicsofthebible.pdf) <span class="icon-file-pdf"></span> 16:9 presentation size (0.3 MB)
+[PDF](../assets/pdfs/basicsofthebible_simplified.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 16:9 presentation size (4.4 MB)
+[PDF](../assets/pdfs/basicsofthebible_traditional.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 16:9 presentation size (4.4 MB)
+
 [Introduction]: Introduction.md
 [TheBasics]: TheBasics.md
 [DigDeeper]: DigDeeper.md

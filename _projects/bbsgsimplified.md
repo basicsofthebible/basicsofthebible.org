@@ -13,7 +13,7 @@ image:
     480w:  /assets/img/projects/bbsgsimplified@0,25x.png
 links:
   - title: PDF
-    url: ../assets/pdfs/basicsofthebible_simplified.pdf
+    url: ../../assets/pdfs/basicsofthebible_simplified.pdf
 sitemap: false
 ---
 # 宽屏版本  

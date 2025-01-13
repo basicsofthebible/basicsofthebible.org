@@ -13,7 +13,7 @@ image:
     480w:  /assets/img/projects/bbsgtraditional@0,25x.png
 links:
   - title: PDF
-    url: ../assets/pdfs/basicsofthebible_traditional.pdf
+    url: ../../assets/pdfs/basicsofthebible_traditional.pdf
 sitemap: false
 ---
 # 寬屏版本

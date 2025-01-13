@@ -35,8 +35,8 @@ Most people that are new to the Bible approach it like any other book that they 
 {:.related-posts.faded}
 
 ## Presentation versions
-[PDF](../assets/pdfs/basicsofthebible.pdf) <span class="icon-file-pdf"></span> 16:9 presentation size (0.3 MB)
-[PDF](../assets/pdfs/basicsofthebible_simplified.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 16:9 presentation size (4.4 MB)
+[PDF](../assets/pdfs/basicsofthebible.pdf) <span class="icon-file-pdf"></span> 16:9 presentation size (0.3 MB)  
+[PDF](../assets/pdfs/basicsofthebible_simplified.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 16:9 presentation size (4.4 MB)  
 [PDF](../assets/pdfs/basicsofthebible_traditional.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 16:9 presentation size (4.4 MB)
 
 [Introduction]: Introduction.md

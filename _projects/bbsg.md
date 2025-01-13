@@ -13,8 +13,8 @@ image:
     480w:  /assets/img/projects/bbsgenglish@0,25x.png
 links:
   - title: WEB
-    url: ../studyguide/README.md
+    url: ../../studyguide/README.md
 sitemap: false
 ---
 
-[WEB](../studyguide/README.md){:.heading.flip-title} --- Basics of the Bible Study Guide home page
+[Guide](../studyguide/README.md){:.heading.flip-title} --- Basics of the Bible Study Guide home page

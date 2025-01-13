@@ -12,7 +12,7 @@ image:
     960w:  /assets/img/projects/bbsgenglish@0,5x.png
     480w:  /assets/img/projects/bbsgenglish@0,25x.png
 links:
-  - title: WEB
+  - title: PDF
     url: ../assets/pdfs/basicsofthebible.pdf
 sitemap: false
 ---

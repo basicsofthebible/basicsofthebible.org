@@ -17,7 +17,7 @@ links:
 sitemap: false
 ---
 # Widescreen version
-[PDF](../assets/pdfs/basicsofthebible.pdf)
+[PDF](../assets/pdfs/basicsofthebible.pdf) <span class="icon-file-pdf"></span> 16:9 presentation size (0.3 MB)
 
 # Web version
 [Guide](../studyguide/README.md){:.heading.flip-title} --- Basics of the Bible Study Guide home page

@@ -13,8 +13,11 @@ image:
     480w:  /assets/img/projects/bbsgenglish@0,25x.png
 links:
   - title: WEB
-    url: ../../studyguide/
+    url: ../assets/pdfs/basicsofthebible.pdf
 sitemap: false
 ---
+# Widescreen version
+[PDF](../assets/pdfs/basicsofthebible.pdf)
 
+# Web version
 [Guide](../studyguide/README.md){:.heading.flip-title} --- Basics of the Bible Study Guide home page

@@ -16,8 +16,11 @@ links:
     url: ../../assets/pdfs/basicsofthebible_traditional.pdf
 sitemap: false
 ---
-# 寬屏版本
+
+聖經要義
+
+### 寬屏版本
 [PDF](../assets/pdfs/basicsofthebible_traditional.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 16:9 presentation size (4.4 MB)
 
-# 網頁版本
+### 網頁版本
 [聖經要義](../studyguide/簡介.md){:.heading.flip-title} --- 聖經要義學習指南

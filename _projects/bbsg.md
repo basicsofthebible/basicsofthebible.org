@@ -16,6 +16,7 @@ links:
     url: ../assets/pdfs/basicsofthebible.pdf
 sitemap: false
 ---
+
 # Widescreen version
 [PDF](../assets/pdfs/basicsofthebible.pdf) <span class="icon-file-pdf"></span> 16:9 presentation size (0.3 MB)
 

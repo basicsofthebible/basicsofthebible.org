@@ -13,7 +13,7 @@ image:
     480w:  /assets/img/projects/bbsgenglish@0,25x.png
 links:
   - title: WEB
-    url: ../../studyguide/README.md
+    url: ../../studyguide/
 sitemap: false
 ---
 

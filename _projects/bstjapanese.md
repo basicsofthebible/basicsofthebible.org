@@ -6,7 +6,7 @@ description: >
   聖書の構造とタイムラインの日本語訳。
 date: 1 Jan 2010
 image: 
-  path: /assets/img/projects/bstjapanese.png
+  path: /assets/img/projects/bstotjapanese.png
   srcset: 
     1920w: /assets/img/projects/bstotjapanese.png
     960w:  /assets/img/projects/bstotjapanese@0,5x.png

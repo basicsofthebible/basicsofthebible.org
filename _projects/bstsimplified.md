@@ -4,7 +4,7 @@ title: 'bstsimplified'
 caption: 圣经架构与时间表中文简化字
 description: >
   圣经结构与时间轴的中文翻译
-date: 1 Jan 2010
+date: 2 Jan 2010
 image: 
   path: /assets/img/projects/bstntsimplfied.png
   srcset: 

@@ -370,3 +370,6 @@
 .icon-quotes-right:before {
   content: "\e979"
 }
+.icon-display:before {
+  content: "\e956"
+}

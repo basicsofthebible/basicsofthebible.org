@@ -9,7 +9,7 @@ image:
   path: /assets/img/projects/bstothindi.png
   srcset: 
     1920w: /assets/img/projects/bstothindi.png
-    960w:  /assets/img/projects/bstotjhindi@0,5x.png
+    960w:  /assets/img/projects/bstothindi@0,5x.png
     480w:  /assets/img/projects/bstothindi@0,25x.png
 links:
   - title: PDF

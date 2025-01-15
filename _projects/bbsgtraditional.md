@@ -23,4 +23,4 @@ sitemap: false
 [PDF](../assets/pdfs/basicsofthebible_traditional.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 16:9 presentation size (4.4 MB)
 
 ### 網頁版本
-[聖經要義](../studyguide/簡介.md){:.heading.flip-title} <span class="icon-display-pdf"></span> --- 聖經要義學習指南
+[聖經要義](../studyguide/簡介.md){:.heading.flip-title} <span class="icon-display"></span> --- 聖經要義學習指南

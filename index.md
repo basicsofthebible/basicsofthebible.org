@@ -3,7 +3,7 @@ layout: page
 title: explaining the bible visually
 sitemap: false
 ---
-![Actual-size image](assets/img/misc/bb.png){: width="128" height="128" loading="lazy"}
+![Thumbnail image](assets/img/misc/bb.png){: width="64" height="64" loading="lazy"}  
 Thank you for visiting basicsofthebible.org, a collection of free Bible visualizations.
 
 ## About

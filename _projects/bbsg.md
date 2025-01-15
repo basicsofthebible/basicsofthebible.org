@@ -23,4 +23,4 @@ Basics of the Bible Study Guide
 [PDF](../assets/pdfs/basicsofthebible.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 16:9 presentation size (0.3 MB)
 
 ### Web version
-[Guide](../studyguide/README.md){:.heading.flip-title} <span class="icon-display-pdf"></span> --- Basics of the Bible Study Guide home page
+[Guide](../studyguide/README.md){:.heading.flip-title} <span class="icon-display"></span> --- Basics of the Bible Study Guide home page

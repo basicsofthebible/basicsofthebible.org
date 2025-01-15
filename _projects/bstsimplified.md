@@ -6,11 +6,11 @@ description: >
   圣经结构与时间轴的中文翻译
 date: 2 Jan 2010
 image: 
-  path: /assets/img/projects/bstntsimplfied.png
+  path: /assets/img/projects/bstntsimplified.png
   srcset: 
-    1920w: /assets/img/projects/bstntsimplfied.png
-    960w:  /assets/img/projects/bstntsimplfied@0,5x.png
-    480w:  /assets/img/projects/bstntsimplfied@0,25x.png
+    1920w: /assets/img/projects/bstntsimplified.png
+    960w:  /assets/img/projects/bstntsimplified@0,5x.png
+    480w:  /assets/img/projects/bstntsimplified@0,25x.png
 links:
   - title: PDF
     url: ../../assets/pdfs/圣经架构与时间表(简化字).pdf

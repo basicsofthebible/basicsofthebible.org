@@ -23,4 +23,4 @@ sitemap: false
 [PDF](../assets/pdfs/basicsofthebible_simplified.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 16:9 presentation size (4.4 MB)
 
 ### 网页版本
-[圣经要义](../studyguide/开始.md){:.heading.flip-title} <span class="icon-display-pdf"></span> --- 圣经要义学习指南
+[圣经要义](../studyguide/开始.md){:.heading.flip-title} <span class="icon-display"></span> --- 圣经要义学习指南

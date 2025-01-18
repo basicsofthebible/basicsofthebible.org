@@ -20,3 +20,5 @@ sitemap: false
 
 # Download
 [PDF](../../assets/pdfs/聖經架構與時間表(繁體字).pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 法定印刷尺寸 (0.4 MB)
+[PNG OT](../assets/img/hd/bstothdtraditional.png){:.heading.flip-title} <span class="icon-file-picture"></span> 高清圖片 (0.7 MB)
+[PNG NT](../assets/img/hd/bstnthdtraditional.png){:.heading.flip-title} <span class="icon-file-picture"></span> 高清圖片 (0.5 MB)

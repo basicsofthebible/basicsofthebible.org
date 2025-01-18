@@ -26,8 +26,8 @@ New Testament Structure and Timeline
 
 # BST in English
 [PDF](../assets/pdfs/BibleStructureTimeline.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](../assets/img/projects/bstot.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](../assets/img/projects/bstnt.png){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothd.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthd.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 # Translated versions  
 ## العربية Arabic 
@@ -42,13 +42,13 @@ New Testament Structure and Timeline
 
 ## 简体中文 Chinese (Simplified)
 [PDF](../assets/pdfs/圣经架构与时间表(简化字).pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothdsimplified.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthdsimplified.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## 繁體中文 Chinese (Traditional)
 [PDF](../assets/pdfs/聖經架構與時間表(繁體字).pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothdtraditional.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthdtraditional.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Chinese (Pinyin)
 [PDF](../assets/pdfs/SimplifiedChinesePinyin.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}

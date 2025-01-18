@@ -23,5 +23,5 @@ I created this graphic as a means to visualize both the structure of the Bible a
 
 # Download
 [PDF](../assets/pdfs/BibleStructureTimeline.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Legal print size (0.4 MB)  
-[PNG](../assets/img/projects/bstot.png){:.heading.flip-title} <span class="icon-file-picture"></span> Old Testament (0.6 MB)  
-[PNG](../assets/img/projects/bstnt.png){:.heading.flip-title} <span class="icon-file-picture"></span> New Testament (size)
+[PNG](../assets/img/hd/bstothd.png){:.heading.flip-title} <span class="icon-file-picture"></span> Old Testament (0.5 MB)  
+[PNG](../assets/img/hd/bstnthd.png){:.heading.flip-title} <span class="icon-file-picture"></span> New Testament (0.3 MB)

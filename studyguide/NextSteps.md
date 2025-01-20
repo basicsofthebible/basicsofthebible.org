@@ -28,7 +28,7 @@ Like *The Basics* and *Dig Deeper* lessons, the following plans also take you th
 
 <span class="bbsg_highlight">The Writings:</span> known as ketuvim in Hebrew, these are books of poetry and include: Job, Psalms, Proverbs, Ecclesiastes, and Song of Songs (also known as Song of Solomon). In Hebrew tradition, Ruth, Esther, Lamentations, 1-2 Chronicles, Ezra, Nehemiah and Daniel are considered part of the ketuvim, but a better understanding of the Bible as a whole is gained when these books are grouped with the historical books.
 
-See: [Old Testament Structure and Timeline](../_projects/bstot.md){:.heading.flip-title}
+See *Old Testament Structure and Timeline*: [bstot](../_projects/bstot.md){:.heading.flip-title}
 
 # The Structure of the Greek Scriptures
 <span class="bbsg_highlight">Historical books:</span> consisting of the four Gospels and Acts. The Gospels are named according to the author: Matthew, Mark, Luke and John. Matthew and John were two of the twelve disciples of Jesus during His earthly life and ministry. Mark was likely a young man who was among the larger band of disciples that followed Jesus. Luke was a Greek physician who came to believe in Jesus through Paul's missionary work. He also authored Acts.
@@ -37,7 +37,7 @@ See: [Old Testament Structure and Timeline](../_projects/bstot.md){:.heading.fli
 
 <span class="bbsg_highlight">Prophecy:</span> the only prophetic book of the Bible is Revelation, which tells of the return of Jesus to finalize His Kingdom after there has been sufficient time for all the nations to have a chance to hear and to respond to the message of salvation by believing in Jesus the Messiah.
 
-See: [New Testament Structure and Timeline](../_projects/bstnt.md){:.heading.flip-title}
+See *New Testament Structure and Timeline*: [bstnt](../_projects/bstnt.md){:.heading.flip-title}
 
 # Proposed Reading Plans
 The remainder of the Bible can be read and studied by breaking up into the following subjects:

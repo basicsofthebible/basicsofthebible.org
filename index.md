@@ -14,7 +14,7 @@ The groundwork for Basics of the Bible was laid in 2007 when I created study gui
 ## Start here
 * [Bible Structure and Timeline](bst/README.md){:.heading.flip-title} --- A visual guide that illustrates the structure of the Bible, arranged chronologically.
 * [Basics of the Bible Study Guide](studyguide/Introduction.md){:.heading.flip-title} --- A self-directed reading plan and study guide for people that are new to the Bible and want to learn what it means to be a follower of Jesus.
-* [Projects](_projects/) --- My portfolio of Bible graphics. 
+* [Projects](projects/){:.heading.flip-title} --- My portfolio of Bible graphics. 
 
 ## Share <span class="icon-qrcode"></span>
  ![Actual-size image](assets/img/misc/homepage_qr.png){: width="150" height="150" loading="lazy"}

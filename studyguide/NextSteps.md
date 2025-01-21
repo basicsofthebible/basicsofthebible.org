@@ -337,5 +337,3 @@ It is my prayer that <span class="bbsg_highlight">God</span> will continue to le
 {:.lead}
 
 [About](About.md){:.heading.flip-title} --- Click here to continue to the next section.
-
-Return to the guide home page.

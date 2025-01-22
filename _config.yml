@@ -54,8 +54,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
+  # - title:             Blog
+  #   url:               /blog/
   - title:             BST
     url:               /bst/
   - title:             Guide

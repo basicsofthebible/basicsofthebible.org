@@ -37,8 +37,8 @@ New Testament Structure and Timeline
 
 ## Bahasa Indonesian
 [PDF](../assets/pdfs/StrukturdanKronologiAlkitab_BahasaIndonesia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothdbahasaindonesia.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthdbahasaindonesia.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## 简体中文 Chinese (Simplified)
 [PDF](../assets/pdfs/圣经架构与时间表(简化字).pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
@@ -82,8 +82,8 @@ New Testament Structure and Timeline
 
 ##  日本語 Japanese
 [PDF](../assets/pdfs/聖書の構造と時系列.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothdjapanese.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthdjapanese.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## 한국어 Korean
 [PDF](../assets/pdfs/성경의구조와%20연대기.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}

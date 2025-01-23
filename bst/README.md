@@ -57,8 +57,8 @@ New Testament Structure and Timeline
 
 ## Français French
 [PDF](../assets/pdfs/StructureBibliqueEtChronologie.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothdfrench.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthdfrench.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Deutsch German
 [PDF](../assets/pdfs/GliederungUndZeitleisteDerBibel.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}

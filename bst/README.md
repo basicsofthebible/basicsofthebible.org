@@ -67,8 +67,8 @@ New Testament Structure and Timeline
 
 ##  हिंदी भाषा Hindi
 [PDF](../assets/pdfs/बाइबिलसंरचनाऔरसमयरेखा.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothdhindi.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthdhindi.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Magyar Hungarian
 [PDF](../assets/pdfs/BibliaSzerkezeteEsIdorendje.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}

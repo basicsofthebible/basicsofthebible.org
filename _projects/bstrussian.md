@@ -22,6 +22,6 @@ sitemap: false
 Корректеровка: АВБ
 
 # Download
-[PDF](../assets/pdfs/БиблейскаяСтруктураиИсторическаяЛиния.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>  (0.3 MB)  
-[PNG OT](../assets/img/hd/bstothdrussian.png){:.heading.flip-title} <span class="icon-file-picture"></span>  (0.5 MB)  
-[PNG NT](../assets/img/hd/bstnthdrussian.png){:.heading.flip-title} <span class="icon-file-picture"></span>  (0.4 MB)
+[PDF](../assets/pdfs/БиблейскаяСтруктураиИсторическаяЛиния.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> юридический формат бумаги (0.3 MB)  
+[PNG OT](../assets/img/hd/bstothdrussian.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD (0.5 MB)  
+[PNG NT](../assets/img/hd/bstnthdrussian.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD (0.4 MB)

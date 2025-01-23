@@ -87,8 +87,8 @@ New Testament Structure and Timeline
 
 ## 한국어 Korean
 [PDF](../assets/pdfs/성경의구조와%20연대기.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothdkorean.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthdkorean.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Português Portugeuse
 [PDF](../assets/pdfs/EstruturaBiblicaECronologia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}

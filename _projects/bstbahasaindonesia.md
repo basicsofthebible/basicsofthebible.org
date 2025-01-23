@@ -22,6 +22,6 @@ Diterjemahkan oleh: OpenAI GPT-4
 Diperiksa oleh: Edwin Sutanto
 
 # Download
-[PDF](../assets/pdfs/StrukturdanKronologiAlkitab_BahasaIndonesia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Ukuran cetak legal (0.4 MB)
+[PDF](../assets/pdfs/StrukturdanKronologiAlkitab_BahasaIndonesia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Ukuran cetak legal (0.4 MB)  
 [PNG OT](../assets/img/hd/bstothdbahasaindonesia.png){:.heading.flip-title} <span class="icon-file-picture"></span> Gambar HD (0.5 MB)  
 [PNG NT](../assets/img/hd/bstnthdbahasaindonesia.png){:.heading.flip-title} <span class="icon-file-picture"></span> Gambar HD (0.3 MB)

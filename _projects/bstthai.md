@@ -18,5 +18,10 @@ sitemap: false
 ---
 ฉันสร้างกราฟิกนี้ขึ้นมาเพื่อแสดงให้เห็นทั้งโครงสร้างของพระคัมภีร์และเพื่อให้เห็นภาพรวมของเหตุการณ์ทางประวัติศาสตร์ที่บันทึกไว้ในแต่ละเล่มของพระคัมภีร์ แน่นอนว่าเมื่อสร้างมุมมองภาพรวมในลักษณะนี้ บางครั้งก็ไม่สามารถแสดงข้อมูลทางประวัติศาสตร์ที่มีรายละเอียดทั้งหมดในพระคัมภีร์ได้อย่างแม่นยำ โครงร่างสีและการจัดโครงสร้างของหนังสือในพระคัมภีร์ได้รับแรงบันดาลใจจาก Walk Thru the Old Testament เนื้อหาสำหรับไทม์ไลน์มาจากงานวิจัยของฉันเองที่ใช้ใน Interactive Timeline of Bible History
 
+แปลโดย: OpenAI GPT-4
+ผู้ตรวจทาน/ตรวจสอบโดย: เนตรทราย แฮนเดรน
+
 # Download
-[PDF](../assets/pdfs/โครงสร้างและช่วงเวลาในพระคัมภีร์.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> ขนาดการพิมพ์ตามกฎหมาย (1.4 MB)
+[PDF](../assets/pdfs/โครงสร้างและช่วงเวลาในพระคัมภีร์.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> ขนาดการพิมพ์ตามกฎหมาย (1.4 MB)  
+[PNG OT](../assets/img/hd/bstothdthai.png){:.heading.flip-title} <span class="icon-file-picture"></span> เอชดี (0.5 MB)  
+[PNG NT](../assets/img/hd/bstnthdthai.png){:.heading.flip-title} <span class="icon-file-picture"></span> เอชดี (0.4 MB)

@@ -44,13 +44,13 @@ author:
   name:                Shawn Handran
   email:               
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             basicsbible
   picture:
-    path:            https://github.com/basicsofthebible/basicsofthebible.org/blob/main/assets/img/profile/profile_128x128.png
+    path:            assets/img/profile/profile_128x128.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://github.com/basicsofthebible/basicsofthebible.org/blob/main/assets/img/profile/profile_128x128.png
-      2x:            https://github.com/basicsofthebible/basicsofthebible.org/blob/main/assets/img/profile/profile_256x256.png
+      1x:            assets/img/profile/profile_128x128.png
+      2x:            assets/img/profile/profile_256x256.png
 
 # Add links to the sidebar.
 menu:

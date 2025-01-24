@@ -1,10 +1,9 @@
 ---
 layout: project
 title: 'bstpinyin'
-caption: Bible Structure and Timeline New Testament in Simplified Chinese with Pinyin
+caption: jiù yuē de jià gòu yǔ shí jiān zhóu
 description: >
-  A visual guide that illustrates the structure of the Bible, arranged chronologically. 
-  Provides a better understanding of when the events described in the Bible occurred in history.
+  Bible Structure and Timeline in Simplified Chinese with Pinyin for language learners.
 date: 8 Jan 2010
 image: 
   path: /assets/img/projects/bstntpinyin.png
@@ -17,7 +16,10 @@ links:
     url: ../../assets/pdfs/SimplifiedChinesePinyin.pdf
 sitemap: false
 ---
-I created this graphic as a means to visualize both the structure of the Bible as well as providing a rough timeline of the historical events recorded in each book of the Bible. Of course, when creating a big picture view such as this, it isn’t always possible to accurately represent all the detailed historical information recorded in the Bible. The color scheme and structural organization of the books of the Bible was inspired by *Walk Thru the Old Testament*. The timeline material comes from my own research used in the *Interactive Timeline of Bible History*.
+我创建了这个图表，用以直观展示圣经的结构，同时提供每卷圣经所记录的历史事件的大致时间轴。当然，在创建这样的大局观时，并不总能准确呈现圣经中记录的所有详细历史信息。圣经各卷书的颜色方案和结构组织灵感来源于*《漫步旧约》*，时间轴的内容则来自我用于*《圣经历史互动时间轴》*中的研究。
+
+翻译者: 洪嘉汉，刘思圆  
+校正者: 赵恬
 
 # Download
 [PDF](../assets/pdfs/SimplifiedChinesePinyin.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Legal print size (0.4 MB)  

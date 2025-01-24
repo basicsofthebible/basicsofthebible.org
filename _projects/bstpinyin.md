@@ -5,7 +5,7 @@ caption: Bible Structure and Timeline New Testament in Simplified Chinese with P
 description: >
   A visual guide that illustrates the structure of the Bible, arranged chronologically. 
   Provides a better understanding of when the events described in the Bible occurred in history.
-date: 8 Jan 2008
+date: 8 Jan 2012
 image: 
   path: /assets/img/projects/bstntpinyin.png
   srcset: 

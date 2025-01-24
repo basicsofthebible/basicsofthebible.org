@@ -52,8 +52,8 @@ New Testament Structure and Timeline
 
 ## Chinese (Pinyin)
 [PDF](../assets/pdfs/SimplifiedChinesePinyin.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothdpinyin.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthdpinyin.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Français French
 [PDF](../assets/pdfs/StructureBibliqueEtChronologie.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}

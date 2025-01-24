@@ -32,8 +32,8 @@ New Testament Structure and Timeline
 # Translated versions  
 ## العربية Arabic 
 [PDF](../assets/pdfs/الترتيبالزمنيوالهيكليالكتابالمقدس.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothdarabic.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthdarabic.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Bahasa Indonesian
 [PDF](../assets/pdfs/StrukturdanKronologiAlkitab_BahasaIndonesia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}

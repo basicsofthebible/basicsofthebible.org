@@ -14,7 +14,7 @@ image:
 links:
   - title: PDF
     url: ../../assets/pdfs/7ChurchesOfRevelation.pdf
-sitemap: false
+sitemap: true
 ---
 
 This graphic attempts to facilitate interpretation of this stunningly complex book through a visual approach. The front side of the graphic introduces the interpretive frameworks of Revelation, numerical symbolism found in the book, and a graphic description of the Seven Churches of Revelation, as described in Chapters 2-3. Formatted for large, tabloid-size paper (11x17 in).

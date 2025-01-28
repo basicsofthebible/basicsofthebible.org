@@ -14,7 +14,7 @@ image:
 links:
   - title: PDF
     url: ../../assets/pdfs/StructureOfRevelation.pdf
-sitemap: false
+sitemap: true
 ---
 
 The graphic facilitates interpretation of this stunningly complex book. Includes a tabulation of cross-references with other scripture (from [Open Bible](https://www.openbible.info/labs/cross-references/)), and the chiastic organization (from [Bibilcal Blueprints](https://revelation.biblicalblueprints.com/home)). Formatted for large, tabloid-size paper (11x17 in).

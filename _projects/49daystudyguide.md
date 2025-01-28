@@ -14,7 +14,7 @@ image:
 links:
   - title: PDF
     url: ../../assets/pdfs/49DayStudyGuide.pdf
-sitemap: false
+sitemap: true
 ---
 
 A printable Bible reading schedule that accompanies Parts 1 (The Basics) and 2 (Dig Deeper) of the Basics of the [Bible Study Guide](../studyguide/README.md){:.heading.flip-title}.  

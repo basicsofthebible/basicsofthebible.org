@@ -14,7 +14,7 @@ image:
 links:
   - title: PDF
     url: ../../assets/pdfs/basicsofthebible_simplified.pdf
-sitemap: false
+sitemap: true
 ---
 
 圣经要义

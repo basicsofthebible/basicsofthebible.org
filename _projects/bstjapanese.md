@@ -14,7 +14,7 @@ image:
 links:
   - title: PDF
     url: ../../assets/pdfs/聖書の構造と時系列.pdf
-sitemap: false
+sitemap: true
 ---
 このグラフィックは、聖書の構造を視覚化すると同時に、各書に記録されている歴史的出来事のおおまかなタイムラインを示すために作成しました。もちろん、このような全体像を描く際には、聖書に記録されている詳細な歴史情報を正確に反映することが常に可能であるとは限りません。聖書の書の色の配色と構造的な配置は、*Walk Thru the Old Testament* に触発されたものです。タイムラインの内容は、私自身の研究に基づくもので、*Interactive Timeline of Bible History* に使用されています。
 

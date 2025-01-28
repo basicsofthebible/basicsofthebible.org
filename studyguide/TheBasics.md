@@ -4,7 +4,7 @@ title: TheBasics
 description: >
   Part 1: The Basics.
 hide_description: true
-sitemap: false
+sitemap: true
 ---
 * The Basics: Big Picture Summary
 * The Basics Reading Schedule

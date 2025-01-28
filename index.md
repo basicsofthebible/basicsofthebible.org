@@ -1,7 +1,7 @@
 ---
 layout: page
 title: explaining the bible visually
-sitemap: false
+sitemap: true
 ---
 ![Thumbnail image](assets/img/misc/bb.png){: width="64" height="64" loading="lazy"}  
 

@@ -14,7 +14,7 @@ image:
 links:
   - title: PDF
     url: ../../assets/pdfs/basicsofthebible_traditional.pdf
-sitemap: false
+sitemap: true
 ---
 
 聖經要義

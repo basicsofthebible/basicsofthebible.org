@@ -14,7 +14,7 @@ image:
 links:
   - title: PDF
     url: ../../assets/pdfs/basicsofthebible.pdf
-sitemap: false
+sitemap: true
 ---
 
 Basics of the Bible Study Guide

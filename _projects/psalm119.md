@@ -15,7 +15,7 @@ image:
 links:
   - title: PDF
     url: ../../assets/pdfs/psalm119.pdf
-sitemap: false
+sitemap: true
 ---
 
 Psalm 119 is one of the most amazing passages in the Bible. We can miss a lot of the beauty and structure of Psalm 119 if we do not look at it in the original language it was written, Hebrew. This psalm is divided into 22 sections: one for each letter of the Hebrew alphabet. Each section is composed of 8 verses and each verse begins with the same Hebrew letter. It is likely that this was for both aesthetics and as a memorization aid. This kind of poem is known as an acrostic. Each verse contains a special word pertaining to Yahweh's law, ordinances, word, commandments, statutes, precepts and decrees. In most cases, each verse contains a single instance of the special word; except in 6 cases where the verse contains two special words; and in 1 case (verse 122), where no special word occurs. The usual verse structure is AB, except in 3 verses with an A structure and 1 verse that adds a cry for help at the end of an AB structure. The Name of the Creator God is used in interesting ways in Psalm 119. In all cases except one, the Personal Name of the Creator God (Yahweh) is used, appearing 24 times. Multiples of twelve are frequently used in the Bible. In the remaining case, the Hebrew word Elohiym is used, which means Creator God.

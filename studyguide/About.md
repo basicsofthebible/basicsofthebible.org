@@ -4,7 +4,7 @@ title: About
 description: >
   About this guide.
 hide_description: true
-sitemap: false
+sitemap: true
 ---
 # About this Guide
 <span class="icon-quotes-left"></span><span class="bbsg_highlight">

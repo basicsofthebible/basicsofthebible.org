@@ -16,7 +16,7 @@ image:
 links:
   - title: PDF
     url: ../../assets/pdfs/BibleStructureTimeline.pdf
-sitemap: false
+sitemap: true
 ---
 
 I created this graphic as a means to visualize both the structure of the Bible as well as providing a rough timeline of the historical events recorded in each book of the Bible. Of course, when creating a big picture view such as this, it isn’t always possible to accurately represent all the detailed historical information recorded in the Bible. The color scheme and structural organization of the books of the Bible was inspired by *Walk Thru the Old Testament*. The timeline material comes from my own research used in the *Interactive Timeline of Bible History*.

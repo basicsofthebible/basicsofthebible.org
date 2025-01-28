@@ -4,7 +4,7 @@ title: NextSteps
 description: >
   Part 3: Next Steps.
 hide_description: true
-sitemap: false
+sitemap: true
 ---
 * Next Steps: Big Picture Summary
 * The Structure of the Hebrew Scriptures

@@ -4,7 +4,7 @@ title: DigDeeper
 description: >
   Part 2: Dig Deeper.
 hide_description: true
-sitemap: false
+sitemap: true
 ---
 * Dig Deeper: Big Picture Summary
 * More Background for the Dig Deeper Study

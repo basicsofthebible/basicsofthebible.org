@@ -4,7 +4,7 @@ title: Introduction
 description: >
   Introduction to Basics of the Bible Study Guide.
 hide_description: true
-sitemap: false
+sitemap: true
 ---
 * Welcome
 * The Non-Sequential Reading Approach

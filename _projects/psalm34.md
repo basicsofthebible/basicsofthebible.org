@@ -14,7 +14,7 @@ image:
 links:
   - title: PDF
     url: ../../assets/pdfs/Psalm34.pdf
-sitemap: false
+sitemap: true
 ---
 
 Psalm 25 is one of several acrostic poems in the Bible (others include Psalms 9, 10, 25, 37, 111, 112, 119, and 145; Proverbs 31; and Lamentations).  

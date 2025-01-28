@@ -14,7 +14,7 @@ image:
 links:
   - title: PDF
     url: ../../assets/pdfs/StrukturdanKronologiAlkitab_BahasaIndonesia.pdf
-sitemap: false
+sitemap: true
 ---
 Saya membuat grafik ini sebagai cara untuk memvisualisasikan baik struktur Alkitab maupun memberikan garis waktu kasar dari peristiwa-peristiwa sejarah yang dicatat dalam setiap kitab Alkitab. Tentu saja, ketika membuat pandangan gambaran besar seperti ini, tidak selalu mungkin untuk secara akurat merepresentasikan semua informasi sejarah rinci yang dicatat dalam Alkitab. Skema warna dan organisasi struktural kitab-kitab dalam Alkitab terinspirasi oleh Walk Thru the Old Testament. Materi garis waktu berasal dari penelitian saya sendiri yang digunakan dalam Interactive Timeline of Bible History.
 

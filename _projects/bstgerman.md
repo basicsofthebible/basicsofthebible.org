@@ -22,5 +22,5 @@ Ich habe diese Grafik erstellt, um sowohl die Struktur der Bibel zu visualisiere
 
 # Download
 [PDF](../assets/pdfs/GliederungUndZeitleisteDerBibel.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Papierformat Legal (0.3 MB)  
-[PNG OT](../assets/img/hd/bstothdfrench.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD-Bilder (0.5 MB)  
-[PNG NT](../assets/img/hd/bstnthdfrench.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD-Bilder (0.4 MB)
+[PNG OT](../assets/img/hd/bstothdgerman.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD-Bilder (0.5 MB)  
+[PNG NT](../assets/img/hd/bstnthdgerman.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD-Bilder (0.4 MB)

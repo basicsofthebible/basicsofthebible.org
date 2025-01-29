@@ -102,8 +102,8 @@ New Testament Structure and Timeline
 
 ## Español Spanish
 [PDF](../assets/pdfs/EstructuraBiblicaYCronograma.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothdspanish.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthdspanish.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## ภาษาไทย Thai
 [PDF](../assets/pdfs/โครงสร้างและช่วงเวลาในพระคัมภีร์.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}

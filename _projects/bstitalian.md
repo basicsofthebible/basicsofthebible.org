@@ -8,9 +8,9 @@ date: 1 Jan 2019
 image: 
   path: /assets/img/projects/bstntgitalian.png
   srcset: 
-    1920w: /assets/img/projects/bstntgitalian.png
-    960w:  /assets/img/projects/bstntgitalian@0,5x.png
-    480w:  /assets/img/projects/bstntgitalian@0,25x.png
+    1920w: /assets/img/projects/bstntitalian.png
+    960w:  /assets/img/projects/bstntitalian@0,5x.png
+    480w:  /assets/img/projects/bstntitalian@0,25x.png
 links:
   - title: PDF
     url: ../../assets/pdfs/StrutturaELineaCronologicaDellaBibbia.pdf

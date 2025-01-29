@@ -3,7 +3,7 @@ layout: project
 title: 'bstspanish'
 caption: Estructura Biblica Y Cronograma
 description: >
-  Estructura Biblica y Cronograma en español"
+  Estructura Biblica y Cronograma en español
 date: 11 Jan 2010
 image: 
   path: /assets/img/projects/bstotspanish.png

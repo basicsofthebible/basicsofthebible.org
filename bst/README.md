@@ -77,8 +77,8 @@ New Testament Structure and Timeline
 
 ## Italiano Italian
 [PDF](../assets/pdfs/StrutturaELineaCronologicaDellaBibbia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothditalian.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthditalian.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ##  日本語 Japanese
 [PDF](../assets/pdfs/聖書の構造と時系列.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
@@ -92,8 +92,8 @@ New Testament Structure and Timeline
 
 ## Português Portuguese
 [PDF](../assets/pdfs/EstruturaBiblicaECronologia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothdportuguese.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthdportuguese.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 ## Русский Russian
 [PDF](../assets/pdfs/БиблейскаяСтруктураиИсторическаяЛиния.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}

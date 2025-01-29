@@ -90,7 +90,7 @@ New Testament Structure and Timeline
 [PNG OT](../assets/img/hd/bstothdkorean.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
 [PNG NT](../assets/img/hd/bstnthdkorean.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
-## Português Portugeuse
+## Português Portuguese
 [PDF](../assets/pdfs/EstruturaBiblicaECronologia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
 [PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
 [PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>

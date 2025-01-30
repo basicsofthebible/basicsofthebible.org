@@ -112,8 +112,8 @@ New Testament Structure and Timeline
 
 ## Tiếng Việt Vietnamese
 [PDF](../assets/pdfs/VietnameseBST.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>{{ site.data.strings.large_separator }}
-[PNG OT](){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
-[PNG NT](){:.heading.flip-title} <span class="icon-file-picture"></span>
+[PNG OT](../assets/img/hd/bstothdvietnamese.png){:.heading.flip-title} <span class="icon-file-picture"></span>{{ site.data.strings.large_separator }}
+[PNG NT](../assets/img/hd/bstnthdvietnamese.png){:.heading.flip-title} <span class="icon-file-picture"></span>
 
 # BST Source Files
 Create your own translation of the Bible Structure and Timeline in Adobe Illustrator or Microsoft Publisher.

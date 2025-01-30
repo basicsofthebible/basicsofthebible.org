@@ -22,5 +22,5 @@ Tôi đã tạo đồ họa này để hình dung cả cấu trúc của Kinh Th
 
 # Download
 [PDF](../assets/pdfs/VietnameseBST.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Khổ giấy Legal (0.3 MB)  
-[PNG OT](../assets/img/hd/bstothdvietnamese){:.heading.flip-title} <span class="icon-file-picture"></span> HD (0.5 MB)  
+[PNG OT](../assets/img/hd/bstothdvietnamese.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD (0.5 MB)  
 [PNG NT](../assets/img/hd/bstnthdvietnamese.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD (0.3 MB)

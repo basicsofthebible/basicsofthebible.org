@@ -21,7 +21,7 @@ This is a <span class="bbsg_highlight">self-directed study</span> to assist you 
 
 The course consists of <span class="bbsg_highlight">two parts</span>: the first covers the basics and can be completed in two weeks. The second part "digs deeper" into the Bible and takes an additional five weeks of daily reading. This study lays the basic foundation for understanding the Bible and what it means to be a follower of Jesus.
 
-After completing this course, you will be <span class="bbsg_highlight">equipped</span>, <span class="bbsg_highlight">empowered</span> and <span class="bbsg_highlight">excited</span> to continue your study of the Bible.
+After completing this course, you will be <span class="bbsg_highlight">equipped, empowered and excited</span> to continue your study of the Bible.
 
 # The Non-Sequential Reading Approach
 Most people that are new to the Bible approach it like any other book that they read——they start at the beginning and read linearly through to the end. 

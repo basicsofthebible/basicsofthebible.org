@@ -20,6 +20,7 @@ sitemap: true
 This graphic attempts to facilitate interpretation of this stunningly complex book through a visual approach. The front side of the graphic introduces the interpretive frameworks of Revelation, numerical symbolism found in the book, and a graphic description of the Seven Churches of Revelation, as described in Chapters 2-3. Formatted for large, tabloid-size paper (11x17 in).
 
 # Download
-[PDF](../assets/pdfs/7ChurchesOfRevelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Tabloid print size (5.6 MB)  
-[PNG](../assets/img/projects/7churchesofrevelation.png){:.heading.flip-title} <span class="icon-file-picture"></span> 7 Churches of Revelation tabloid print size (1.1 MB)  
-[PNG](../assets/img/projects/structureofrevelation.png){:.heading.flip-title} <span class="icon-file-picture"></span> Structure of Revelation tabloid print size (1.3 MB)
+[PDF](../assets/pdfs/7ChurchesOfRevelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 7 Churches of Revelation Tabloid print size (5.6 MB)  
+[PNG](../assets/img/projects/7churchesofrevelation.png){:.heading.flip-title} <span class="icon-file-picture"></span> 7 Churches of Revelation HD image (1.1 MB)  
+[PDF](../assets/pdfs/StructureOfRevelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Structure of Revelation Tabloid print size (21 MB)  
+[PNG](../assets/img/projects/structureofrevelation.png){:.heading.flip-title} <span class="icon-file-picture"></span> Structure of Revelation HD image (1.3 MB)

@@ -23,4 +23,4 @@ This graphic attempts to facilitate interpretation of this stunningly complex bo
 [PDF](../assets/pdfs/7ChurchesOfRevelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 7 Churches of Revelation Tabloid print size (5.6 MB)  
 [PNG](../assets/img/hd/7churchesofrevelationhd.png){:.heading.flip-title} <span class="icon-file-picture"></span> 7 Churches of Revelation HD image (1.7 MB)  
 [PDF](../assets/pdfs/StructureOfRevelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Structure of Revelation Tabloid print size (21 MB)  
-[PNG](../assets/img/hd/structureofrevelationhd.png){:.heading.flip-title} <span class="icon-file-picture"></span> Structure of Revelation HD image (3.2 MB)
+[PNG](../assets/img/hd/structureofrevelationhd.png){:.heading.flip-title} <span class="icon-file-picture"></span> Structure of Revelation HD image (3.3 MB)

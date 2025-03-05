@@ -51,13 +51,13 @@ La Biblia consta de las Escrituras <span class="bbsg_highlight">Hebreas</span> y
 
 Las Escrituras <span class="bbsg_highlight">hebreas</span> contienen <span class="bbsg_highlight">39 libros</span> escritos por muchos autores diferentes a lo largo de un período de mil años, aproximadamente entre 1400 y 400 a.C. Excepto por algunas secciones, está escrito enteramente en hebreo. Una descripción más detallada de las Escrituras Hebreas se incluye más adelante en este estudio, pero para los propósitos de esta introducción, es suficiente resumir que las Escrituras Hebreas en su conjunto narran una tarea especial y única que el Dios Creador dio a los descendientes de un hombre llamado Abraham: los <span class="bbsg_highlight">israelitas</span>. El propósito de esta tarea era que los israelitas fueron "comisionados" para contarle a todas las demás personas del mundo acerca del <span class="bbsg_highlight">Dios Creador</span>. Las Escrituras Hebreas contienen muchas referencias sobre la venida de un Mesías (que es la palabra hebrea para salvador o rescatador).
 
-![Imagen de ancho completo](../assets/img/projects/bstot.png){:.lead width="800" height="100" loading="lazy"}
+![Imagen de ancho completo](../assets/img/projects/bstotspanish.png){:.lead width="800" height="100" loading="lazy"}
 Estructura y Cronología del Antiguo Testamento
 {:.figcaption}
 
 Las <span class="bbsg_highlight">Escrituras Griegas</span> contienen <span class="bbsg_highlight">27 libros</span>, también escritos por varios autores diferentes a lo largo de un período de aproximadamente 50 años, alrededor del 40-90 d.C. Las Escrituras Griegas muestran cómo el Dios Creador entró en la historia al convertirse en humano, cumpliendo lo que estaba escrito en las Escrituras Hebreas acerca de la venida del <span class="bbsg_highlight">Mesías</span> (Salvador). El Mesías es un descendiente de Abraham llamado Yeshúa (Josué), o como se traduce en inglés: Jesús. La palabra griega para Mesías es Christos, de donde se deriva el título <span class="bbsg_highlight">Cristo</span>. Hoy, juntamos el nombre y el título: Jesús (el) Cristo.
 
-![Imagen a todo ancho](../assets/img/projects/bstnt.png){:.lead width="800" height="100" loading="lazy"}
+![Imagen a todo ancho](../assets/img/projects/bstotspanish.png){:.lead width="800" height="100" loading="lazy"}
 Estructura y Línea de Tiempo del Nuevo Testamento
 {:.figcaption}
 

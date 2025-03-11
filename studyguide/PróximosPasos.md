@@ -338,4 +338,4 @@ Es mi oración que <span class="bbsg_highlight">Dios</span> continúe guiándote
 <span class="icon-quotes-left"></span>A aquel que es poderoso para guardarte de caer y para presentarte sin mancha y con gran alegría ante su gloriosa presencia; al único Dios, nuestro Salvador, sea gloria, majestad, poder y autoridad, por medio de Jesucristo nuestro Señor, desde antes de todos los tiempos, ahora y por siempre. ¡Amén!<span class="icon-quotes-right"></span>
 {:.lead}
 
-[Acerca de](About.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.
+[Acerca de](Acercade.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.

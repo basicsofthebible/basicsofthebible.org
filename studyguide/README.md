@@ -38,7 +38,7 @@ Most people that are new to the Bible approach it like any other book that they 
 * [Introducción]{:.heading.flip-title} --- Antes de comenzar el plan de lectura de 49 días.
 * [LosFundamentos]{:.heading.flip-title} --- Obtén el panorama general de la Biblia en dos semanas.
 * [Profundizar]{:.heading.flip-title} --- Profundiza en la Biblia en cinco semanas adicionales.
-* [PróximosPasos]{:.heading.flip-title} --- You are now equipped to go through the rest of the Bible at your own pace.
+* [PróximosPasos]{:.heading.flip-title} --- Ahora estás equipado para recorrer el resto de la Biblia a tu propio ritmo.
 * [About]{:.heading.flip-title} --- About this guide.
 {:.related-posts.faded}
 

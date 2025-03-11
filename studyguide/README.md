@@ -39,7 +39,7 @@ Most people that are new to the Bible approach it like any other book that they 
 * [LosFundamentos]{:.heading.flip-title} --- Obtén el panorama general de la Biblia en dos semanas.
 * [Profundizar]{:.heading.flip-title} --- Profundiza en la Biblia en cinco semanas adicionales.
 * [PróximosPasos]{:.heading.flip-title} --- Ahora estás equipado para recorrer el resto de la Biblia a tu propio ritmo.
-* [About]{:.heading.flip-title} --- About this guide.
+* [Acercade]{:.heading.flip-title} --- Acerca de esta guía.
 {:.related-posts.faded}
 
 
@@ -75,6 +75,6 @@ Most people that are new to the Bible approach it like any other book that they 
 [LosFundamentos]: LosFundamentos.md
 [Profundizar]: Profundizar.md
 [PróximosPasos]: PróximosPasos.md
-[]:
+[Acercade]: Acercade.md
 
 [परिचय]: परिचय.md

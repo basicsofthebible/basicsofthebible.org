@@ -155,4 +155,4 @@ Aunque solo hemos leído un poco más de tres libros de la Biblia (de un total d
 
 A medida que continúas tu viaje a través del estudio Profundiza, ten esto en mente: de hecho, saber que las respuestas a tus preguntas podrían estar <span class="bbsg_highlight">"a la vuelta de la esquina"</span> hace que sea muy emocionante leer la Biblia y ¡te encontrarás sin querer dejarla!
 
-[DigDeeper](DigDeeper.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.
+[Profundizar](Profundizar.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.

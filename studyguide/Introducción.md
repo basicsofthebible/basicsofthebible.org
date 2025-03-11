@@ -70,4 +70,4 @@ La mayoría de los libros están divididos en <span class="bbsg_highlight">capí
 
 <span class="bbsg_highlight">Juan 3:16</span>	<sup>16</sup>Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree no se pierda, mas tenga vida eterna.
 
-[TheBasics](TheBasics.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.
+[LosFundamentos](LosFundamentos.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.

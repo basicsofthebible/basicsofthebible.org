@@ -34,11 +34,11 @@ Most people that are new to the Bible approach it like any other book that they 
 * [關於這本導讀]{:.heading.flip-title} --- 關於這本導讀。
 {:.related-posts.faded}
 
-## La guía en español.
+## La guía en español
 * [Introducción]{:.heading.flip-title} --- Antes de comenzar el plan de lectura de 49 días.
 * [LosFundamentos]{:.heading.flip-title} --- Obtén el panorama general de la Biblia en dos semanas.
 
-## हिंदी में मार्गदर्शिका.
+## हिंदी में मार्गदर्शिका
 * [परिचय]{:.heading.flip-title} --- 49 दिन की पठन योजना शुरू करने से पहले.
 
 ## Presentation versions

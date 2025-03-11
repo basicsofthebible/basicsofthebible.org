@@ -37,9 +37,11 @@ Most people that are new to the Bible approach it like any other book that they 
 ## La guía en español
 * [Introducción]{:.heading.flip-title} --- Antes de comenzar el plan de lectura de 49 días.
 * [LosFundamentos]{:.heading.flip-title} --- Obtén el panorama general de la Biblia en dos semanas.
+* [Profundizar]{:.heading.flip-title} --- Profundiza en la Biblia en cinco semanas adicionales.
 
 ## हिंदी में मार्गदर्शिका
 * [परिचय]{:.heading.flip-title} --- 49 दिन की पठन योजना शुरू करने से पहले.
+
 
 ## Presentation versions
 [PDF](../assets/pdfs/basicsofthebible.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> English 16:9 presentation size (0.3 MB)  
@@ -66,5 +68,6 @@ Most people that are new to the Bible approach it like any other book that they 
 
 [Introducción]: Introducción.md
 [LosFundamentos]: LosFundamentos.md
+[Profundizar]: Profundizar.md
 
 [परिचय]: परिचय.md

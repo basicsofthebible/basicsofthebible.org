@@ -158,4 +158,4 @@ Pero antes de continuar, aprendamos una lección importante del libro de Hechos.
 
 Ser un bereano significa examinar y estudiar las Escrituras por ti mismo para ver si lo que Pablo (o cualquier otra persona) dice acerca de Dios es verdad. Al embarcarte en tu viaje, te animo a <span class="bbsg_highlight">ser un bereano por el resto de tu vida</span>.
 
-[PróximosPasos](NextSteps.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.
+[PróximosPasos](PróximosPasos.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.

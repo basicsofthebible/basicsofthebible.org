@@ -11,7 +11,7 @@ Most people that are new to the Bible approach it like any other book that they 
 {:.note}
 
 ## The Guide in English
-* [Introduction]{:.heading.flip-title} --- Before you start the 49 day reading plan.
+* [Introduction]{:.heading.flip-title} --- Before you start the 49-day reading plan.
 * [TheBasics]{:.heading.flip-title} --- Get the big picture of the Bible in two weeks.
 * [DigDeeper]{:.heading.flip-title} --- Dig deeper into the Bible in five additional weeks.
 * [NextSteps]{:.heading.flip-title} --- You are now equipped to go through the rest of the Bible at your own pace.
@@ -33,6 +33,13 @@ Most people that are new to the Bible approach it like any other book that they 
 * [下一步驟]{:.heading.flip-title} --- 現在您已準備好按照自己的節奏完成聖經的其餘部分。
 * [關於這本導讀]{:.heading.flip-title} --- 關於這本導讀。
 {:.related-posts.faded}
+
+## La guía en español.
+* [Introducción]{:.heading.flip-title} --- Antes de comenzar el plan de lectura de 49 días.
+* [LosFundamentos]{:.heading.flip-title} --- Obtén el panorama general de la Biblia en dos semanas.
+
+## हिंदी में मार्गदर्शिका.
+* [परिचय]{:.heading.flip-title} --- 49 दिन की पठन योजना शुरू करने से पहले.
 
 ## Presentation versions
 [PDF](../assets/pdfs/basicsofthebible.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> English 16:9 presentation size (0.3 MB)  
@@ -57,3 +64,7 @@ Most people that are new to the Bible approach it like any other book that they 
 [下一步驟]: 下一步驟.md
 [關於這本導讀]: 關於這本導讀.md
 
+[Introducción]: Introducción.md
+[LosFundamentos]: LosFundamentos.md
+
+[परिचय]: परिचय.md

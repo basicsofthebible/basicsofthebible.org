@@ -4,7 +4,7 @@ description: >
 hide_description: true
 layout: page
 sitemap: true
-title: NextSteps
+title: PróximosPasos
 ---
 
 * Siguientes Pasos: Resumen General

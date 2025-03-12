@@ -1,7 +1,6 @@
 ---
-description: 'Parte 2: Profundizar.
-
-  '
+description: >
+  Parte 2: Profundizar.
 hide_description: true
 layout: page
 sitemap: true

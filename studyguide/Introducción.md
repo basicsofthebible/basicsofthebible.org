@@ -57,7 +57,7 @@ Estructura y Cronología del Antiguo Testamento
 
 Las <span class="bbsg_highlight">Escrituras Griegas</span> contienen <span class="bbsg_highlight">27 libros</span>, también escritos por varios autores diferentes a lo largo de un período de aproximadamente 50 años, alrededor del 40-90 d.C. Las Escrituras Griegas muestran cómo el Dios Creador entró en la historia al convertirse en humano, cumpliendo lo que estaba escrito en las Escrituras Hebreas acerca de la venida del <span class="bbsg_highlight">Mesías</span> (Salvador). El Mesías es un descendiente de Abraham llamado Yeshúa (Josué), o como se traduce en inglés: Jesús. La palabra griega para Mesías es Christos, de donde se deriva el título <span class="bbsg_highlight">Cristo</span>. Hoy, juntamos el nombre y el título: Jesús (el) Cristo.
 
-![Imagen a todo ancho](../assets/img/projects/bstotspanish.png){:.lead width="800" height="100" loading="lazy"}
+![Imagen a todo ancho](../assets/img/projects/bstntspanish.png){:.lead width="800" height="100" loading="lazy"}
 Estructura y Línea de Tiempo del Nuevo Testamento
 {:.figcaption}
 

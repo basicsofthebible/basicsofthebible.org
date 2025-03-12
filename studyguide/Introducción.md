@@ -1,7 +1,6 @@
 ---
-description: 'Introducción a los Fundamentos de la Guía de Estudio Bíblico.
-
-  '
+description: >
+  Introducción a los Fundamentos de la Guía de Estudio Bíblico.
 hide_description: true
 layout: page
 sitemap: true

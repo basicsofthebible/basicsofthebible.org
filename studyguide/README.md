@@ -49,6 +49,9 @@ Most people that are new to the Bible approach it like any other book that they 
 {:.related-posts.faded}
 
 
+## Reading schedule
+[PDF](../assets/pdfs/49DayStudyGuide.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 49 Day Study Guide Letter size (0.5 MB)
+
 ## Presentation versions
 [PDF](../assets/pdfs/basicsofthebible.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> English 16:9 presentation size (0.3 MB)  
 [PDF](../assets/pdfs/basicsofthebible_simplified.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Chinese (Simplified) 16:9 presentation size (3.0 MB)  

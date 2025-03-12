@@ -45,6 +45,7 @@ Most people that are new to the Bible approach it like any other book that they 
 
 ## हिंदी में मार्गदर्शिका
 * [परिचय]{:.heading.flip-title} --- 49 दिन की पठन योजना शुरू करने से पहले.
+* [मूलबातें]{:.heading.flip-title} --- दो हफ्तों में बाइबिल की समग्र तस्वीर समझें।
 {:.related-posts.faded}
 
 
@@ -78,3 +79,4 @@ Most people that are new to the Bible approach it like any other book that they 
 [Acercade]: Acercade.md
 
 [परिचय]: परिचय.md
+[मूलबातें]: मूलबातें.md

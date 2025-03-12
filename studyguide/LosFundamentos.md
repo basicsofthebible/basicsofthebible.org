@@ -1,7 +1,6 @@
 ---
-description: 'Parte 1: Los Fundamentos.
-
-  '
+description: >
+  Parte 1: Los Fundamentos.
 hide_description: true
 layout: page
 sitemap: true

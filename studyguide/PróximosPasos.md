@@ -1,7 +1,6 @@
 ---
-description: 'Parte 3: Siguientes Pasos.
-
-  '
+description: >
+  Parte 3: Siguientes Pasos.
 hide_description: true
 layout: page
 sitemap: true

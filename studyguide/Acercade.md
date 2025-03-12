@@ -1,7 +1,6 @@
 ---
-description: 'Acerca de esta guía.
-
-  '
+description: >
+  Acerca de esta guía.
 hide_description: true
 layout: page
 sitemap: true

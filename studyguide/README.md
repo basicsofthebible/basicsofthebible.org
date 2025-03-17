@@ -51,6 +51,13 @@ Most people that are new to the Bible approach it like any other book that they 
 * [केबारेमें]{:.heading.flip-title} --- इस मार्गदर्शिका के बारे में
 {:.related-posts.faded}
 
+## الدليل بالعربية
+* [مقدمة]{:.heading.flip-title} --- قبل أن تبدأ خطة القراءة لمدة 49 يوماً
+* [الأساسيات]{:.heading.flip-title} --- احصل على نظرة شاملة للكتاب المقدس خلال أسبوعين
+* [احفرأعمق]{:.heading.flip-title} --- تعمّق أكثر في الكتاب المقدس خلال خمسة أسابيع إضافية
+* [الخطواتالتالية]{:.heading.flip-title} --- أنت الآن مجهز لاستكمال قراءة باقي الكتاب المقدس على وتيرتك الخاصة
+* [حول]{:.heading.flip-title} --- حول هذا الدليل
+{:.related-posts.faded}
 
 ## Reading schedule
 [PDF](../assets/pdfs/49DayStudyGuide.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 49 Day Study Guide Letter size (0.5 MB)
@@ -89,3 +96,9 @@ Most people that are new to the Bible approach it like any other book that they 
 [गहराईमेंजाएं]: गहराईमेंजाएं.md
 [अगलेचरण]: अगलेचरण.md
 [केबारेमें]: केबारेमें.md 
+
+[مقدمة]: مقدمة.md
+[الأساسيات]: الأساسيات.md
+[احفرأعمق]: احفرأعمق.md
+[الخطواتالتالية]: الخطواتالتالية.md
+[حول]: حول.md

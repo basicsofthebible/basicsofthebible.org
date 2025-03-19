@@ -59,7 +59,7 @@ Most people that are new to the Bible approach it like any other book that they 
 {:.related-posts.faded}
 
 ## Le guide en français
-* [Introduction_french]{:.heading.flip-title} --- Avant de commencer le plan de lecture de 49 jours.
+* [Introduction_fr]{:.heading.flip-title} --- Avant de commencer le plan de lecture de 49 jours.
 * [LesBases]{:.heading.flip-title} --- Obtenez la vue d'ensemble de la Bible en deux semaines.
 * [Approfondissez]{:.heading.flip-title} --- Approfondissez la Bible en cinq semaines supplémentaires.
 * [ProchainesEtapes]{:.heading.flip-title} --- Vous êtes maintenant équipé pour parcourir le reste de la Bible à votre rythme.
@@ -111,7 +111,7 @@ Most people that are new to the Bible approach it like any other book that they 
 [الخطواتالتالية]: الخطواتالتالية.md
 [حول]: حول.md
 
-[Introduction_french]: Introduction_fr.md
+[Introduction_fr]: Introduction_fr.md
 [LesBases]: LesBases.md
 [Approfondissez]: Approfondissez.md
 [ProchainesEtapes]: ProchainesEtapes.md

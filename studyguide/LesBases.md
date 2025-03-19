@@ -153,4 +153,4 @@ Bien que nous n'ayons encore lu qu'un peu plus de trois livres de la Bible (sur 
 
 Alors que vous poursuivez votre parcours à travers l'étude Explorez en Profondeur, gardez cela à l'esprit——en fait, savoir que les réponses à vos questions pourraient être <span class="bbsg_highlight">"juste au coin de la rue"</span> rend la lecture de la Bible très excitante et vous vous retrouverez à ne pas vouloir la poser !
 
-[CreusezPlusProfondément](DigDeeper.md){:.heading.flip-title} --- Cliquez ici pour continuer à la section suivante.
+[Approfondissez](Approfondissez.md){:.heading.flip-title} --- Cliquez ici pour continuer à la section suivante.

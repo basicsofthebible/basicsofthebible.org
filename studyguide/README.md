@@ -42,7 +42,6 @@ Most people that are new to the Bible approach it like any other book that they 
 * [Acercade]{:.heading.flip-title} --- Acerca de esta guía.
 {:.related-posts.faded}
 
-
 ## हिंदी में मार्गदर्शिका
 * [परिचय]{:.heading.flip-title} --- 49 दिन की पठन योजना शुरू करने से पहले.
 * [मूलबातें]{:.heading.flip-title} --- दो हफ्तों में बाइबिल की समग्र तस्वीर समझें।
@@ -58,6 +57,10 @@ Most people that are new to the Bible approach it like any other book that they 
 * [الخطواتالتالية]{:.heading.flip-title} --- أنت الآن مجهز لاستكمال قراءة باقي الكتاب المقدس على وتيرتك الخاصة
 * [حول]{:.heading.flip-title} --- حول هذا الدليل
 {:.related-posts.faded}
+
+## The Guide in French
+* [Introduction_french]{:.heading.flip-title} --- Avant de commencer le plan de lecture de 49 jours.
+
 
 ## Reading schedule
 [PDF](../assets/pdfs/49DayStudyGuide.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 49 Day Study Guide Letter size (0.5 MB)
@@ -102,3 +105,5 @@ Most people that are new to the Bible approach it like any other book that they 
 [احفرأعمق]: احفرأعمق.md
 [الخطواتالتالية]: الخطواتالتالية.md
 [حول]: حول.md
+
+[Introduction_french]: Introduction_fr.md

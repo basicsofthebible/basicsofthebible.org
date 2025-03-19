@@ -338,4 +338,4 @@ C'est ma prière que <span class="bbsg_highlight">Dieu</span> continue de vous g
 <span class="icon-quotes-left"></span>À celui qui peut vous préserver de toute chute et vous faire paraître devant sa gloire irréprochable et dans l'allégresse——au seul Dieu notre Sauveur soient gloire, majesté, force et autorité, par Jésus-Christ notre Seigneur, avant tous les temps, maintenant et pour toujours! Amen.<span class="icon-quotes-right"></span>
 {:.lead}
 
-[À propos](About.md){:.heading.flip-title} --- Cliquez ici pour passer à la section suivante.
+[Àpropos](Àpropos.md){:.heading.flip-title} --- Cliquez ici pour passer à la section suivante.

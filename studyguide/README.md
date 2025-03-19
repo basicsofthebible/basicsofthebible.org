@@ -74,6 +74,14 @@ Most people that are new to the Bible approach it like any other book that they 
 * [Àpropos]{:.heading.flip-title} --- À propos de ce guide.
 {:.related-posts.faded}
 
+## O Guia em Português
+* [Introdução]{:.heading.flip-title} --- Antes de começar o plano de leitura de 49 dias.
+* [OBasico]{:.heading.flip-title} --- Tenha uma visão geral da Bíblia em duas semanas.
+* [Aprofundese]{:.heading.flip-title} --- Aprofunde-se na Bíblia em mais cinco semanas.
+* [PróximosPassos]{:.heading.flip-title} --- Agora você está preparado para percorrer o restante da Bíblia no seu próprio ritmo.
+* [Sobre]{:.heading.flip-title} --- Sobre este guia.
+{:.related-posts.faded}
+
 [Introduction]: Introduction.md
 [TheBasics]: TheBasics.md
 [DigDeeper]: DigDeeper.md
@@ -115,3 +123,9 @@ Most people that are new to the Bible approach it like any other book that they 
 [Approfondissez]: Approfondissez.md
 [ProchainesEtapes]: ProchainesEtapes.md
 [Àpropos]: Àpropos.md
+
+[Introdução]: Introdução.md
+[OBasico]: OBasico.md
+[Aprofundese]: Aprofundese.md
+[PróximosPassos]: PróximosPassos.md
+[Sobre]: Sobre.md

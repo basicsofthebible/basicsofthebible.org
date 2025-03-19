@@ -50,7 +50,7 @@ La Bible se compose des Écritures <span class="bbsg_highlight">hébraïques</sp
 
 Les <span class="bbsg_highlight">Écritures hébraïques</span> contiennent <span class="bbsg_highlight">39 livres</span> écrits par de nombreux auteurs différents sur une période de mille ans, entre environ 1400 et 400 avant J.-C. À l'exception de quelques sections, elles sont entièrement rédigées en hébreu. Une description plus détaillée des Écritures hébraïques est incluse plus loin dans cette étude, mais pour les besoins de cette introduction, il suffit de résumer que les Écritures hébraïques, dans leur ensemble, racontent une mission spéciale et unique que le Dieu Créateur a confiée aux descendants d'un homme nommé Abraham——les <span class="bbsg_highlight">Israélites</span>. Le but de cette mission était que les Israélites étaient "chargés" de parler du <span class="bbsg_highlight">Dieu Créateur</span> à tous les autres peuples du monde. Les Écritures hébraïques contiennent de nombreuses références à la venue d'un Messie (qui est le mot hébreu pour sauveur ou libérateur).
 
-![Image pleine largeur](../assets/img/projects/bstot.png){:.lead width="800" height="100" loading="lazy"}
+![Image pleine largeur](../assets/img/projects/bstotfrench.png){:.lead width="800" height="100" loading="lazy"}
 Structure et chronologie de l'Ancien Testament
 {:.figcaption}
 

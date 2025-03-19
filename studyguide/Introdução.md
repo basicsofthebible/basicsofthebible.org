@@ -50,13 +50,13 @@ A Bíblia é composta pelas Escrituras <span class="bbsg_highlight">Hebraicas</s
 
 As <span class="bbsg_highlight">Escrituras Hebraicas</span> contêm <span class="bbsg_highlight">39 livros</span> escritos por muitos autores diferentes ao longo de um período de mil anos, entre aproximadamente 1400-400 a.C. Com exceção de algumas seções, está inteiramente escrito em hebraico. Uma descrição mais detalhada das Escrituras Hebraicas é incluída mais adiante neste estudo, mas para os propósitos desta introdução, é suficiente resumir que as Escrituras Hebraicas como um todo contam a tarefa especial e única que o Deus Criador deu aos descendentes de um homem chamado Abraão——os <span class="bbsg_highlight">israelitas</span>. O propósito dessa tarefa era que os israelitas fossem "comissionados" para contar a todas as outras pessoas do mundo sobre o <span class="bbsg_highlight">Deus Criador</span>. As Escrituras Hebraicas contêm muitas referências à vinda de um Messias (que é a palavra hebraica para salvador ou resgatador).
 
-![Imagem em tela cheia](../assets/img/projects/bstot.png){:.lead width="800" height="100" loading="lazy"}
+![Imagem em tela cheia](../assets/img/projects/bstotportuguese.png){:.lead width="800" height="100" loading="lazy"}
 Estrutura e Cronologia do Antigo Testamento
 {:.figcaption}
 
 As <span class="bbsg_highlight">Escrituras Gregas</span> contêm <span class="bbsg_highlight">27 livros</span>, também escritos por vários autores diferentes ao longo de um período de aproximadamente 50 anos, por volta de 40-90 d.C. As Escrituras Gregas mostram como o Deus Criador entrou na história tornando-se humano, cumprindo o que foi escrito nas Escrituras Hebraicas sobre a vinda do <span class="bbsg_highlight">Messias</span> (Salvador). O Messias é um descendente de Abraão chamado Yeshua (Josué), ou como traduzido em português: Jesus. A palavra grega para Messias é Christos, de onde é derivado o título <span class="bbsg_highlight">Cristo</span>. Hoje, juntamos o nome e o título: Jesus (o) Cristo.
 
-![Imagem de largura total](../assets/img/projects/bstnt.png){:.lead width="800" height="100" loading="lazy"}
+![Imagem de largura total](../assets/img/projects/bstntportuguese.png){:.lead width="800" height="100" loading="lazy"}
 Estrutura e Linha do Tempo do Novo Testamento
 {:.figcaption}
 

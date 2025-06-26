@@ -25,8 +25,8 @@ Most people that are new to the Bible approach it like any other book that they 
 
 ## Presentation versions
 [PDF](../assets/pdfs/basicsofthebible.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> English 16:9 presentation size (0.3 MB)  
-[PDF](../assets/pdfs/basicsofthebible_simplified.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Chinese (Simplified) 16:9 presentation size (3.0 MB)  
-[PDF](../assets/pdfs/basicsofthebible_traditional.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Chinese (Traditional) 16:9 presentation size (3.1 MB)
+[PDF](../assets/pdfs/basicsofthebible_simplified.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Chinese (Simplified) 16:9 presentation size (3.0 MB)   
+[PDF](../assets/pdfs/basicsofthebible_traditional.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Chinese (Traditional) 16:9 presentation size (3.1 MB)  
 
 ## 圣经要义学习指南 (简体中文)
 * [开始]{:.heading.flip-title} --- 在开始 49 天的阅读计划之前。

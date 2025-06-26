@@ -18,8 +18,10 @@ Most people that are new to the Bible approach it like any other book that they 
 * [About]{:.heading.flip-title} --- About this guide.
 {:.related-posts.faded}
 
-## Reading schedule
+## Print versions
 [PDF](../assets/pdfs/49DayStudyGuide.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 49 Day Study Guide Letter size (0.5 MB)
+[PDF](../assets/pdfs/BasicsOfTheBible2024tabloid_basics.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> The Basics Tabloid size top-fold (0.1 MB)
+[PDF](../assets/pdfs/BasicsOfTheBible2025tabloid_digdeeer_nextsteps.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Dig Deeper and Next Steps (abridged) Tabloid size top-fold (0.2 MB)
 
 ## Presentation versions
 [PDF](../assets/pdfs/basicsofthebible.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> English 16:9 presentation size (0.3 MB)  

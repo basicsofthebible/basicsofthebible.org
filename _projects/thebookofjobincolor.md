@@ -20,5 +20,5 @@ sitemap: true
 I read through the book of Job about once a year and find it very difficult to interpret. It occurred to me one day that it would be helpful to color the text according to each speaker, so that I could remember who is speaking (since Job is mainly a series of speeches written as poetry), with the hope that this would facilitate understanding and interpreting this complex and amazing book. Uses the World English Bible (WEB) version, a public domain translation available at [ebible.org](https://worldenglish.bible/).  
 
 # Downloads
-[PDF](../assets/pdfs/TheBookOfJobInColor.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>The Book of Job in Color, tabloid print size (0.2 MB)
+[PDF](../assets/pdfs/TheBookOfJobInColor.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>The Book of Job in Color, tabloid print size (0.2 MB)  
 [PDF](../assets/pdfs/TenPrinciplesForUnderstandingTheBookOfJob.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span>Ten Principles for Understanding the Book of Job, letter print size (0.2 MB)

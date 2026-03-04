@@ -180,7 +180,7 @@ El primer rey, Saúl, tenía un gran potencial, pero su corazón no seguía a Di
 2 Samuel  
 1 Reyes 1-11
 
-*Período de la Monarquía: Orden de Lectura*
+*Período de la Monarquía: Orden de Lectura*  
 <span class="bbsg_highlight">1 Samuel 8-31:</span> el primer rey Saúl y el ascenso de David.
 
 <span class="bbsg_highlight">2 Samuel:</span> el reinado de David después de la muerte de Saúl.
@@ -219,7 +219,7 @@ El <span class="bbsg_highlight">Reino del Norte</span> fue <span class="bbsg_hig
 1 Reyes 12-22  
 2 Reyes
 
-*Periodo de los Reinos Divididos: Orden de Lectura*
+*Periodo de los Reinos Divididos: Orden de Lectura*  
 <span class="bbsg_highlight">1 Reyes 12-22:</span> el relato de los reyes de los reinos divididos de Israel y Judá.
 
 <span class="bbsg_highlight">2 Reyes:</span> el relato continuo, que incluye la caída de ambos reinos.  
@@ -246,7 +246,7 @@ Sofonías
 Jeremías  
 Lamentaciones
 
-*Estudio Detallado sobre Judá: Orden de Lectura*
+*Estudio Detallado sobre Judá: Orden de Lectura*  
 <span class="bbsg_highlight">2 Crónicas 10-36:</span> el resto del comentario del Cronista sobre los reyes del Reino del Sur (Judá). Note que el Cronista casi ignora completamente al Reino del Norte (Israel), excepto de pasada, cuando lucharon contra Judá.
 
 <span class="bbsg_highlight">Miqueas:</span> aunque está dirigido principalmente contra los reyes malvados de Judá, Miqueas habla de la inminente destrucción de tanto Israel como Judá.
@@ -266,12 +266,12 @@ El día que los profetas habían <span class="bbsg_highlight">advertido</span> f
 
 El exilio fue la cosa más <span class="bbsg_highlight">humillante</span> que podría haberle ocurrido a los descendientes de Abraham; parecía que Dios había abandonado a Su pueblo. Pero <span class="bbsg_highlight">Dios no abandonó a Su pueblo</span> y actuó de maneras asombrosas y milagrosas para restaurar un remanente del pueblo a la ciudad capital de Jerusalén y reconstruirla. El <span class="bbsg_highlight">exilio</span> duró <span class="bbsg_highlight">70 años</span>, y los eventos de ese tiempo, así como la restauración, son lo que vamos a leer en esta lección.
 
-Ezequiel
-Daniel 1-6
-Esdras 1-6
-Ester
-Esdras 7-10
-Nehemías
+Ezequiel  
+Daniel 1-6  
+Esdras 1-6  
+Ester  
+Esdras 7-10  
+Nehemías  
 
 *Exilio y la Restauración: Orden de Lectura*  
 <span class="bbsg_highlight">Ezequiel:</span> algunas de las visiones más asombrosamente descriptivas y horriblemente vívidas de toda la Biblia. Ezequiel abarca los eventos que conducen al Exilio e incluyen el Exilio mismo, así como la primera fase del proceso de Restauración.
@@ -293,7 +293,7 @@ Abdías
 Hageo  
 Malaquías
 
-*Profetas Post-Exilio: Orden de Lectura*
+*Profetas Post-Exilio: Orden de Lectura*  
 <span class="bbsg_highlight">Abdías:</span> castigo de Edom por su participación en el saqueo de Jerusalén durante las cuatro invasiones documentadas en 2 Crónicas.
 
 <span class="bbsg_highlight">Hageo:</span> reconstrucción del templo después del regreso del exilio.
@@ -308,7 +308,7 @@ Eclesiastés
 Cantar de los Cantares  
 Jonás
 
-*Libros Especiales: Orden de Lectura*
+*Libros Especiales: Orden de Lectura*  
 <span class="bbsg_highlight">Job:</span> un análisis exhaustivo y profundamente enigmático (al igual que el tema) del problema del sufrimiento. Es casi enteramente una obra de poesía, lo que hace que la interpretación de este difícil tema sea aún más desafiante. Consulta El Libro de Job en Color desde basics of the bible.org y Diez Principios para Entender el Libro de Job (pdf) para obtener más ayuda en la comprensión del Libro de Job.
 
 <span class="bbsg_highlight">Eclesiastés:</span> un comentario sobre la futilidad de vivir sin hacer del Dios Creador una parte central de tu vida.

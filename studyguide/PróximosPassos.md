@@ -96,7 +96,7 @@ Zacarias
 Daniel 7-12  
 Apocalipse
 
-*Profecia e Fim dos Tempos: Ordem de Leitura*
+*Profecia e Fim dos Tempos: Ordem de Leitura*  
 <span class="bbsg_highlight">Mateus:</span> um dos 12 discípulos de Jesus que era da tribo de Levi. Ele escreveu seu evangelho para um público judeu, enfatizando como Jesus cumpriu as profecias e a Lei das Escrituras Hebraicas.
 
 <span class="bbsg_highlight">1-2 Tessalonicenses:</span> carta de Paulo aos crentes em Tessalônica, que tinham dúvidas e algumas ansiedades sobre os últimos tempos.
@@ -122,7 +122,7 @@ Tiago
 Tito  
 Filemon
 
-*Vida no Corpo de Cristo: Ordem de Leitura*
+*Vida no Corpo de Cristo: Ordem de Leitura*  
 <span class="bbsg_highlight">1-2 Coríntios:</span> talvez os livros definitivos sobre a vida no corpo de Cristo.
 
 <span class="bbsg_highlight">Filipenses:</span> a alegria de ter uma nova vida através de Jesus Cristo.
@@ -162,7 +162,7 @@ Juízes
 Rute  
 1 Samuel 1-7
 
-*Período de Conquista–Juízes: Ordem de Leitura*
+*Período de Conquista–Juízes: Ordem de Leitura*  
 <span class="bbsg_highlight">Josué:</span> relato da conquista pelos israelitas da terra prometida a eles pelo Deus Criador e a divisão da terra entre as 12 tribos.
 
 <span class="bbsg_highlight">Juízes:</span> um período de aproximadamente 400 anos quando Israel foi governado por líderes chamados Juízes. Quando o povo se afastava de Deus, seus inimigos os conquistavam, mas Deus levantava juízes para libertar o povo e restaurar a paz.
@@ -180,7 +180,7 @@ O primeiro rei, Saul, tinha grande potencial, mas seu coração não seguia a De
 2 Samuel  
 1 Reis 1-11
 
-*Período da Monarquia: Ordem de Leitura*
+*Período da Monarquia: Ordem de Leitura*  
 <span class="bbsg_highlight">1 Samuel 8-31:</span> o primeiro rei Saul e a ascensão de Davi.
 
 <span class="bbsg_highlight">2 Samuel:</span> o reinado de Davi após a morte de Saul.
@@ -273,7 +273,7 @@ Ester
 Esdras 7-10  
 Neemias  
 
-*Exílio e a Restauração: Ordem de Leitura*
+*Exílio e a Restauração: Ordem de Leitura*  
 <span class="bbsg_highlight">Ezequiel:</span> algumas das visões mais incrivelmente descritivas e horrivelmente vívidas de toda a Bíblia. Ezequiel abrange os eventos que precedem e incluem o Exílio, bem como a primeira fase do processo de Restauração.
 
 <span class="bbsg_highlight">Daniel 1-6:</span> o relato de 4 jovens hebreus recrutados para a corte babilônica durante o Exílio; e a conquista dos babilônios pelos persas.
@@ -308,7 +308,7 @@ Eclesiastes
 Cânticos de Salomão  
 Jonas
 
-*Livros Especiais: Ordem de Leitura*
+*Livros Especiais: Ordem de Leitura*  
 <span class="bbsg_highlight">Jó:</span> uma análise exaustiva e profundamente enigmática (muito parecido com o tema) sobre a questão do sofrimento. É quase inteiramente uma obra de poesia, tornando a interpretação deste assunto difícil ainda mais desafiadora. Veja O Livro de Jó em Cores a partir do basics of the bible.org e Dez Princípios para Entender o Livro de Jó (pdf) para mais ajuda em compreender o Livro de Jó.
 
 <span class="bbsg_highlight">Eclesiastes:</span> um comentário sobre a futilidade de viver sem fazer do Deus Criador uma parte central da sua vida.

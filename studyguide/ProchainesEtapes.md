@@ -70,7 +70,7 @@ Nombres
 Deutéronome  
 Galates
 
-*La Loi : Ordre de Lecture*
+*La Loi : Ordre de Lecture*  
 <span class="bbsg_highlight">Hébreux :</span> une description détaillée de comment Jésus le Messie remplit parfaitement et complètement les exigences de la Loi pour nous.
 
 <span class="bbsg_highlight">Exode :</span> le récit historique du sauvetage des descendants de Jacob de l'esclavage en Égypte en vue de la formation de la nation d'Israël. C'est la première fois que le Dieu Créateur se fait largement connaître aux nations.
@@ -162,7 +162,7 @@ Juges
 Ruth  
 1 Samuel 1-7
 
-*Période de la Conquête–Juges : Ordre de Lecture*
+*Période de la Conquête–Juges : Ordre de Lecture*  
 <span class="bbsg_highlight">Josué :</span> récit de la conquête du pays promis aux Israélites par le Dieu Créateur et la division de ce pays entre les 12 tribus.
 
 <span class="bbsg_highlight">Juges :</span> une période d'environ 400 ans durant laquelle Israël était gouverné par des chefs appelés juges. Lorsque le peuple s'éloignait de Dieu, ses ennemis les conquéraient, mais Dieu suscitait des juges pour délivrer le peuple et rétablir la paix.
@@ -193,7 +193,7 @@ Dans cette section, nous faisons une pause dans les livres historiques pour lire
 Psaumes  
 Proverbes
 
-*Les Écrits de David et Salomon : Ordre de Lecture*
+*Les Écrits de David et Salomon : Ordre de Lecture*  
 <span class="bbsg_highlight">Psaumes :</span> la plupart des Psaumes sont attribués au roi David —— 74 des 150 portent son nom. Douze sont attribués à Asaph, neuf aux Coréites, deux au roi Salomon, et un chacun à Éthan l'Ézrahite et à Moïse. Les 51 Psaumes restants n'ont pas de désignation. Les Psaumes sont considérés comme les portions les plus belles et émouvantes de toute la Bible. Ce sont des chants de louange (notez que le mot anglais song dérive du mot hébreu psalm) et beaucoup contiennent des instructions sur les instruments à jouer ou la mélodie à utiliser. Ainsi, il n'est pas surprenant que les croyants du Dieu Créateur à travers les âges aient utilisé les Psaumes comme leur source d'inspiration pour la musique de louange de leur génération. Voyez une visualisation de la belle structure du Psaume 119 et comment ce psaume nous aide à mieux comprendre le Dieu Créateur de la Bible.
 
 <span class="bbsg_highlight">Proverbes :</span> une compilation de dictons de sagesse, dont la plupart sont attribués au sage roi Salomon mais qui inclut également les paroles d'autres hommes sages d'Israël, notamment Agur et Lemuel.
@@ -246,7 +246,7 @@ Sophonie
 Jérémie  
 Lamentations
 
-*Étude détaillée sur Juda : Ordre de lecture*
+*Étude détaillée sur Juda : Ordre de lecture*  
 <span class="bbsg_highlight">2 Chroniques 10-36 :</span> le reste du commentaire du Chroniqueur sur les rois du Royaume du Sud (Juda). Notez que le Chroniqueur ignore presque complètement le Royaume du Nord (Israël) sauf en passant, lorsqu'ils ont combattu contre Juda.
 
 <span class="bbsg_highlight">Michée :</span> bien que principalement dirigé contre les rois méchants de Juda, Michée parle de la destruction imminente d'Israël et de Juda.
@@ -294,7 +294,7 @@ Abdias
 Aggée  
 Malachie
 
-*Prophètes post-exil : Ordre de lecture*
+*Prophètes post-exil : Ordre de lecture*  
 <span class="bbsg_highlight">Abdias :</span> punition d'Édom pour sa participation au pillage de Jérusalem lors de quatre invasions documentées dans 2 Chroniques.
 
 <span class="bbsg_highlight">Aggée :</span> reconstruction du temple après le retour d'exil.

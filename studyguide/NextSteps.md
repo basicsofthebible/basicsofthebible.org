@@ -69,7 +69,7 @@ Numbers
 Deuteronomy  
 Galatians
 
-*The Law: Reading Order*
+*The Law: Reading Order*  
 <span class="bbsg_highlight">Hebrews:</span> a detailed description of how Jesus the Messiah perfectly and completely fulfills the requirements of the Law on our behalf.
 
 <span class="bbsg_highlight">Exodus:</span> the historical account of the rescue of the descendants of Jacob from slavery in Egypt in preparation of the formation of the nation of Israel. The first time the Creator God makes Himself widely known to the nations.

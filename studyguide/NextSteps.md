@@ -95,7 +95,7 @@ Zechariah
 Daniel 7-12  
 Revelation  
 
-*Prophecy and End Times: Reading Order*
+*Prophecy and End Times: Reading Order*  
 <span class="bbsg_highlight">Matthew:</span> one of the 12 disciples of Jesus who was of the tribe of Levi. He wrote his gospel to a Jewish audience, emphasizing how Jesus fulfilled the prophecies and Law of the Hebrew Scriptures.
 
 <span class="bbsg_highlight">1-2 Thessalonians:</span> letter by Paul to the believers in Thessalonica, who had questions and some anxieties about the end times.
@@ -121,7 +121,7 @@ James
 Titus  
 Philemon
 
-*Life in the Body of Christ: Reading Order*
+*Life in the Body of Christ: Reading Order*  
 <span class="bbsg_highlight">1-2 Corinthians:</span> perhaps the definitive books on life in the body of Christ.
 
 <span class="bbsg_highlight">Philippians:</span> the joy of having a new life through Jesus Christ.
@@ -144,7 +144,7 @@ Four of the New Testament authors, Paul, Peter, John and Jude give specific and 
 2-3 John  
 Jude
 
-*Warnings Against False Teachers: Reading Order*
+*Warnings Against False Teachers: Reading Order*  
 <span class="bbsg_highlight">1-2 Timothy:</span> Paul's instructional letters to Timothy, a young leader in the church in Ephesus (located in modern-day Turkey).
 
 <span class="bbsg_highlight">2 Peter:</span> a prophetic letter cautioning believers to be ready for the forthcoming day when apostasy (turning away from God) is common.
@@ -161,7 +161,7 @@ Judges
 Ruth  
 1 Samuel 1-7
 
-*Conquest–Judges period: Reading Order*
+*Conquest–Judges period: Reading Order*  
 <span class="bbsg_highlight">Joshua:</span> account of the Israelites conquest of the land promised to them by the Creator God and the division of the land among the 12 tribes.
 
 <span class="bbsg_highlight">Judges:</span> a period of approximately 400 years when Israel was ruled by leaders called Judges. When the people turned away from God, their enemies conquered them, but God called up judges to deliver the people and restore peace.
@@ -179,7 +179,7 @@ The first king, Saul, had great potential but his heart did not follow God. The 
 2 Samuel  
 1 Kings 1-11
 
-*Monarchy Period: Reading Order*
+*Monarchy Period: Reading Order*  
 <span class="bbsg_highlight">1 Samuel 8-31:</span> the first king Saul and the rise of David.
 
 <span class="bbsg_highlight">2 Samuel:</span> the rule of David after the death of Saul.
@@ -192,7 +192,7 @@ In this section, we take a break from the historical books to read through the l
 Psalms  
 Proverbs
 
-*The Writings of David and Solomon: Reading Order*
+*The Writings of David and Solomon: Reading Order*  
 <span class="bbsg_highlight">Psalms:</span> most of the Psalms are attributed to King David——74 of the 150 bear his name. Twelve are ascribed to Asaph, nine to the Korahites, two to King Solomon, and one each to Ethan the Ezrahite and Moses. The remaining 51 Psalms have no designation. The Psalms are considered the most beautiful and moving portions of the whole Bible. They are worship songs (note that the English word song is derived from the Hebrew word psalm) and many contain instructions on what instruments are to be played or what tune is to be used. Thus it is no wonder that believers of the Creator God throughout the ages have used the Psalms as their source of inspiration for the worship music of their generation. See a visualization of the beautiful structure of Psalm 119 and how this psalm helps us better understand the Creator God of the Bible.
 
 <span class="bbsg_highlight">Proverbs:</span> a compilation of wisdom sayings, most of which are attributed to the wise King Solomon but also includes the sayings of other wise men of Israel, including Agur and Lemuel.
@@ -205,7 +205,7 @@ The historical account given in the book of Chronicles is very similar——ofte
 1 Chronicles  
 2 Chronicles 1-9
 
-*David and Solomon: Reading Order*
+*David and Solomon: Reading Order*  
 <span class="bbsg_highlight">1 Chronicles:</span> a commentary on the life of King David.
 
 <span class="bbsg_highlight">2 Chronicles 1-9:</span> a commentary on the life of King Solomon.
@@ -218,7 +218,7 @@ The <span class="bbsg_highlight">Northern Kingdom</span> was <span class="bbsg_h
 1 Kings 12-22  
 2 Kings
 
-*Divided Kingdoms Period: Reading Order*
+*Divided Kingdoms Period: Reading Order*  
 <span class="bbsg_highlight">1 Kings 12-22:</span> the account of the kings of the divided kingdoms of Israel and Judah.
 
 <span class="bbsg_highlight">2 Kings:</span> the continuing account, including the fall of both kingdoms.  
@@ -229,7 +229,7 @@ Most of the prophets spoke against the idolatries and wickedness in both the Nor
 Hosea  
 Amos
 
-*OT Prophets to the Northern Kingdom reading order*
+*OT Prophets to the Northern Kingdom reading order*  
 <span class="bbsg_highlight">Hosea:</span> a stinging indictment against the Northern Kingdom of Israel.
 
 <span class="bbsg_highlight">Amos:</span> judgment of Israel is at hand.
@@ -245,7 +245,7 @@ Zephaniah
 Jeremiah  
 Lamentations
 
-*Detailed Study on Judah: Reading Order*
+*Detailed Study on Judah: Reading Order*  
 <span class="bbsg_highlight">2 Chronicles 10-36:</span> the remainder of the Chronicler's commentary on the kings of the Southern Kingdom (Judah). Note that the Chronicler almost completely ignores the Northern Kingdom (Israel) except in passing, when they fought against Judah.
 
 <span class="bbsg_highlight">Micah:</span> although mainly directed against the evil kings of Judah, Micah speaks of the impending destruction of both Israel and Judah.
@@ -265,14 +265,14 @@ The day that the prophets had <span class="bbsg_highlight">warned</span> of had 
 
 Exile was the most <span class="bbsg_highlight">humiliating</span> thing that could possibly happen to the descendants of Abraham——it seemed that God abandoned His people. But <span class="bbsg_highlight">God did not abandon His people</span> and moved in amazing and miraculous ways to restore a remnant of the people to the capital city of Jerusalem and rebuild it. The <span class="bbsg_highlight">Exile</span> lasted <span class="bbsg_highlight">70 years</span>, and the events of that time, as well as the restoration are what we will read in this lesson.
 
-Ezekiel
-Daniel 1-6
-Ezra 1-6
-Esther
-Ezra 7-10
-Nehemiah
+Ezekiel  
+Daniel 1-6  
+Ezra 1-6  
+Esther  
+Ezra 7-10  
+Nehemiah  
 
-*Exile and the Restoration: Reading Order*
+*Exile and the Restoration: Reading Order*  
 <span class="bbsg_highlight">Ezekiel:</span> some of the most amazingly descriptive and horrifyingly vivid visions in the entire Bible. Ezekiel spans the events leading up to and including the Exile as well as the first phase of the Restoration process.
 
 <span class="bbsg_highlight">Daniel 1-6:</span> the account of 4 young Hebrews drafted into the Babylonian court during the Exile; and the conquest of the Babylonians by the Persians.
@@ -292,7 +292,7 @@ Obadiah
 Haggai  
 Malachi
 
-*Post-Exile Prophets: Reading Order*
+*Post-Exile Prophets: Reading Order*  
 <span class="bbsg_highlight">Obadiah:</span> punishment of Edom for their participation in the plundering of Jerusalem in four invasions documented in 2 Chronicles.
 
 <span class="bbsg_highlight">Haggai:</span> rebuilding of the temple after the return from Exile.
@@ -307,7 +307,7 @@ Ecclesiastes
 Song of Solomon  
 Jonah
 
-*Special Books: Reading Order*
+*Special Books: Reading Order*  
 <span class="bbsg_highlight">Job:</span> an exhaustive and profoundly enigmatic (much like the subject) analysis of the issue of suffering. It is almost entirely a work of poetry, making interpretation on this difficult subject even more challenging. See The Book of Job in Color from basics of the bible.org and Ten Principles for Understanding the Book of Job (pdf) for more help in understanding the Book of Job.
 
 <span class="bbsg_highlight">Ecclesiastes:</span> a commentary on the futility of living without making the Creator God a central part of your life.

@@ -11,6 +11,14 @@ on:
   push:
     branches: ["main"]
 
+# ADD THESE TWO LINES RIGHT HERE:
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 

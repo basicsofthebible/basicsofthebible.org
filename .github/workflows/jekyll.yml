@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
- # FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -36,7 +36,7 @@ jobs:
         with:
           ruby-version: '3.1'
           bundler-cache: true
-          cache-version: 0
+          cache-version: 1
 
       - name: Setup Pages
         id: pages

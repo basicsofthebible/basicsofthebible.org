@@ -4,7 +4,7 @@ title: 'las7iglesiasdelapocalipsis'
 caption: las 7 Iglesias del Apocalipsis
 description: >
   Las siete iglesias del Apocalipsis y un panorama general de los marcos interpretativos para entender el libro del Apocalipsis.
-date: 1 Jun 2026
+date: 1 May 2026
 image: 
   path: /assets/img/projects/las7iglesiasdelapocalipsis.png
   srcset: 

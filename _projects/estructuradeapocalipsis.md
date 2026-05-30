@@ -4,7 +4,7 @@ title: 'estructuradeapocalipsis'
 caption: Estructura de Apocalipsis
 description: >
   La estructura del libro del Apocalipsis como una serie de visiones e interludios.
-date: 2 Jun 2026
+date: 2 May 2026
 image: 
   path: /assets/img/projects/estructuradeapocalipsis.png
   srcset: 

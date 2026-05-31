@@ -19,7 +19,7 @@ sitemap: true
 
 Este gráfico busca facilitar la interpretación de este libro asombrosamente complejo mediante un enfoque visual. La parte frontal del gráfico presenta los marcos interpretativos del Apocalipsis, el simbolismo numérico que se encuentra en el libro y una descripción gráfica de las Siete Iglesias del Apocalipsis, tal como se describen en los capítulos 2 y 3. Está diseñado para papel grande en tamaño tabloide (11 x 17 pulgadas). (Algunos gráficos se mantienen en su idioma original, el inglés.)
 
-# Download
+# Descargas
 [PDF](../assets/pdfs/LaRevelacióndeJesucristo.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> La Revelación de Jesucristo (19.2 MB)  
 [PNG](../assets/img/hd/las7iglesiasdelapocalipsis.png){:.heading.flip-title} <span class="icon-file-picture"></span> las 7 Iglesias del Apocalipsis HD image (1.5 MB)  
 [PNG](../assets/img/hd/estructuradeapocalipsis.png){:.heading.flip-title} <span class="icon-file-picture"></span> Estructura de Apocalipsis HD image (3.3 MB)  

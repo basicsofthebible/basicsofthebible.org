@@ -17,10 +17,13 @@ links:
 sitemap: true
 ---
 
-Este gráfico facilita la interpretación de este libro asombrosamente complejo. Incluye una tabla de referencias cruzadas con otras Escrituras (de [Open Bible](https://www.openbible.info/labs/cross-references/)), y la organización quiástica (de [Biblical Blueprints](https://revelation.biblicalblueprints.com/home)). Está diseñado para papel grande en tamaño tabloide (11 x 17 pulgadas). (Algunos gráficos se mantienen en su idioma original, el inglés.)
+Este gráfico facilita la interpretación de este libro asombrosamente complejo. Incluye una tabla de referencias cruzadas con otras Escrituras (de [OpenBible](https://www.openbible.info)), y la organización quiástica (de [Biblical Blueprints](https://revelation.biblicalblueprints.com/home)). Está diseñado para papel grande en tamaño tabloide (11 x 17 pulgadas). (Algunos gráficos se mantienen en su idioma original, el inglés.)
+
+# Análisis de referencias cruzadas
+Se utilizó el [conjunto de datos de referencias cruzadas de openbible.info](https://www.openbible.info/labs/cross-references/) para analizar la cantidad de referencias cruzadas hacia y desde el libro del Apocalipsis en el gráfico *Estructura del Apocalipsis* y en la *Presentación gráfica explicativa del Apocalipsis*. Visita mi repositorio en GitHub [OpenBible Revelation Analysis](https://github.com/basicsofthebible/resources/tree/main/workflows/revelation) para ver un flujo de trabajo basado en un notebook de Python que genera los resúmenes y las visualizaciones de las referencias cruzadas (repositorio en inglés).
 
 # Descargas
 [PDF](../assets/pdfs/LaRevelacióndeJesucristo.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> La Revelación de Jesucristo (19.2 MB)  
 [PNG](../assets/img/hd/las7iglesiasdelapocalipsis.png){:.heading.flip-title} <span class="icon-file-picture"></span> las 7 Iglesias del Apocalipsis HD image (1.5 MB)  
 [PNG](../assets/img/hd/estructuradeapocalipsis.png){:.heading.flip-title} <span class="icon-file-picture"></span> Estructura de Apocalipsis HD image (3.3 MB)  
-[PDF](../assets/pdfs/GraficoExplicativoApocalipsis_v101.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Presentación gráfica explicativa del Apocalipsis (formato 16:9) (12.4 MB)
+[PDF](../assets/pdfs/GraficoExplicativoApocalipsis_v102.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Presentación gráfica explicativa del Apocalipsis (formato 16:9) (12.4 MB)

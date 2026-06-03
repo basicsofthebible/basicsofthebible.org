@@ -23,4 +23,4 @@ Este gráfico busca facilitar la interpretación de este libro asombrosamente co
 [PDF](../assets/pdfs/LaRevelacióndeJesucristo.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> La Revelación de Jesucristo (19.2 MB)  
 [PNG](../assets/img/hd/las7iglesiasdelapocalipsis.png){:.heading.flip-title} <span class="icon-file-picture"></span> las 7 Iglesias del Apocalipsis HD image (1.5 MB)  
 [PNG](../assets/img/hd/estructuradeapocalipsis.png){:.heading.flip-title} <span class="icon-file-picture"></span> Estructura de Apocalipsis HD image (3.3 MB)  
-[PDF](../assets/pdfs/GraficoExplicativoApocalipsis_v101.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Presentación gráfica explicativa del Apocalipsis (formato 16:9) (12.4 MB)
+[PDF](../assets/pdfs/GraficoExplicativoApocalipsis_v102.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Presentación gráfica explicativa del Apocalipsis (formato 16:9) (12.4 MB)

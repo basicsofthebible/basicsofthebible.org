@@ -60,6 +60,8 @@ menu:
     url:               /bst/
   - title:             Guide
     url:               /studyguide/
+  - title:             Ps119
+    permalink:         /projects/psalm119/
   - title:             Projects
     url:               /projects/
   #- title:             Résumé*

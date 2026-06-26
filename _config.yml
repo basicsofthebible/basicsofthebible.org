@@ -61,9 +61,9 @@ menu:
   - title:             Guide
     url:               /studyguide/
   - title:             Ps119
-    url:         /projects/psalm119/
+    url:               /projects/psalm119/
   - title:             Rev
-    url:         projects/structureofrevelation/
+    url:               /projects/structureofrevelation/
   - title:             Projects
     url:               /projects/
   #- title:             Résumé*

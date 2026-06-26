@@ -62,6 +62,8 @@ menu:
     url:               /studyguide/
   - title:             Ps119
     permalink:         /projects/psalm119/
+  - title:             Rev
+    permalink:         projects/structureofrevelation/
   - title:             Projects
     url:               /projects/
   #- title:             Résumé*

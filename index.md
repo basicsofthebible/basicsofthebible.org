@@ -14,8 +14,8 @@ The groundwork for Basics of the Bible was laid in 2007 when I created study gui
 ## Start here
 * [Bible Structure and Timeline](bst/README.md){:.heading.flip-title} --- A visual guide that illustrates the structure of the Bible, arranged chronologically.
 * [Basics of the Bible Study Guide](studyguide/Introduction.md){:.heading.flip-title} --- A self-directed reading plan and study guide for people that are new to the Bible and want to learn what it means to be a follower of Jesus.
-* [Psalm 119](projects/psalm119.md){:.heading.flip-title} --- A visualization of the acrostic structure of the longest psalm in the Bible. 
-* [Structure of Revelation](projects/structureofrevelation.md){:.heading.flip-title} --- A graphical map of the complex structure of the book of Revelation.
+* [Psalm 119](_projects/psalm119.md){:.heading.flip-title} --- A visualization of the acrostic structure of the longest psalm in the Bible. 
+* [Structure of Revelation](_projects/structureofrevelation.md){:.heading.flip-title} --- A graphical map of the complex structure of the book of Revelation.
 * [Projects](projects/){:.heading.flip-title} --- My portfolio of Bible graphics. 
 
 ## Share <span class="icon-qrcode"></span>

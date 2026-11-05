@@ -1,8 +1,7 @@
 ---
 layout: page
-title: DigDeeper
-description: >
-  Part 2: Dig Deeper.
+title: "Part 2: Dig Deeper — Exploring Old & New Testament Context"
+description: "Deepen your understanding of biblical covenants, historical timelines, and major themes across both testaments."
 hide_description: true
 sitemap: true
 ---
@@ -20,7 +19,7 @@ The *Dig Deeper* study continues building on the readings from The Basics study.
 * Gospel of John
 * Matthew 28
 
-# Dig Deeper: Big Picture Summary
+## Dig Deeper: Big Picture Summary
 
 <span class="bbsg_highlight">
 Luke:</span> the most detailed account of the life, death and resurrection of Jesus Christ. Noted for numerous historical references and attention to detail. Written by Luke, a Greek physician and co-worker of Paul.
@@ -40,13 +39,13 @@ Gospel of John:</span> like 1st John, an eloquent and profoundly moving account 
 <span class="bbsg_highlight">
 Matthew 28:</span> the Great Commission that Jesus gave his followers——these instructions are the most important and highest priority task of those who follow Jesus.
 
-# More Background
+## More Background
 By now you have a basic understanding not only of the life, death and resurrection of Jesus, but also a better idea of the underlying reasons for <span class="bbsg_highlight">His Life:</span> to come as the Messiah, ushering in a new kingdom of Life and conquering the old kingdom of Death. <span class="bbsg_highlight">Death:</span> to die on our behalf in payment for our sin——because we are incapable of paying that debt ourselves. <span class="bbsg_highlight">Resurrection:</span> to defeat death and leave a testimony in the historical record about the validity of His claim to have conquered sin and death.
 
 In the *Dig Deeper* study, we will do just that——dig deeper into the Bible to discover more and more about our wonderful Savior and God. We will learn about what the first witnesses of Jesus' resurrection did and how they shared and spread the "Good News" to people in Africa, Asia and Europe. In the middle of the study, we'll revisit the book of Genesis in the Hebrew Scriptures to learn the fascinating background of the patriarchs of the Israelite people——Abraham, Isaac and Jacob. Then we'll return to the Greek Scriptures to read the stunningly moving account of Jesus by John, one of Jesus' closest disciples. We will then finish with the last chapter of Matthew's Gospel, to learn about the most important command of Jesus to all those that follow Him.
 
-# Dig Deeper Reading Schedule
-## Week 3
+## Dig Deeper Reading Schedule
+### Week 3
 Day 15: Luke 1-4  
 Day 16: Luke 5-8  
 Day 17: Luke 9-12  
@@ -55,7 +54,7 @@ Day 19: Luke 17-20
 Day 20: Luke 21-24  
 Day 21: Acts 1-4
 
-### Week 3: Luke
+#### Week 3: Luke
 *Focus points:*
 
 <span class="bbsg_highlight">Luke 15:</span> three parables (the lost sheep, the lost coin and the lost son), illustrating the great love that God has for mankind.
@@ -64,7 +63,7 @@ Day 21: Acts 1-4
 
 <span class="bbsg_highlight">Luke 22-23:</span> the trial, crucifixion, death and burial of Jesus.
 
-## Week 4
+### Week 4
 Day 22: Acts 5-8  
 Day 23: Acts 9-12  
 Day 24: Acts 13-16  
@@ -73,12 +72,12 @@ Day 26: Acts 21-24
 Day 27: Acts 25-28  
 Day 28: Ephesians 1-3
 
-### Week 4: Acts
+#### Week 4: Acts
 *Focus points:*
 
 <span class="bbsg_highlight">Acts 26:17-18:</span> the book of Acts is one of the most exciting to read in the entire Bible. As such, it is hard to summarize such an amazing book in a few sentences. Consider the speech of Paul in chapter 26, verses 17-18, as you reflect back on the book of Acts, for this is a model of what Jesus would have us do even today. That is, to bring others out of darkness and into the light.
 
-## Week 5
+### Week 5
 Day 29: Ephesians 4-6  
 Day 30: Genesis 12-14  
 Day 31: Genesis 15-17  
@@ -87,7 +86,7 @@ Day 33: Genesis 21-23
 Day 34: Genesis 24-26  
 Day 35: Genesis 27-29
 
-### Week 5: Ephesians
+#### Week 5: Ephesians
 *Focus points:*
 
 <span class="bbsg_highlight">Ephesians 2:8-9:</span> one of the most compact summaries in the entire Bible about what it is that followers of Jesus believe. This is an excellent passage to memorize.
@@ -96,7 +95,7 @@ Day 35: Genesis 27-29
 
 <span class="bbsg_highlight">Ephesians 6:10-18:</span> an essential passage for understanding how believers are to actively "equip" themselves for service in God's Kingdom work. If you have been "employed" by the King (i.e., you have become a follower of Jesus), return to this chapter and re-read it whenever you are facing discouragement, disappointment or defeat in your work for the Kingdom.
 
-## Week 6
+### Week 6
 Day 36: Genesis 30-32  
 Day 37: Genesis 33-35  
 Day 38: Genesis 36-38  
@@ -105,7 +104,7 @@ Day 40: Genesis 42-44
 Day 41: Genesis 45-47  
 Day 42: Genesis 48-50
 
-### Week 6: Genesis
+#### Week 6: Genesis
 *Focus points:*
 
 <span class="bbsg_highlight">Genesis 12:1-7:</span> the promise God made to Abraham——one of the most foundational passages in the entire Bible.
@@ -116,7 +115,7 @@ Day 42: Genesis 48-50
 
 <span class="bbsg_highlight">Genesis 45:</span> the exciting conclusion of the account of Joseph, and the unveiling of God's purpose behind the years of his tribulations.
 
-## Week 7
+### Week 7
 Day 43: John 1-3  
 Day 44: John 4-6  
 Day 45: John 7-9  
@@ -125,7 +124,7 @@ Day 47: John 13-15
 Day 48: John 16-18  
 Day 49: John 19-21, Matthew 28
 
-### Week 7: Gospel of John
+#### Week 7: Gospel of John
 *Focus points:*
 
 <span class="bbsg_highlight">John 3:</span> a profound yet simple and clear explanation that Jesus Himself gave on the reason that we should become His follower and how to do so.
@@ -134,7 +133,7 @@ Day 49: John 19-21, Matthew 28
 
 <span class="bbsg_highlight">John 15:</span> part of Jesus' final instructions to His disciples, which is only recorded by John. In this chapter, Jesus explains the relationship that believers have to God through Him.
 
-### The Great Commission
+#### The Great Commission
 This is it——the best description of what the followers of Jesus are supposed to do with their time left on this planet. In terms of getting guidance on our purpose in life, Matthew 28:16-20 is the most important set of instructions in the entire Bible. Don't misunderstand——the rest of the Bible is very important in building up many different aspects of the life of a follower of Jesus, but no other passage can compare when it comes to answering the question: "What exactly does God want me to do with my life?" Of course, there are many different ways that God's will can be done, and the work that God calls for one believer will likely look very different from the work He calls for another believer. We must trust (and pray) that the Holy Spirit will "fill in the details" that are specific to our own situation. But here, let's summarize the big picture of the Great Commission that Jesus gives us:
 
 <span class="bbsg_highlight">Go:</span> actively go out and share the good news of Jesus Christ with others. Another word for go is "leave," as in leave your comfort zone.
@@ -145,7 +144,7 @@ This is it——the best description of what the followers of Jesus are supposed
 
 <span class="bbsg_highlight">Teach them to obey all that Jesus commanded:</span> help them "dig deeper" and continually grow in their walk with Jesus.
 
-# Dig Deeper: Stop and Take a Look Back
+## Dig Deeper: Stop and Take a Look Back
 <span class="bbsg_highlight">Wow.</span> Hopefully this is how you are feeling as you finish up the Dig Deeper study.
 
 Isn't the Bible an amazing book that you might not have appreciated before? Have you felt the Holy Spirit "speak" to you and give you insight during this study? If so, wasn't it exciting and wouldn't you like to experience more of that? <span class="bbsg_highlight">The good news is that you can!</span> Through the process of this study, you should now feel equipped to be able continue on your quest for answers. The remainder of this guide gives you a plan in which you can read the rest of the Bible. The readings are again in a non-sequential order to facilitate understanding the Bible as you are reading it.

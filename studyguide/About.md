@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About
-description: >
-  About this guide.
+title: "About Basics of the Bible"
+description: "Learn about the mission, method, and background behind the Basics of the Bible visual study resources."
 hide_description: true
 sitemap: true
 ---
-# About this Guide
+## About this Guide
 <span class="icon-quotes-left"></span><span class="bbsg_highlight">
 Glory to God in the highest, and on earth peace to men on whom his favor rests.</span><span class="icon-quotes-right"></span> Luke 2:14
 {:.lead}

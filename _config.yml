@@ -20,18 +20,17 @@ url:                   "https://basicsofthebible.org"
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 basicsofthebible
+title:                 "Basics of the Bible"
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  Demystifying the Bible through a visual learning style approach.
+description:           "Free visual Bible study guides, chronological Bible timelines, book structure charts, Hebrew acrostic Psalm diagrams, and a 49-day beginner reading plan in 15+ languages."
 
 # A shorter description for the sidebar.
 tagline:               Explaining the Bible visually
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              ["visual Bible study", "Bible timeline chart", "chronological Bible structure", "non-sequential Bible reading plan", "Book of Revelation structure", "Hebrew acrostic Psalms"]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.

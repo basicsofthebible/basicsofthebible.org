@@ -7,7 +7,7 @@ sitemap: true
 title: Àpropos
 ---
 
-# À propos de ce Guide
+## À propos de ce Guide
 <span class="icon-quotes-left"></span><span class="bbsg_highlight">
 Gloire à Dieu au plus haut des cieux, et paix sur la terre aux hommes qu'il aime.</span><span class="icon-quotes-right"></span> Luc 2:14
 {:.lead}

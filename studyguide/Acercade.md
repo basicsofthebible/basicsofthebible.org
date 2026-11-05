@@ -7,7 +7,7 @@ sitemap: true
 title: Acerca de
 ---
 
-# Acerca de esta Guía
+## Acerca de esta Guía
 <span class="icon-quotes-left"></span><span class="bbsg_highlight">
 Gloria a Dios en las alturas, y en la tierra paz a los hombres en quienes él se complace.</span><span class="icon-quotes-right"></span> Lucas 2:14
 {:.lead}

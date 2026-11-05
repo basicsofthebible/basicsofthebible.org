@@ -21,7 +21,7 @@ L'étude *Creuser Plus Profondément* continue de s'appuyer sur les lectures de 
 * Évangile de Jean
 * Matthieu 28
 
-# Approfondissez : Résumé du Tableau d'Ensemble
+## Approfondissez : Résumé du Tableau d'Ensemble
 
 <span class="bbsg_highlight">
 Luc :</span> le récit le plus détaillé de la vie, de la mort et de la résurrection de Jésus-Christ. Remarquable pour de nombreuses références historiques et une attention méticuleuse aux détails. Écrit par Luc, un médecin grec et collaborateur de Paul.
@@ -40,13 +40,13 @@ Genèse 12-50 :</span> récit détaillé de la relation spéciale du Dieu Créat
 <span class="bbsg_highlight">
 Matthieu 28 :</span> la Grande Commission que Jésus a donnée à ses disciples —— ces instructions sont la tâche la plus importante et la plus prioritaire de ceux qui suivent Jésus.
 
-# Plus de Contexte
+## Plus de Contexte
 À présent, vous avez une compréhension de base non seulement de la vie, de la mort et de la résurrection de Jésus, mais aussi une meilleure idée des raisons sous-jacentes de <span class="bbsg_highlight">Sa Vie :</span> venir comme le Messie, inaugurant un nouveau royaume de Vie et conquérant l'ancien royaume de la Mort. <span class="bbsg_highlight">Mort :</span> mourir à notre place en paiement pour notre péché——car nous sommes incapables de payer cette dette nous-mêmes. <span class="bbsg_highlight">Résurrection :</span> vaincre la mort et laisser un témoignage dans le dossier historique sur la validité de sa revendication d'avoir conquis le péché et la mort.
 
 Dans l'étude *Creuser Plus Profondément*, nous allons faire exactement cela : creuser plus profondément dans la Bible pour découvrir toujours plus notre merveilleux Sauveur et Dieu. Nous apprendrons ce que les premiers témoins de la résurrection de Jésus ont fait et comment ils ont partagé et répandu la "Bonne Nouvelle" aux peuples d'Afrique, d'Asie et d'Europe. Au milieu de l'étude, nous revisiterons le livre de la Genèse dans les Écritures hébraïques pour découvrir le contexte fascinant des patriarches du peuple israélite : Abraham, Isaac et Jacob. Ensuite, nous retournerons aux Écritures grecques pour lire le récit incroyablement émouvant de Jésus par Jean, l'un des disciples les plus proches de Jésus. Nous terminerons ensuite avec le dernier chapitre de l'Évangile de Matthieu, pour apprendre le commandement le plus important de Jésus à tous ceux qui Le suivent.
 
-# Programme de Lecture Approfondie
-## Semaine 3
+## Programme de Lecture Approfondie
+### Semaine 3
 Jour 15 : Luc 1-4  
 Jour 16 : Luc 5-8  
 Jour 17 : Luc 9-12  
@@ -55,7 +55,7 @@ Jour 19 : Luc 17-20
 Jour 20 : Luc 21-24  
 Jour 21 : Actes 1-4
 
-### Semaine 3 : Luc
+#### Semaine 3 : Luc
 *Points focaux :*
 
 <span class="bbsg_highlight">Luc 15 :</span> trois paraboles (la brebis perdue, la pièce perdue et le fils perdu), illustrant le grand amour que Dieu a pour l'humanité.
@@ -64,7 +64,7 @@ Jour 21 : Actes 1-4
 
 <span class="bbsg_highlight">Luc 22-23 :</span> le procès, la crucifixion, la mort et l'ensevelissement de Jésus.
 
-## Semaine 4
+### Semaine 4
 Jour 22 : Actes 5-8  
 Jour 23 : Actes 9-12  
 Jour 24 : Actes 13-16  
@@ -73,12 +73,12 @@ Jour 26 : Actes 21-24
 Jour 27 : Actes 25-28  
 Jour 28 : Éphésiens 1-3
 
-### Semaine 4 : Actes
+#### Semaine 4 : Actes
 *Points de focus :*
 
 <span class="bbsg_highlight">Actes 26:17-18 :</span> le livre des Actes est l'un des plus passionnants à lire dans toute la Bible. Ainsi, il est difficile de résumer un livre aussi remarquable en quelques phrases. Considérez le discours de Paul dans le chapitre 26, versets 17-18, alors que vous réfléchissez sur le livre des Actes, car ceci est un modèle de ce que Jésus voudrait que nous fassions encore aujourd'hui. C'est-à-dire, amener les autres hors des ténèbres vers la lumière.
 
-## Semaine 5
+### Semaine 5
 Jour 29 : Éphésiens 4-6  
 Jour 30 : Genèse 12-14  
 Jour 31 : Genèse 15-17  
@@ -87,7 +87,7 @@ Jour 33 : Genèse 21-23
 Jour 34 : Genèse 24-26  
 Jour 35 : Genèse 27-29
 
-### Semaine 5 : Éphésiens
+#### Semaine 5 : Éphésiens
 *Points de focalisation :*
 
 <span class="bbsg_highlight">Éphésiens 2:8-9 :</span> l'un des résumés les plus compacts de toute la Bible sur ce que croient les disciples de Jésus. C'est un excellent passage à mémoriser.
@@ -96,7 +96,7 @@ Jour 35 : Genèse 27-29
 
 <span class="bbsg_highlight">Éphésiens 6:10-18 :</span> un passage essentiel pour comprendre comment les croyants doivent activement "s'équiper" pour le service dans l'œuvre du Royaume de Dieu. Si vous avez été "employé" par le Roi (c'est-à-dire que vous êtes devenu un disciple de Jésus), revenez à ce chapitre et relisez-le chaque fois que vous faites face au découragement, à la déception ou à la défaite dans votre travail pour le Royaume.
 
-## Semaine 6
+### Semaine 6
 Jour 36 : Genèse 30-32  
 Jour 37 : Genèse 33-35  
 Jour 38 : Genèse 36-38  
@@ -105,7 +105,7 @@ Jour 40 : Genèse 42-44
 Jour 41 : Genèse 45-47  
 Jour 42 : Genèse 48-50
 
-### Semaine 6 : Genèse
+#### Semaine 6 : Genèse
 *Points de concentration :*
 
 <span class="bbsg_highlight">Genèse 12:1-7 :</span> la promesse que Dieu a faite à Abraham——un des passages les plus fondamentaux de toute la Bible.
@@ -116,7 +116,7 @@ Jour 42 : Genèse 48-50
 
 <span class="bbsg_highlight">Genèse 45 :</span> la conclusion passionnante du récit de Joseph et la révélation du dessein de Dieu derrière les années de ses tribulations.
 
-## Semaine 7
+### Semaine 7
 Jour 43 : Jean 1-3  
 Jour 44 : Jean 4-6  
 Jour 45 : Jean 7-9  
@@ -125,7 +125,7 @@ Jour 47 : Jean 13-15
 Jour 48 : Jean 16-18  
 Jour 49 : Jean 19-21, Matthieu 28
 
-### Semaine 7 : Évangile de Jean
+#### Semaine 7 : Évangile de Jean
 *Points de focalisation :*
 
 <span class="bbsg_highlight">Jean 3 :</span> une explication profonde mais simple et claire que Jésus Lui-même a donnée sur la raison pour laquelle nous devrions devenir Son disciple et comment le faire.
@@ -134,7 +134,7 @@ Jour 49 : Jean 19-21, Matthieu 28
 
 <span class="bbsg_highlight">Jean 15 :</span> fait partie des dernières instructions de Jésus à Ses disciples, qui sont uniquement enregistrées par Jean. Dans ce chapitre, Jésus explique la relation que les croyants ont avec Dieu à travers Lui.
 
-### La Grande Commission
+#### La Grande Commission
 C'est cela——la meilleure description de ce que les disciples de Jésus sont censés faire de leur temps restant sur cette planète. En termes de guidance sur notre but dans la vie, Matthieu 28:16-20 constitue l'ensemble d'instructions le plus important de toute la Bible. Ne vous méprenez pas——le reste de la Bible est très important pour construire de nombreux aspects différents de la vie d'un disciple de Jésus, mais aucun autre passage ne peut se comparer lorsqu'il s'agit de répondre à la question : "Que veut exactement que je fasse de ma vie ?" Bien sûr, il existe de nombreuses manières différentes par lesquelles la volonté de Dieu peut s'accomplir, et le travail que Dieu appelle pour un croyant sera probablement très différent de celui qu'Il appelle pour un autre croyant. Nous devons faire confiance (et prier) pour que le Saint-Esprit "remplisse les détails" propres à notre situation personnelle. Mais ici, résumons la grande image de la Grande Commission que Jésus nous donne :
 
 <span class="bbsg_highlight">Allez :</span> allez activement partager la bonne nouvelle de Jésus-Christ avec les autres. Un autre mot pour "aller" est "quitter," comme dans quitter votre zone de confort.
@@ -145,7 +145,7 @@ C'est cela——la meilleure description de ce que les disciples de Jésus sont 
 
 <span class="bbsg_highlight">Enseignez-leur à obéir à tout ce que Jésus a commandé :</span> aidez-les à "approfondir" et à croître continuellement dans leur marche avec Jésus.
 
-# Approfondissez : Arrêtez-vous et jetez un œil en arrière
+## Approfondissez : Arrêtez-vous et jetez un œil en arrière
 <span class="bbsg_highlight">Wow.</span> J'espère que c'est ce que vous ressentez en terminant l'étude Approfondissez.
 
 La Bible n'est-elle pas un livre incroyable que vous n'avez peut-être pas apprécié auparavant ? Avez-vous senti le Saint-Esprit vous "parler" et vous donner des éclaircissements au cours de cette étude ? Si c'est le cas, n'était-ce pas exaltant et n'aimeriez-vous pas vivre cela plus souvent ? <span class="bbsg_highlight">La bonne nouvelle est que vous le pouvez !</span> Grâce au processus de cette étude, vous devriez maintenant vous sentir équipé pour pouvoir continuer votre quête de réponses. Le reste de ce guide vous propose un plan pour lire le reste de la Bible. Les lectures ne sont à nouveau pas en ordre séquentiel afin de faciliter la compréhension de la Bible pendant que vous la lisez.

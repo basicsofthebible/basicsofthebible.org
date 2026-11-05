@@ -1,9 +1,10 @@
 ---
 layout: page
-title: explaining the bible visually
+title: "Explaining the Bible Visually: Free Charts, Timelines & Study Guides"
+description: "Discover free visual Bible study guides, chronological timelines, book structure charts, and a 49-day beginner Bible reading plan."
 sitemap: true
 ---
-![Thumbnail image](assets/img/misc/bb.png){: width="64" height="64" loading="lazy"}  
+![Basics of the Bible Visual Study Guide Thumbnail](assets/img/misc/bb.png){: width="64" height="64" loading="lazy"}  
 
 Thank you for visiting basicsofthebible.org, a collection of free Bible visualizations.
 {:.lead}
@@ -20,4 +21,4 @@ The groundwork for Basics of the Bible was laid in 2007 when I created study gui
 * [Projects](projects/){:.heading.flip-title} --- My portfolio of Bible graphics. 
 
 ## Share <span class="icon-qrcode"></span>
- ![Actual-size image](assets/img/misc/homepage_qr.png){: width="150" height="150" loading="lazy"}
+ ![Basics of the Bible Visual Structure Chart Full Size](assets/img/misc/homepage_qr.png){: width="150" height="150" loading="lazy"}

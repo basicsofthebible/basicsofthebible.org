@@ -7,7 +7,7 @@ sitemap: true
 title: Sobre
 ---
 
-# Sobre este Guia
+## Sobre este Guia
 <span class="icon-quotes-left"></span><span class="bbsg_highlight">
 Glória a Deus nas alturas, e paz na terra aos homens a quem ele concede o seu favor.</span><span class="icon-quotes-right"></span> Lucas 2:14
 {:.lead}

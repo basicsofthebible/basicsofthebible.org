@@ -1,7 +1,6 @@
 ---
-title: Guide
-description: >
-  A self-directed reading plan and study guide for people that are new to the Bible and want to learn what it means to be a follower of Jesus.
+title: "Basics of the Bible: Free 49-Day Non-Sequential Bible Study Guide"
+description: "A free 49-day non-sequential Bible reading plan and study guide designed for beginners to understand the overarching structure of Scripture."
 hide_description: false
 sitemap: true
 permalink: /studyguide/

@@ -1,9 +1,9 @@
 ---
 layout: project
-title: "Timeline of Biblical Events: 1500 BC to 100 BC (World History Context)"
+title: "Biblical Timeline: 1500–100 BC — Judges, Kings, and Prophets"
 caption: "Timeline of Biblical History: 1500 BC to 100 BC"
 description: >
-  Timeline of Biblical Events presents the biblical storyline in perspective with the wider movements of world history and the major societies of the ancient world.
+  See judges, kingdoms, prophets, exile, and return alongside biblical books and wider historical events.
 date: 3 Nov 2026
 image: 
   path: /assets/img/projects/tbe3.png
@@ -12,17 +12,21 @@ image:
     960w:  /assets/img/projects/tbe3@0,5x.png
     480w:  /assets/img/projects/tbe3@0,25x.png
 links:
-  - title: PDF
-    url: ../../assets/pdfs/TimelineOfBiblicalEvents.pdf
+  - title: Complete Timeline of Biblical Events (PDF)
+    url: /assets/pdfs/TimelineOfBiblicalEvents.pdf
 sitemap: true
 ---
 
-When I created *Interactive Timeline of Bible History* in 2007, it was my first attempt at designing a Bible graphic, making this revision a meaningful return to where the work of *Basics of the Bible* all began.   
+This graphic brings together the judges, Israel’s united and divided kingdoms, the prophets, exile, and return. A colored band identifies the biblical books associated with the narrative, while labels place prophetic and poetical books alongside the people and periods shown.
 
-This revised edition, *Timeline of Biblical Events*, commemorates the 20th anniversary of that original graphic. It reworks the concept with a clearer visual structure, a consistent timeline scale, and design elements drawn from my later *Bible Structure and Timeline* graphic.  
+Parallel historical bands help readers compare these events with developments in surrounding societies and elsewhere in the world. Notes distinguish approximate early chronology from dates the graphic describes as better established, and an alternative Exodus date is also marked.
 
-Unlike the original PowerPoint version, which included interactive links and addendum material, this revision is focused on the timeline itself. It is designed to work well in a printed format and in teaching settings, with selected Scripture passages included throughout the graphic as prompts for highlighting the big-picture storyline of the Bible as you move through the timeline.
+[All four timelines](/tbe/) · Page 3 of 4
 
-# Download
-[PDF](../assets/pdfs/TimelineOfBiblicalEvents.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> legal print size (1 MB)
-[PNG](../assets/img/hd/tbe3hd.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD image (0.7 MB)
+[Previous: 2800 BC to 1400 BC](/projects/tbe2800bc/) · [Next: 20 BC to 100 AD](/projects/tbe20bc/)
+
+## Downloads
+
+[Complete Timeline of Biblical Events (PDF)](/assets/pdfs/TimelineOfBiblicalEvents.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> All 4 pages, legal landscape (14 × 8.5 in), 1.0 MB
+
+[1500 BC to 100 BC — high-resolution PNG](/assets/img/hd/tbe3hd.png){:.heading.flip-title} <span class="icon-file-picture"></span> 0.7 MB

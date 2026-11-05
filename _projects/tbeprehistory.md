@@ -1,9 +1,9 @@
 ---
 layout: project
-title: "Timeline of Biblical Events: Prehistory to 2800 BC (Creation & Early World)"
+title: "Biblical Timeline: Prehistory to 2800 BC — Genesis Genealogy"
 caption: "Timeline of Biblical History: Prehistory to 2800 BC"
 description: >
-  Timeline of Biblical Events presents the biblical storyline in perspective with the wider movements of world history and the major societies of the ancient world.
+  Follow early Genesis generations through lifespan lines, with parallel historical bands and notes on approximate chronology.
 date: 1 Nov 2026
 image: 
   path: /assets/img/projects/tbe1.png
@@ -12,17 +12,21 @@ image:
     960w:  /assets/img/projects/tbe1@0,5x.png
     480w:  /assets/img/projects/tbe1@0,25x.png
 links:
-  - title: PDF
-    url: ../../assets/pdfs/TimelineOfBiblicalEvents.pdf
+  - title: Complete Timeline of Biblical Events (PDF)
+    url: /assets/pdfs/TimelineOfBiblicalEvents.pdf
 sitemap: true
 ---
 
-When I created *Interactive Timeline of Bible History* in 2007, it was my first attempt at designing a Bible graphic, making this revision a meaningful return to where the work of *Basics of the Bible* all began.   
+This first graphic follows the early Genesis genealogy from Adam through Noah. Lifespan lines show overlapping generations, while parallel bands place the genealogy alongside selected developments in Egypt, Mesopotamia, Greece and Crete, India, and China.
 
-This revised edition, *Timeline of Biblical Events*, commemorates the 20th anniversary of that original graphic. It reworks the concept with a clearer visual structure, a consistent timeline scale, and design elements drawn from my later *Bible Structure and Timeline* graphic.  
+The Genesis band identifies the creation, Eden, and pre-Flood portions of the narrative. The graphic notes that its dates are approximate and difficult to verify.
 
-Unlike the original PowerPoint version, which included interactive links and addendum material, this revision is focused on the timeline itself. It is designed to work well in a printed format and in teaching settings, with selected Scripture passages included throughout the graphic as prompts for highlighting the big-picture storyline of the Bible as you move through the timeline.
+[All four timelines](/tbe/) · Page 1 of 4
 
-# Download
-[PDF](../assets/pdfs/TimelineOfBiblicalEvents.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> legal print size (1 MB)
-[PNG](../assets/img/hd/tbe1hd.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD image (0.3 MB)
+[Next: 2800 BC to 1400 BC](/projects/tbe2800bc/)
+
+## Downloads
+
+[Complete Timeline of Biblical Events (PDF)](/assets/pdfs/TimelineOfBiblicalEvents.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> All 4 pages, legal landscape (14 × 8.5 in), 1.0 MB
+
+[Prehistory to 2800 BC — high-resolution PNG](/assets/img/hd/tbe1hd.png){:.heading.flip-title} <span class="icon-file-picture"></span> 0.3 MB

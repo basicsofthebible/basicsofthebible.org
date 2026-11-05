@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'psalm25'
-caption: Psalm 25
+title: "Psalm 25 Hebrew Acrostic Poem Parallel Chart (WLC & English)"
+caption: "Acrostic Structure of Psalm 25"
 description: >
   A visual representation of Psalm 25, an acrostic psalm, in the original Hebrew (The Westminster Leningrad Codex) with English, using the World English Bible version.
 date: 1 Jan 2015

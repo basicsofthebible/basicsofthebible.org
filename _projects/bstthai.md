@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstthai'
-caption: โครงสร้างและช่วงเวลาในพระคัมภีร์
+title: "โครงสร้างและช่วงเวลาในพระคัมภีร์ (Bible Structure & Timeline in Thai)"
+caption: "โครงสร้างและช่วงเวลาในพระคัมภีร์"
 description: >
   การแปลโครงสร้างและไทม์ไลน์ของพระคัมภีร์เป็นภาษาไทย
 date: 3 Jan 2024

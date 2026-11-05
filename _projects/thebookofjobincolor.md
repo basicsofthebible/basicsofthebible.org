@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'thebookofjobincolor'
-caption: The Book of Job in Color
+title: "The Book of Job Color-Coded by Speaker (Visual Study Text)"
+caption: "The Book of Job in Color"
 description: >
     A graphic that helps faciliate understanding of a difficult book by coloring the text according to each speaker.
 date: 1 Jan 2012

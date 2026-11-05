@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstrussian'
-caption: Библейская Структураи Историческая Линия
+title: "Библейская Структура и Историческая Линия (Bible Structure & Timeline in Russian)"
+caption: "Библейская Структура и Историческая Линия"
 description: >
   Библейская Структураи Историческая Линия на русском
 date: 5 Jan 2010

@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstspanish'
-caption: Estructura Biblica Y Cronograma
+title: "Estructura Bíblica y Cronograma (Bible Structure & Timeline in Spanish)"
+caption: "Estructura Bíblica y Cronograma"
 description: >
   Estructura Biblica y Cronograma en español
 date: 11 Jan 2010

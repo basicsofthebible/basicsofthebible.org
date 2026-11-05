@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bsthungarian'
-caption: Biblia Szerkezete Es Idorendje
+title: "Biblia Szerkezete és Időrendje (Bible Structure & Timeline in Hungarian)"
+caption: "Biblia Szerkezete és Időrendje"
 description: >
   Biblia Szerkezete es Idorendje Magyarul
 date: 12 Jan 2010

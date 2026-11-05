@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstfrench'
-caption: Structure Biblique Et Chronologie
+title: "Structure Biblique et Chronologie (Bible Structure & Timeline in French)"
+caption: "Structure Biblique et Chronologie"
 description: >
   Structure Biblique et Chronologie en français
 date: 4 Jan 2010

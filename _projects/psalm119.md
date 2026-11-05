@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'psalm119'
-caption: Psalm 119
+title: "Psalm 119 Hebrew Acrostic Structure & Visual Analysis"
+caption: "Acrostic Structure of Psalm 119"
 description: >
   A visual representation of Psalm 119 in the original Hebrew (The Westminster Leningrad Codex) with English, using the World English Bible version. 
   Available in banner and paginated versions.

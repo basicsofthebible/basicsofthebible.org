@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstportuguese'
-caption: Estrutura Biblica E Cronologia
+title: "Estrutura Bíblica e Cronologia (Bible Structure & Timeline in Portuguese)"
+caption: "Estrutura Bíblica e Cronologia"
 description: >
   Estrutura Biblica e Cronologia em português
 date: 10 Jan 2010

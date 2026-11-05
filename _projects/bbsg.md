@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bbsg'
-caption: Basics of the Bible Study Guide
+title: "Basics of the Bible Study Guide: Non-Sequential Reading Plan"
+caption: "Basics of the Bible Study Guide"
 description: >
   A self-directed reading plan and study guide for people that are new to the Bible and want to learn what it means to be a follower of Jesus.
 date: 1 Jan 2008

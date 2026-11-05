@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstbahasaindonesia'
-caption: Strukturdan Kronologi Alkitab
+title: "Struktur dan Kronologi Alkitab (Bible Structure & Timeline in Indonesian)"
+caption: "Struktur dan Kronologi Alkitab"
 description: >
   Terjemahan Struktur dan Garis Waktu Alkitab ke dalam Bahasa Indonesia
 date: 2 Jan 2024

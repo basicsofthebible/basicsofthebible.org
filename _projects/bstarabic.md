@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstarabic'
-caption: الترتيبالزمنيوالهيكليالكتابالمقدس
+title: "الترتيب الزمني والهيكلي للكتاب المقدس (Bible Structure & Timeline in Arabic)"
+caption: "الترتيب الزمني والهيكلي للكتاب المقدس"
 description: >
   الترتيب الزمني والهيكلي للكتاب المقدس (باللغة العربية)
 date: 7 Jan 2010

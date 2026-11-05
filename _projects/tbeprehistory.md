@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'tbeprehistory'
-caption: "Timeline of Biblical History: Prehistory to 2800 bc"
+title: "Timeline of Biblical Events: Prehistory to 2800 BC (Creation & Early World)"
+caption: "Timeline of Biblical History: Prehistory to 2800 BC"
 description: >
   Timeline of Biblical Events presents the biblical storyline in perspective with the wider movements of world history and the major societies of the ancient world.
 date: 1 Nov 2026

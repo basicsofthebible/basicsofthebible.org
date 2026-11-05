@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstkorean'
-caption: 성경의구조와 연대기
+title: "성경의 구조와 연대기 (Bible Structure & Timeline in Korean)"
+caption: "성경의 구조와 연대기"
 description: >
   성경의구조와 연대기 한국어로
 date: 6 Jan 2010

@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'tbe1500bc'
-caption: "Timeline of Biblical History: 1500 bc to 100 bc"
+title: "Timeline of Biblical Events: 1500 BC to 100 BC (World History Context)"
+caption: "Timeline of Biblical History: 1500 BC to 100 BC"
 description: >
   Timeline of Biblical Events presents the biblical storyline in perspective with the wider movements of world history and the major societies of the ancient world.
 date: 3 Nov 2026

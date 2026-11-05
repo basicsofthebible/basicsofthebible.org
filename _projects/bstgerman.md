@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstgerman'
-caption: Gliederung Und Zeitleiste Der Bibel
+title: "Gliederung und Zeitleiste der Bibel (Bible Structure & Timeline in German)"
+caption: "Gliederung und Zeitleiste der Bibel"
 description: >
   Gliederung Und Zeitleiste Der Bibel auf Deutsch
 date: 9 Jan 2010

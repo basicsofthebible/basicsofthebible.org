@@ -1,7 +1,7 @@
 ---
 layout: project
-title: '49daystudyguide'
-caption: 49 Day Study Guide
+title: "49-Day Non-Sequential Bible Reading Plan & Printable Checklist"
+caption: "49 Day Study Guide"
 description: >
     A printable 49-day reading schedule to accompany Parts 1 and 2 of Basics of the Bible study guide.
 date: 1 Jan 2017

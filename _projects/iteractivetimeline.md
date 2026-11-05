@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'interactivetimeline'
-caption: Interactive Timeline of Bible History
+title: "Interactive Timeline of Bible History in World Perspective"
+caption: "Interactive Timeline of Bible History"
 description: >
   An interactive visual guide that illustrates the events of the Bible in the context of extrabiblical history, with an emphasis on the major societies of the world at the time. Click on the link above to download the PDF version, which has hyperlinks to the Wikipedia entries for the historical events described in the guide.
 date: 1 Jan 2007

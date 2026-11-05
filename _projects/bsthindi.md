@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bsthindi'
-caption: बाइबिलसंरचनाऔरसमयरेखा
+title: "बाइबल की संरचना और समयरेखा (Bible Structure & Timeline in Hindi)"
+caption: "बाइबल की संरचना और समयरेखा"
 description: >
   बाइबल की संरचना और समयरेखा का हिंदी में अनुवाद
 date: 1 Jan 2024

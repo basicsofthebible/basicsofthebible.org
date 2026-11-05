@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstpinyin'
-caption: jiù yuē de jià gòu yǔ shí jiān zhóu
+title: "圣经架构与时间表拼音版 (Bible Structure & Timeline in Simplified Chinese Pinyin)"
+caption: "jiù yuē de jià gòu yǔ shí jiān zhóu"
 description: >
   Bible Structure and Timeline in Simplified Chinese with Pinyin for language learners.
 date: 8 Jan 2010

@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstsimplified'
-caption: 圣经架构与时间表中文简化字
+title: "圣经架构与时间表 (Bible Structure & Timeline in Simplified Chinese)"
+caption: "圣经架构与时间表（中文简化字）"
 description: >
   圣经结构与时间轴的中文翻译
 date: 2 Jan 2010

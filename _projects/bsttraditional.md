@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bsttraditional'
-caption: 聖經架構與時間表中文簡化字
+title: "聖經架構與時間表 (Bible Structure & Timeline in Traditional Chinese)"
+caption: "聖經架構與時間表（中文繁體字）"
 description: >
   聖經結構與時間軸的中文翻譯
 date: 3 Jan 2010

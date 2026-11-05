@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'thebookofkingsincolor'
-caption: The Book of Kings in Color
+title: "1 & 2 Kings Color-Coded by Divided Kingdom (Israel vs. Judah)"
+caption: "1 & 2 Kings in Color"
 description: >
     A graphic that uses color to identify the kingdom being described in the book of Kings.
 date: 1 Jan 2020

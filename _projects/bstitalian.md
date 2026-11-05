@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstitalian'
-caption: Struttura e linea cronologica della Bibbia
+title: "Struttura e Linea Cronologica della Bibbia (Bible Structure & Timeline in Italian)"
+caption: "Struttura e linea cronologica della Bibbia"
 description: >
   Struttura e linea cronologica della Bibbia in italiano
 date: 1 Jan 2019

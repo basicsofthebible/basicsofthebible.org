@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstjapanese'
-caption: 聖書の構造と時系列
+title: "聖書の構造と時系列 (Bible Structure & Timeline in Japanese)"
+caption: "聖書の構造と時系列"
 description: >
   聖書の構造とタイムラインの日本語訳。
 date: 1 Jan 2010

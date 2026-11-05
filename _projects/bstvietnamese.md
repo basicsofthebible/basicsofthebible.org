@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstvietnamese'
-caption: Cấu trúc của Kinh Thánh và thời gian về các sự kiện
+title: "Cấu Trúc của Kinh Thánh và Thời Gian về Các Sự Kiện (Bible Structure & Timeline in Vietnamese)"
+caption: "Cấu trúc của Kinh Thánh và thời gian về các sự kiện"
 description: >
   Cấu trúc của Kinh Thánh và thời gian về các sự kiện bằng tiếng Việt
 date: 1 Jan 2017

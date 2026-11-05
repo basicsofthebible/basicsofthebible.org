@@ -1,7 +1,7 @@
 ---
 layout: project
-title: '7churchesofrevelation'
-caption: 7 Churches of Revelation
+title: "The 7 Churches of Revelation: Visual Chart & Interpretive Frameworks"
+caption: "The Seven Churches of Revelation"
 description: >
   The Seven churches of Revelation and an overview of the interpretative frameworks for understanding the book of Revelation.
 date: 1 Jan 2025

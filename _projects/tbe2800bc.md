@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'tbe2800bc'
-caption: "Timeline of Biblical History: 2800 bc to 1400 bc"
+title: "Timeline of Biblical Events: 2800 BC to 1400 BC (Patriarchs & Exodus Era)"
+caption: "Timeline of Biblical History: 2800 BC to 1400 BC"
 description: >
   Timeline of Biblical Events presents the biblical storyline in perspective with the wider movements of world history and the major societies of the ancient world.
 date: 2 Nov 2026

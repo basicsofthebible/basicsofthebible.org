@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'bstot'
-caption: Bible Structure and Timeline Old Testament
+title: "Old Testament Structure and Chronological Timeline (Visual Chart)"
+caption: "Old Testament Structure and Chronological Timeline"
 description: >
   A visual guide that illustrates the structure of the Bible, arranged chronologically. 
   Provides a better understanding of when the events described in the Bible occurred in history. 

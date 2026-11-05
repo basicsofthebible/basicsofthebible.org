@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'psalm34'
-caption: Psalm 34
+title: "Psalm 34 Hebrew Acrostic Poem Parallel Chart (WLC & English)"
+caption: "Acrostic Structure of Psalm 34"
 description: >
   A visual representation of Psalm 34, an acrostic psalm, in the original Hebrew (The Westminster Leningrad Codex) with English, using the World English Bible version.
 date: 1 Jan 2014

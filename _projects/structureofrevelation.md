@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'structureofrevelation'
-caption: Structure of Revelation
+title: "Structure of the Book of Revelation: Chiasm, Visions & Cross-References"
+caption: "Structure of Revelation"
 description: >
   The structure of the book of Revelation as a series of visions and interludes.
 date: 1 Jan 2025

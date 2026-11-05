@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'estructuradeapocalipsis'
-caption: Estructura de Apocalipsis
+title: "Estructura del Libro del Apocalipsis: Quiasmo, Visiones y Referencias Cruzadas"
+caption: "Estructura de Apocalipsis"
 description: >
   La estructura del libro del Apocalipsis como una serie de visiones e interludios.
 date: 2 May 2026

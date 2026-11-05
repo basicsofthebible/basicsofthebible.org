@@ -1,9 +1,9 @@
 ---
 layout: project
-title: "1 & 2 Kings Color-Coded by Divided Kingdom (Israel vs. Judah)"
+title: "The Book of Kings in Color — Color-Coded 1 & 2 Kings"
 caption: "1 & 2 Kings in Color"
 description: >
-    A graphic that uses color to identify the kingdom being described in the book of Kings.
+    Read 1 and 2 Kings with color coding and section labels that help you follow the narrative between Israel, Judah, Solomon, and Elisha.
 date: 1 Jan 2020
 image: 
   path: /assets/img/projects/thebookofkingsincolor.png
@@ -12,12 +12,17 @@ image:
     960w:  /assets/img/projects/thebookofkingsincolor@0,5x.png
     480w:  /assets/img/projects/thebookofkingsincolor@0,25x.png
 links:
-  - title: PDF
-    url: ../../assets/pdfs/TheBookOfKingsInColor.pdf
+  - title: The Book of Kings in Color (PDF)
+    url: /assets/pdfs/TheBookOfKingsInColor.pdf
 sitemap: true
 ---
 
-The ancient kingdom of Israel was united under Saul, David and Solomon, and split into the Northern kingdom of Israel (10 tribes) and the Southern Kingdom of Judah (and Benjamin). The narrative vignettes of events and rulers (several of which share the same or similar names!) shifts back and forth between the two kingdoms, making it challenging as a reader to follow along. Like *The Book of Job in Color* where the text is colored according to the speaker in question, here color is used to identify the kingdom in question (United, Israel, Judah), or in two cases, when the narrative focuses on Solomon or Elisha. Uses the World English Bible (WEB) version, a public domain translation available at [ebible.org](https://worldenglish.bible/).  
+I created this color-coded presentation of 1 and 2 Kings to help readers follow the narrative as it shifts between kingdoms and rulers.
 
-# Download
-[PDF](../assets/pdfs/TheBookOfKingsInColor.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> tabloid print size (0.3 MB)
+Different colors distinguish passages about the united kingdom, the northern kingdom of Israel, and the southern kingdom of Judah. Section labels also identify the narrative’s focus, including sections centered on Solomon and Elisha. These visual cues help readers keep track of which kingdom or person the text concerns.
+
+The PDF contains the biblical text of both books, with chapter and verse references. It uses the World English Bible (WEB), a public-domain translation available at [worldenglish.bible](https://worldenglish.bible/).
+
+## Download
+
+[The Book of Kings in Color (PDF)](/assets/pdfs/TheBookOfKingsInColor.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 15 pages, tabloid landscape, approximately 0.6 MB.

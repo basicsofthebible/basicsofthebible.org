@@ -1,9 +1,9 @@
 ---
 layout: project
-title: "Structure of the Book of Revelation: Chiasm, Visions & Cross-References"
+title: "Structure of Revelation — Visions, Interludes, and Cross-References"
 caption: "Structure of Revelation"
 description: >
-  The structure of the book of Revelation as a series of visions and interludes.
+  Explore Revelation’s seals, trumpets, bowls, and interludes in a visual chart with passage references and an attributed chiastic outline.
 date: 1 Jan 2025
 image: 
   path: /assets/img/projects/structureofrevelation.png
@@ -12,19 +12,31 @@ image:
     960w:  /assets/img/projects/structureofrevelation@0,5x.png
     480w:  /assets/img/projects/structureofrevelation@0,25x.png
 links:
-  - title: PDF
-    url: ../../assets/pdfs/StructureOfRevelation.pdf
+  - title: Structure of Revelation (PDF)
+    url: /assets/pdfs/StructureOfRevelation.pdf
 sitemap: true
 ---
 
-The graphic facilitates interpretation of this stunningly complex book. Includes a tabulation of cross-references with other scripture (from [OpenBible](https://www.openbible.info)), and the chiastic organization (from [Biblical Blueprints](https://revelation.biblicalblueprints.com/home)). Formatted for large, tabloid-size paper (11x17 in).
+I created this graphic to show how Revelation’s visions and interludes fit together. Rows organize the seals, trumpets, and bowls, while separate columns identify interludes and passages concerning future glory. Passage references help readers follow the arrangement in the biblical text.
 
-# Cross-Reference Analysis
-The [openbible.info cross-reference dataset](https://www.openbible.info/labs/cross-references/) was used to analyze the number of cross-references to and from the book of Revelation in the *Structure of Revelation* graphic and the *Revelation Graphic Explainer* presentation. Visit my github repository [OpenBible Revelation Analysis](https://github.com/basicsofthebible/resources/tree/main/workflows/revelation) for a python notebook-based workflow that generates the cross-reference summaries and visualizations.  
+The chart includes cross-reference counts based on [OpenBible.info data](https://www.openbible.info/labs/cross-references/) and a chiastic outline attributed to Phillip Kayser’s [Biblical Blueprints](https://revelation.biblicalblueprints.com/home).
 
-# Download
-[PDF](../assets/pdfs/StructureOfRevelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Structure Revelation Tabloid print size (21 MB)  
-[PNG](../assets/img/hd/structureofrevelation.png){:.heading.flip-title} <span class="icon-file-picture"></span> Structure Revelation HD image (3.3 MB)  
-[PDF](../assets/pdfs/7ChurchesOfRevelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 7 Churches of Revelation Tabloid print size (5.6 MB)  
-[PNG](../assets/img/hd/7churchesofrevelationhd.png){:.heading.flip-title} <span class="icon-file-picture"></span> 7 Churches of Revelation HD image (1.7 MB)  
-[PDF](../assets/pdfs/RevelationGraphicExplainer_v102.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Revelation Graphic Explainer Presentation 16:9 format (12.4 MB)
+For a closer look at Revelation 2–3, see [The Seven Churches of Revelation](/projects/7churchesofrevelation/). Both graphics and the accompanying presentation are available below.
+
+[Ver esta página en español](/projects/estructuradeapocalipsis/).
+
+## Cross-reference analysis
+
+I calculated the cross-reference counts in the graphic and presentation from the OpenBible.info dataset using the Python workflow documented in [OpenBible Revelation Analysis](https://github.com/basicsofthebible/resources/tree/main/workflows/revelation). These values count dataset entries rather than independently established literary relationships.
+
+## Downloads
+
+[Structure of Revelation (PDF)](/assets/pdfs/StructureOfRevelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 1 page, tabloid landscape (11 × 17 in), 22.0 MB
+
+[Structure of Revelation (PNG)](/assets/img/hd/structureofrevelation.png){:.heading.flip-title} <span class="icon-file-picture"></span> High-resolution image, 3.4 MB
+
+[The Seven Churches of Revelation (PDF)](/assets/pdfs/7ChurchesOfRevelation.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 1 page, tabloid landscape (11 × 17 in), 5.7 MB
+
+[The Seven Churches of Revelation (PNG)](/assets/img/hd/7churchesofrevelationhd.png){:.heading.flip-title} <span class="icon-file-picture"></span> High-resolution image, 1.8 MB
+
+[Revelation Graphic Explainer (PDF)](/assets/pdfs/RevelationGraphicExplainer_v102.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Presentation, 138 slides, 16:9 format, 19.9 MB

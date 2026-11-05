@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'tbe20bc'
-caption: Timeline of Biblical History: 20 bc to 100 ad
+caption: "Timeline of Biblical History: 20 bc to 100 ad"
 description: >
   Timeline of Biblical Events presents the biblical storyline in perspective with the wider movements of world history and the major societies of the ancient world.
 date: 4 Jul 2027

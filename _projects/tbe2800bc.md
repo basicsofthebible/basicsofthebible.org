@@ -4,7 +4,7 @@ title: 'tbe2800bc'
 caption: "Timeline of Biblical History: 2800 bc to 1400 bc"
 description: >
   Timeline of Biblical Events presents the biblical storyline in perspective with the wider movements of world history and the major societies of the ancient world.
-date: 2 Jul 2027
+date: 2 Nov 2026
 image: 
   path: /assets/img/projects/tbe2.png
   srcset: 

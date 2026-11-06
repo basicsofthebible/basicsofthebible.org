@@ -15,6 +15,8 @@ links:
   - title: Psalm 34 parallel chart (PDF)
     url: /assets/pdfs/Psalm34.pdf
 sitemap: true
+redirect_from:
+  - /psalm34/
 ---
 
 This chart places Psalm 34’s Hebrew text beside its English translation so readers can follow its acrostic: an arrangement of poetic units beginning with successive letters of the Hebrew alphabet. Blue letters identify the Hebrew initials, and red highlights connect the opening words with their English equivalents.

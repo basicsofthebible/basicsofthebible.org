@@ -15,6 +15,8 @@ links:
   - title: Psalm 119 banner (PDF)
     url: /assets/pdfs/psalm119.pdf
 sitemap: true
+redirect_from:
+  - /psalm119/
 ---
 
 I created this graphic to make Psalm 119’s Hebrew acrostic visible alongside its English translation. Its 22 sections follow the Hebrew alphabet; all eight verses in each section begin with the same letter.

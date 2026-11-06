@@ -4,6 +4,8 @@ title: Permissions and reuse
 description: "Licensing, attribution, and reuse of Basics of the Bible materials, including earlier editions and third-party content."
 permalink: /PERMISSIONS/
 sitemap: true
+redirect_from:
+  - /permissions.html
 ---
 
 # Permissions and reuse

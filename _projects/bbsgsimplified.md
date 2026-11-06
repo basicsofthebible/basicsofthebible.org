@@ -16,6 +16,8 @@ links:
   - title: 圣经要义学习指南 (PDF)
     url: ../../assets/pdfs/basicsofthebible_simplified.pdf
 sitemap: true
+redirect_from:
+  - /simplified.html
 ---
 
 圣经要义

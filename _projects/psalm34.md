@@ -45,9 +45,7 @@ Strong, James. The New Strong's Expanded Dictionary of Bible Words. Thomas Nelso
 
 [Psalm 34 parallel chart (PNG)](/assets/img/projects/psalm34.png){:.heading.flip-title} <span class="icon-file-picture"></span> 1920 × 1080 pixels, 0.8 MB
 
-{:.figcaption}
-
-## Other acrostic psalm graphics
+## Other Acrostic Psalm Pages
 
 - [Psalm 25 — Hebrew acrostic graphic](/projects/psalm25/)
 - [Psalms 111–112 — Hebrew acrostic graphic](/projects/psalm111-112/)

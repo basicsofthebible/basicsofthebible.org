@@ -6,7 +6,7 @@ description: >
   Struttura e linea cronologica della Bibbia in italiano
 date: 1 Jan 2019
 image: 
-  path: /assets/img/projects/bstntgitalian.png
+  path: /assets/img/projects/bstntitalian.png
   srcset: 
     1920w: /assets/img/projects/bstntitalian.png
     960w:  /assets/img/projects/bstntitalian@0,5x.png
@@ -22,6 +22,6 @@ Tradotto da Marie Dawod
 Revisionato/Verificato da Ivan Ferrero
 
 # Download
-[PDF](../assets/pdfs/StrutturaELineaCronologicaDellaBibbia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Formato Legal (0.3 MB)  
-[PNG OT](../assets/img/hd/bstothditalian.png){:.heading.flip-title} <span class="icon-file-picture"></span> immagini in alta definizione (0.5 MB)  
-[PNG NT](../assets/img/hd/bstnthditalian.png){:.heading.flip-title} <span class="icon-file-picture"></span> immagini in alta definizione (0.3 MB)
+[PDF](/assets/pdfs/StrutturaELineaCronologicaDellaBibbia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Formato Legal (0.3 MB)  
+[PNG OT](/assets/img/hd/bstothditalian.png){:.heading.flip-title} <span class="icon-file-picture"></span> immagini in alta definizione (0.5 MB)  
+[PNG NT](/assets/img/hd/bstnthditalian.png){:.heading.flip-title} <span class="icon-file-picture"></span> immagini in alta definizione (0.3 MB)

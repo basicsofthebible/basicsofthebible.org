@@ -23,5 +23,5 @@ sitemap: true
 
 # Download
 [PDF](../../assets/pdfs/圣经架构与时间表(简化字).pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 法定打印尺寸 (0.4 MB)  
-[PNG OT](../assets/img/hd/bstothdsimplified.png){:.heading.flip-title} <span class="icon-file-picture"></span> 高清图片 (0.6 MB)  
-[PNG NT](../assets/img/hd/bstnthdsimplified.png){:.heading.flip-title} <span class="icon-file-picture"></span> 高清图片 (0.5 MB)
+[PNG OT](/assets/img/hd/bstothdsimplified.png){:.heading.flip-title} <span class="icon-file-picture"></span> 高清图片 (0.6 MB)  
+[PNG NT](/assets/img/hd/bstnthdsimplified.png){:.heading.flip-title} <span class="icon-file-picture"></span> 高清图片 (0.5 MB)

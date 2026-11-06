@@ -66,9 +66,7 @@ Psalm 119 is telling us that to know the Creator God you must know His law, ordi
 
 [Psalm 119 widescreen images (ZIP)](/assets/img/projects/psalm119paginated.zip){:.heading.flip-title} <span class="icon-file-zip"></span> 24 PNG images, 13.1 MB
 
-{:.figcaption}
-
-## Other acrostic psalm graphics
+## Other Acrostic Psalm Pages
 
 - [Psalm 25 — Hebrew acrostic graphic](/projects/psalm25/)
 - [Psalm 34 — Hebrew acrostic graphic](/projects/psalm34/)

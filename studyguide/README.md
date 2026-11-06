@@ -1,6 +1,7 @@
 ---
-title: "Basics of the Bible: Free 49-Day Non-Sequential Bible Study Guide"
-description: "A free 49-day non-sequential Bible reading plan and study guide designed for beginners to understand the overarching structure of Scripture."
+title: "Basics of the Bible Study Guide: Reading Plans and Downloads"
+description: "Read the free 49-day non-sequential Bible study guide in eight language versions, continue with further reading plans, or download print and presentation PDFs."
+lang: en
 hide_description: false
 sitemap: true
 permalink: /studyguide/
@@ -11,21 +12,23 @@ Most people that are new to the Bible approach it like any other book that they 
 
 ## The Guide in English
 * [Introduction]{:.heading.flip-title} --- Before you start the 49-day reading plan.
-* [TheBasics]{:.heading.flip-title} --- Get the big picture of the Bible in two weeks.
-* [DigDeeper]{:.heading.flip-title} --- Dig deeper into the Bible in five additional weeks.
-* [NextSteps]{:.heading.flip-title} --- You are now equipped to go through the rest of the Bible at your own pace.
+* [Part 1: The Basics][TheBasics]{:.heading.flip-title} --- Get the big picture of the Bible in two weeks.
+* [Part 2: Dig Deeper][DigDeeper]{:.heading.flip-title} --- Dig deeper into the Bible in five additional weeks.
+* [Part 3: Next Steps][NextSteps]{:.heading.flip-title} --- You are now equipped to go through the rest of the Bible at your own pace.
 * [About]{:.heading.flip-title} --- About this guide.
 {:.related-posts.faded}
 
+[Study Guide project](../_projects/bbsg.md){:.heading.flip-title}
+
 ## Print versions
-[PDF](../assets/pdfs/49DayStudyGuide.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 49 Day Study Guide Letter size (0.5 MB)  
-[PDF](../assets/pdfs/BasicsOfTheBible2024tabloid_basics.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> The Basics Tabloid size top-fold (0.1 MB)  
-[PDF](../assets/pdfs/BasicsOfTheBible2025tabloid_digdeeer_nextsteps.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Dig Deeper and Next Steps (abridged) Tabloid size top-fold (0.2 MB)
+[49-Day reading schedule (PDF)](../assets/pdfs/49DayStudyGuide.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Letter size (0.5 MB)  
+[The Basics (PDF)](../assets/pdfs/BasicsOfTheBible2024tabloid_basics.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Tabloid size top-fold (0.1 MB)  
+[Dig Deeper and Next Steps — abridged (PDF)](../assets/pdfs/BasicsOfTheBible2025tabloid_digdeeer_nextsteps.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Tabloid size top-fold (0.2 MB)
 
 ## Presentation versions
-[PDF](../assets/pdfs/basicsofthebible.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> English 16:9 presentation size (0.3 MB)  
-[PDF](../assets/pdfs/basicsofthebible_simplified.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Chinese (Simplified) 16:9 presentation size (3.0 MB)  
-[PDF](../assets/pdfs/basicsofthebible_traditional.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Chinese (Traditional) 16:9 presentation size (3.1 MB)
+[English presentation (PDF)](../assets/pdfs/basicsofthebible.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 16:9 presentation size (0.3 MB)  
+[Chinese (Simplified) presentation (PDF)](../assets/pdfs/basicsofthebible_simplified.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 16:9 presentation size (3.1 MB)  
+[Chinese (Traditional) presentation (PDF)](../assets/pdfs/basicsofthebible_traditional.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 16:9 presentation size (3.1 MB)
 
 ## 圣经要义学习指南 (简体中文)
 * [开始]{:.heading.flip-title} --- 在开始 49 天的阅读计划之前。

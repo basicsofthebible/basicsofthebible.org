@@ -1,10 +1,13 @@
 ---
 layout: page
 title: "Part 1: The Basics — 14-Day Beginner Bible Reading Plan"
-description: "Start your Bible reading journey with 14 essential passages covering Mark, 1 John, Genesis, and Romans."
+description: "A 14-day Bible reading plan with daily commentary on Mark, 1 John, Genesis 1–11, and Romans: Part 1 of the Basics of the Bible Study Guide."
+lang: en
 hide_description: true
 sitemap: true
 ---
+[Study Guide home](README.md){:.heading.flip-title} · [Introduction](Introduction.md){:.heading.flip-title}
+
 * The Basics: Big Picture Summary
 * The Basics Reading Schedule
 * The Basics: Stop and Take a Look Back
@@ -151,4 +154,6 @@ Even though we've only read a little over three books of the Bible (out of a tot
 
 As you continue your journey through the Dig Deeper study, keep this in mind——in fact, knowing that the answers to your questions might be <span class="bbsg_highlight">"just around the corner"</span> makes it very exciting to read through the Bible and you will find yourself not wanting to put it down!
 
-[DigDeeper](DigDeeper.md){:.heading.flip-title} --- Click here to continue to the next section.
+[Part 2: Dig Deeper](DigDeeper.md){:.heading.flip-title} --- Click here to continue to the next section.
+
+[Introduction](Introduction.md){:.heading.flip-title} · [Study Guide home](README.md){:.heading.flip-title}

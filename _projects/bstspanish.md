@@ -16,12 +16,14 @@ links:
     url: ../../assets/pdfs/EstructuraBiblicaYCronograma.pdf
 sitemap: true
 ---
-Creé este gráfico como una forma de visualizar tanto la estructura de la Biblia como de proporcionar una línea de tiempo aproximada de los eventos históricos registrados en cada libro de la Biblia. Por supuesto, al crear una visión general como esta, no siempre es posible representar con precisión toda la información histórica detallada registrada en la Biblia. El esquema de colores y la organización estructural de los libros de la Biblia fueron inspirados en *Walk Thru the Old Testament*. El material de la línea de tiempo proviene de mi propia investigación utilizada en la *Interactive Timeline of Bible History*.
+Creé este gráfico como una forma de visualizar tanto la estructura de la Biblia como de proporcionar una línea de tiempo aproximada de los eventos históricos registrados en cada libro de la Biblia. Por supuesto, al crear una visión general como esta, no siempre es posible representar con precisión toda la información histórica detallada registrada en la Biblia. El esquema de colores y la organización estructural de los libros de la Biblia fueron inspirados en *Walk Thru the Old Testament*. El material de la línea de tiempo proviene de mi propia investigación utilizada en la *[Interactive Timeline of Bible History](/projects/interactivetimeline/)*.
 
 Traducido por Aura Esterly  
 Corrector de pruebas por Clare Chung
 
+[Estructura bíblica y cronograma — todos los idiomas](/bst/)
+
 # Download
-[PDF](../assets/pdfs/EstructuraBiblicaYCronograma.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Tamaño Legal (0.3 MB)  
-[PNG OT](../assets/img/hd/bstothdspanish.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD (0.5 MB)  
-[PNG NT](../assets/img/hd/bstnthdspanish.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD (0.3 MB)
+[PDF](/assets/pdfs/EstructuraBiblicaYCronograma.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Tamaño Legal (0.3 MB)  
+[PNG OT](/assets/img/hd/bstothdspanish.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD (0.5 MB)  
+[PNG NT](/assets/img/hd/bstnthdspanish.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD (0.3 MB)

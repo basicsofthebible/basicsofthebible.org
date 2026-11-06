@@ -16,11 +16,13 @@ links:
     url: ../../assets/pdfs/BibliaSzerkezeteEsIdorendje.pdf
 sitemap: true
 ---
-Ezt a grafikát azért hoztam létre, hogy szemléletesen bemutassam a Biblia felépítését, valamint egy hozzávetőleges idővonalat adjak a Bibliában rögzített történelmi eseményekhez. Természetesen egy ilyen átfogó nézet elkészítésekor nem mindig lehet pontosan visszaadni a Biblia összes részletes történelmi információját. A könyvek színvilágát és szerkezeti elrendezését a *Walk Thru the Old Testament* inspirálta. Az idővonal anyaga saját kutatásomból származik, amelyet az *Interactive Timeline of Bible History*-ban használtam fel.
+Ezt a grafikát azért hoztam létre, hogy szemléletesen bemutassam a Biblia felépítését, valamint egy hozzávetőleges idővonalat adjak a Bibliában rögzített történelmi eseményekhez. Természetesen egy ilyen átfogó nézet elkészítésekor nem mindig lehet pontosan visszaadni a Biblia összes részletes történelmi információját. A könyvek színvilágát és szerkezeti elrendezését a *Walk Thru the Old Testament* inspirálta. Az idővonal anyaga saját kutatásomból származik, amelyet az *[Interactive Timeline of Bible History](/projects/interactivetimeline/)*-ban használtam fel.
 
 A fordító névtelen szeretne maradni
 
+[A Biblia szerkezete és időrendje — minden nyelven](/bst/)
+
 # Download
-[PDF](../assets/pdfs/BibliaSzerkezeteEsIdorendje.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Legal méret (0.3 MB)  
-[PNG OT](../assets/img/hd/bstothdhungarian.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD (0.5 MB)  
-[PNG NT](../assets/img/hd/bstnthdhungarian.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD (0.3 MB)
+[PDF](/assets/pdfs/BibliaSzerkezeteEsIdorendje.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Legal méret (0.3 MB)  
+[PNG OT](/assets/img/hd/bstothdhungarian.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD (0.5 MB)  
+[PNG NT](/assets/img/hd/bstnthdhungarian.png){:.heading.flip-title} <span class="icon-file-picture"></span> HD (0.3 MB)

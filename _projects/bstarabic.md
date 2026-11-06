@@ -16,12 +16,14 @@ links:
     url: ../../assets/pdfs/الترتيبالزمنيوالهيكليالكتابالمقدس.pdf
 sitemap: true
 ---
-لقد أنشأتُ هذا الرسم البياني كوسيلة لتصور كل من هيكل الكتاب المقدس وتقديم جدول زمني تقريبي للأحداث التاريخية المسجلة في كل سفر من أسفار الكتاب المقدس. بالطبع، عند إنشاء رؤية عامة مثل هذه، ليس من الممكن دائمًا تمثيل جميع المعلومات التاريخية التفصيلية المسجلة في الكتاب المقدس بدقة. تم استلهام نظام الألوان والتنظيم الهيكلي لأسفار الكتاب المقدس من *Walk Thru the Old Testament*. تأتي مواد الجدول الزمني من أبحاثي الخاصة التي استخدمتها في *Interactive Timeline of Bible History*.
+لقد أنشأتُ هذا الرسم البياني كوسيلة لتصور كل من هيكل الكتاب المقدس وتقديم جدول زمني تقريبي للأحداث التاريخية المسجلة في كل سفر من أسفار الكتاب المقدس. بالطبع، عند إنشاء رؤية عامة مثل هذه، ليس من الممكن دائمًا تمثيل جميع المعلومات التاريخية التفصيلية المسجلة في الكتاب المقدس بدقة. تم استلهام نظام الألوان والتنظيم الهيكلي لأسفار الكتاب المقدس من *Walk Thru the Old Testament*. تأتي مواد الجدول الزمني من أبحاثي الخاصة التي استخدمتها في *[Interactive Timeline of Bible History](/projects/interactivetimeline/)*.
 
 المترجم: مجهول   
 المدقق اللغوي: مجهول
 
+[بنية الكتاب المقدس والجدول الزمني — جميع اللغات](/bst/)
+
 # Download
-[PDF](../assets/pdfs/الترتيبالزمنيوالهيكليالكتابالمقدس.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> حجم الطباعة القانوني (0.7 MB)  
-[PNG OT](../assets/img/hd/bstothdarabic.png){:.heading.flip-title} <span class="icon-file-picture"></span> عالي الدقة (0.4 MB)  
-[PNG NT](../assets/img/hd/bstnthdarabic.png){:.heading.flip-title} <span class="icon-file-picture"></span> عالي الدقة (0.4 MB)
+[PDF](/assets/pdfs/الترتيبالزمنيوالهيكليالكتابالمقدس.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> حجم الطباعة القانوني (0.7 MB)  
+[PNG OT](/assets/img/hd/bstothdarabic.png){:.heading.flip-title} <span class="icon-file-picture"></span> عالي الدقة (0.4 MB)  
+[PNG NT](/assets/img/hd/bstnthdarabic.png){:.heading.flip-title} <span class="icon-file-picture"></span> عالي الدقة (0.4 MB)

@@ -16,10 +16,12 @@ links:
     url: ../../assets/pdfs/StrutturaELineaCronologicaDellaBibbia.pdf
 sitemap: true
 ---
-Ho creato questa grafica per visualizzare sia la struttura della Bibbia, sia per fornire una linea temporale approssimativa degli eventi storici registrati in ciascun libro della Bibbia. Naturalmente, nel creare una visione d'insieme come questa, non è sempre possibile rappresentare con precisione tutte le informazioni storiche dettagliate contenute nella Bibbia. Lo schema dei colori e l'organizzazione strutturale dei libri della Bibbia sono stati ispirati da *Walk Thru the Old Testament*. Il materiale della linea temporale proviene dalla mia ricerca utilizzata nella *Interactive Timeline of Bible History*.
+Ho creato questa grafica per visualizzare sia la struttura della Bibbia, sia per fornire una linea temporale approssimativa degli eventi storici registrati in ciascun libro della Bibbia. Naturalmente, nel creare una visione d'insieme come questa, non è sempre possibile rappresentare con precisione tutte le informazioni storiche dettagliate contenute nella Bibbia. Lo schema dei colori e l'organizzazione strutturale dei libri della Bibbia sono stati ispirati da *Walk Thru the Old Testament*. Il materiale della linea temporale proviene dalla mia ricerca utilizzata nella *[Interactive Timeline of Bible History](/projects/interactivetimeline/)*.
 
 Tradotto da Marie Dawod  
 Revisionato/Verificato da Ivan Ferrero
+
+[Struttura e linea cronologica della Bibbia — tutte le lingue](/bst/)
 
 # Download
 [PDF](/assets/pdfs/StrutturaELineaCronologicaDellaBibbia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Formato Legal (0.3 MB)  

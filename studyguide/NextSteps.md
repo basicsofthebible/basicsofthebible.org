@@ -30,7 +30,7 @@ Like *The Basics* and *Dig Deeper* lessons, the following plans also take you th
 
 <span class="bbsg_highlight">The Writings:</span> known as ketuvim in Hebrew, these are books of poetry and include: Job, Psalms, Proverbs, Ecclesiastes, and Song of Songs (also known as Song of Solomon). In Hebrew tradition, Ruth, Esther, Lamentations, 1-2 Chronicles, Ezra, Nehemiah and Daniel are considered part of the ketuvim, but a better understanding of the Bible as a whole is gained when these books are grouped with the historical books.
 
-See *Old Testament Structure and Timeline*: [Old Testament Structure and Timeline](../_projects/bstot.md){:.heading.flip-title}
+See *Old Testament Structure and Timeline*: [Old Testament Structure and Timeline](/bst/){:.heading.flip-title}
 
 ## The Structure of the Greek Scriptures
 <span class="bbsg_highlight">Historical books:</span> consisting of the four Gospels and Acts. The Gospels are named according to the author: Matthew, Mark, Luke and John. Matthew and John were two of the twelve disciples of Jesus during His earthly life and ministry. Mark was likely a young man who was among the larger band of disciples that followed Jesus. Luke was a Greek physician who came to believe in Jesus through Paul's missionary work. He also authored Acts.
@@ -39,7 +39,7 @@ See *Old Testament Structure and Timeline*: [Old Testament Structure and Timelin
 
 <span class="bbsg_highlight">Prophecy:</span> the only prophetic book of the Bible is Revelation, which tells of the return of Jesus to finalize His Kingdom after there has been sufficient time for all the nations to have a chance to hear and to respond to the message of salvation by believing in Jesus the Messiah.
 
-See *New Testament Structure and Timeline*: [New Testament Structure and Timeline](../_projects/bstnt.md){:.heading.flip-title}
+See *New Testament Structure and Timeline*: [New Testament Structure and Timeline](/bst/){:.heading.flip-title}
 
 ## Proposed Reading Plans
 The remainder of the Bible can be read and studied by breaking up into the following subjects:
@@ -87,7 +87,7 @@ Galatians
 ### Prophecy and End Times
 The Bible speaks considerably about <span class="bbsg_highlight">future events</span>——in both the Hebrew (Old Testament) and Greek Scriptures (New Testament).
 
-Some events described in both testaments <span class="bbsg_highlight">have been fulfilled</span>, whereas others events have yet to take place. Some prophecies are obvious in their fulfillment, such as the Suffering Servant of Isaiah 53, whereas it is not as clear in other cases. As we read through the Bible, we should not overly focus on determining if a certain prophecy has been fulfilled or not, but rather try to <span class="bbsg_highlight">learn</span> what God is telling us through the words of the prophets. Here, we take a closer look at the books of the Bible that speak directly about end times. The readings are ordered so that by the time we get to the final book of the Bible, we can better understand the visions described in <span class="bbsg_highlight">Revelation</span>. You will notice that Revelation unveils and explains many of the mysterious visions of the prophets, particularly <span class="bbsg_highlight">Zechariah</span> and <span class="bbsg_highlight">Daniel</span>.
+Some events described in both testaments <span class="bbsg_highlight">have been fulfilled</span>, whereas others events have yet to take place. Some prophecies are obvious in their fulfillment, such as the Suffering Servant of Isaiah 53, whereas it is not as clear in other cases. As we read through the Bible, we should not overly focus on determining if a certain prophecy has been fulfilled or not, but rather try to <span class="bbsg_highlight">learn</span> what God is telling us through the words of the prophets. Here, we take a closer look at the books of the Bible that speak directly about end times. The readings are ordered so that by the time we get to the final book of the Bible, we can better understand the visions described in <span class="bbsg_highlight">[Revelation](/projects/structureofrevelation/)</span>. You will notice that Revelation unveils and explains many of the mysterious visions of the prophets, particularly <span class="bbsg_highlight">Zechariah</span> and <span class="bbsg_highlight">Daniel</span>.
 
 Matthew  
 1-2 Thessalonians  
@@ -195,7 +195,7 @@ Psalms
 Proverbs
 
 *The Writings of David and Solomon: Reading Order*  
-<span class="bbsg_highlight">Psalms:</span> most of the Psalms are attributed to King David——74 of the 150 bear his name. Twelve are ascribed to Asaph, nine to the Korahites, two to King Solomon, and one each to Ethan the Ezrahite and Moses. The remaining 51 Psalms have no designation. The Psalms are considered the most beautiful and moving portions of the whole Bible. They are worship songs (note that the English word song is derived from the Hebrew word psalm) and many contain instructions on what instruments are to be played or what tune is to be used. Thus it is no wonder that believers of the Creator God throughout the ages have used the Psalms as their source of inspiration for the worship music of their generation. See a visualization of the beautiful structure of Psalm 119 and how this psalm helps us better understand the Creator God of the Bible.
+<span class="bbsg_highlight">Psalms:</span> most of the Psalms are attributed to King David——74 of the 150 bear his name. Twelve are ascribed to Asaph, nine to the Korahites, two to King Solomon, and one each to Ethan the Ezrahite and Moses. The remaining 51 Psalms have no designation. The Psalms are considered the most beautiful and moving portions of the whole Bible. They are worship songs (note that the English word song is derived from the Hebrew word psalm) and many contain instructions on what instruments are to be played or what tune is to be used. Thus it is no wonder that believers of the Creator God throughout the ages have used the Psalms as their source of inspiration for the worship music of their generation. See a [visualization of the beautiful structure of Psalm 119](/projects/psalm119/) and how this psalm helps us better understand the Creator God of the Bible.
 
 <span class="bbsg_highlight">Proverbs:</span> a compilation of wisdom sayings, most of which are attributed to the wise King Solomon but also includes the sayings of other wise men of Israel, including Agur and Lemuel.
 
@@ -213,7 +213,7 @@ The historical account given in the book of Chronicles is very similar——ofte
 <span class="bbsg_highlight">2 Chronicles 1-9:</span> a commentary on the life of King Solomon.
 
 ### OT History: Divided Kingdoms Period
-Among the most exciting and epic writings in the entire Bible. The remainder of 1-2 Kings tells how Israel became divided: the <span class="bbsg_highlight">Southern Kingdom of Judah</span>, consisting of the tribes of Judah and Benjamin; and the <span class="bbsg_highlight">Northern Kingdom of Israel</span>, consisting of the remaining ten tribes. Immediately, the first king of Israel adopted the Egyptian idolatrous practice of bull worship and as a result, there never was a ruler out of the 19 kings in Israel that did what was right in the sight of the Lord.
+Among the most exciting and epic writings in the entire Bible. The remainder of [1-2 Kings](/projects/thebookofkingsincolor/) tells how Israel became divided: the <span class="bbsg_highlight">Southern Kingdom of Judah</span>, consisting of the tribes of Judah and Benjamin; and the <span class="bbsg_highlight">Northern Kingdom of Israel</span>, consisting of the remaining ten tribes. Immediately, the first king of Israel adopted the Egyptian idolatrous practice of bull worship and as a result, there never was a ruler out of the 19 kings in Israel that did what was right in the sight of the Lord.
 
 The <span class="bbsg_highlight">Northern Kingdom</span> was <span class="bbsg_highlight">conquered</span> around 722 BC by Assyria and the people scattered throughout the Assyrian empire, never to return. Non-Hebrews inhabited the land and it became known ever-after as a defiled land full of idolatrous mixed-bred people. This region would come to be called Samaria in Jesus' day. The <span class="bbsg_highlight">Southern Kingdom</span> of Judah fared only a little better. Out of 20 kings, there were eight that did what was right in the sight of the Lord. Nevertheless, Judah too was punished and was <span class="bbsg_highlight">conquered by the Babylonians</span> around 586 BC. The people were taken into captivity and it is here that the Hebrew people became known as "Jews" which is a shortened version of Judah.
 
@@ -310,7 +310,7 @@ Song of Solomon
 Jonah
 
 *Special Books: Reading Order*  
-<span class="bbsg_highlight">Job:</span> an exhaustive and profoundly enigmatic (much like the subject) analysis of the issue of suffering. It is almost entirely a work of poetry, making interpretation on this difficult subject even more challenging. See The Book of Job in Color from basics of the bible.org and Ten Principles for Understanding the Book of Job (pdf) for more help in understanding the Book of Job.
+<span class="bbsg_highlight">Job:</span> an exhaustive and profoundly enigmatic (much like the subject) analysis of the issue of suffering. It is almost entirely a work of poetry, making interpretation on this difficult subject even more challenging. See [The Book of Job in Color](/projects/thebookofjobincolor/) from basics of the bible.org and Ten Principles for Understanding the Book of Job (pdf) for more help in understanding the Book of Job.
 
 <span class="bbsg_highlight">Ecclesiastes:</span> a commentary on the futility of living without making the Creator God a central part of your life.
 

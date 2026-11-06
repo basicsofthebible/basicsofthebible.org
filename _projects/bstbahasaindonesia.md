@@ -16,12 +16,14 @@ links:
     url: ../../assets/pdfs/StrukturdanKronologiAlkitab_BahasaIndonesia.pdf
 sitemap: true
 ---
-Saya membuat grafik ini sebagai cara untuk memvisualisasikan baik struktur Alkitab maupun memberikan garis waktu kasar dari peristiwa-peristiwa sejarah yang dicatat dalam setiap kitab Alkitab. Tentu saja, ketika membuat pandangan gambaran besar seperti ini, tidak selalu mungkin untuk secara akurat merepresentasikan semua informasi sejarah rinci yang dicatat dalam Alkitab. Skema warna dan organisasi struktural kitab-kitab dalam Alkitab terinspirasi oleh Walk Thru the Old Testament. Materi garis waktu berasal dari penelitian saya sendiri yang digunakan dalam Interactive Timeline of Bible History.
+Saya membuat grafik ini sebagai cara untuk memvisualisasikan baik struktur Alkitab maupun memberikan garis waktu kasar dari peristiwa-peristiwa sejarah yang dicatat dalam setiap kitab Alkitab. Tentu saja, ketika membuat pandangan gambaran besar seperti ini, tidak selalu mungkin untuk secara akurat merepresentasikan semua informasi sejarah rinci yang dicatat dalam Alkitab. Skema warna dan organisasi struktural kitab-kitab dalam Alkitab terinspirasi oleh Walk Thru the Old Testament. Materi garis waktu berasal dari penelitian saya sendiri yang digunakan dalam [Interactive Timeline of Bible History](/projects/interactivetimeline/).
 
 Diterjemahkan oleh: OpenAI GPT-4  
 Diperiksa oleh: Edwin Sutanto
 
+[Struktur dan Kronologi Alkitab — semua bahasa](/bst/)
+
 # Download
-[PDF](../assets/pdfs/StrukturdanKronologiAlkitab_BahasaIndonesia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Ukuran cetak legal (0.4 MB)  
-[PNG OT](../assets/img/hd/bstothdbahasaindonesia.png){:.heading.flip-title} <span class="icon-file-picture"></span> Gambar HD (0.5 MB)  
-[PNG NT](../assets/img/hd/bstnthdbahasaindonesia.png){:.heading.flip-title} <span class="icon-file-picture"></span> Gambar HD (0.3 MB)
+[PDF](/assets/pdfs/StrukturdanKronologiAlkitab_BahasaIndonesia.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> Ukuran cetak legal (0.4 MB)  
+[PNG OT](/assets/img/hd/bstothdbahasaindonesia.png){:.heading.flip-title} <span class="icon-file-picture"></span> Gambar HD (0.5 MB)  
+[PNG NT](/assets/img/hd/bstnthdbahasaindonesia.png){:.heading.flip-title} <span class="icon-file-picture"></span> Gambar HD (0.3 MB)

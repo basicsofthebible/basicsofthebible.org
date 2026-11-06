@@ -1,11 +1,13 @@
 ---
 description: >
-  Parte 3: Siguientes Pasos.
+  Continúa después del estudio de 49 días con planes de lectura no secuencial para el resto de la Biblia y sugerencias sobre otros materiales de lectura.
+lang: es
 hide_description: true
 layout: page
 sitemap: true
-title: PróximosPasos
+title: "Parte 3: Próximos Pasos — Planes de lectura para el resto de la Biblia"
 ---
+[Inicio](README.md){:.heading.flip-title} · [Parte 2: Profundizar](Profundizar.md){:.heading.flip-title}
 
 * Siguientes Pasos: Resumen General
 * La Estructura de las Escrituras Hebreas
@@ -29,7 +31,7 @@ Al igual que las lecciones de *Lo Básico* y *Profundiza Más*, los siguientes p
 
 <span class="bbsg_highlight">Los Escritos:</span> conocidos como ketuvim en hebreo, estos son libros de poesía e incluyen: Job, Salmos, Proverbios, Eclesiastés y Cantar de los Cantares (también conocido como el Cantar de Salomón). En la tradición hebrea, Rut, Ester, Lamentaciones, 1-2 Crónicas, Esdras, Nehemías y Daniel se consideran parte de los ketuvim, pero se obtiene una mejor comprensión de la Biblia como un todo cuando estos libros se agrupan con los libros históricos.
 
-Consulta *Estructura y Cronología del Antiguo Testamento*: [bstot](../_projects/bstot.md){:.heading.flip-title}
+Consulta *Estructura y Cronología del Antiguo Testamento*: [Estructura y Cronología del Antiguo Testamento](../_projects/bstot.md){:.heading.flip-title}
 
 ## La Estructura de las Escrituras Griegas
 <span class="bbsg_highlight">Libros históricos:</span> consisten en los cuatro Evangelios y Hechos. Los Evangelios llevan el nombre de su autor: Mateo, Marcos, Lucas y Juan. Mateo y Juan fueron dos de los doce discípulos de Jesús durante Su vida y ministerio terrenal. Marcos probablemente fue un joven que estaba entre el grupo más grande de discípulos que seguían a Jesús. Lucas era un médico griego que llegó a creer en Jesús a través del trabajo misionero de Pablo. También es el autor de Hechos.
@@ -38,7 +40,7 @@ Consulta *Estructura y Cronología del Antiguo Testamento*: [bstot](../_projects
 
 <span class="bbsg_highlight">Profecía:</span> el único libro profético de la Biblia es Apocalipsis, que habla del regreso de Jesús para completar Su Reino después de que haya habido suficiente tiempo para que todas las naciones tengan la oportunidad de escuchar y responder al mensaje de salvación creyendo en Jesús el Mesías.
 
-Ver *Estructura y Cronología del Nuevo Testamento*: [bstnt](../_projects/bstnt.md){:.heading.flip-title}
+Ver *Estructura y Cronología del Nuevo Testamento*: [Estructura y Cronología del Nuevo Testamento](../_projects/bstnt.md){:.heading.flip-title}
 
 ## Planes de Lectura Propuestos
 El resto de la Biblia se puede leer y estudiar dividiéndola en los siguientes temas:
@@ -337,4 +339,6 @@ Es mi oración que <span class="bbsg_highlight">Dios</span> continúe guiándote
 <span class="icon-quotes-left"></span>A aquel que es poderoso para guardarte de caer y para presentarte sin mancha y con gran alegría ante su gloriosa presencia; al único Dios, nuestro Salvador, sea gloria, majestad, poder y autoridad, por medio de Jesucristo nuestro Señor, desde antes de todos los tiempos, ahora y por siempre. ¡Amén!<span class="icon-quotes-right"></span>
 {:.lead}
 
-[Acerca de](Acercade.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.
+[Acerca de esta Guía](Acercade.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.
+
+[Parte 2: Profundizar](Profundizar.md){:.heading.flip-title} · [Inicio](README.md){:.heading.flip-title}

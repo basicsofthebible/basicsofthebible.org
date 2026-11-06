@@ -1,11 +1,13 @@
 ---
 description: >
-  Parte 1: Los Fundamentos.
+  Plan de lectura bíblica de 14 días con comentarios sobre Marcos, 1 Juan, Génesis 1–11 y Romanos: la primera parte de la Guía de Estudio Bíblico.
+lang: es
 hide_description: true
 layout: page
 sitemap: true
-title: LosFundamentos
+title: "Parte 1: Los Fundamentos — Plan de lectura bíblica de 14 días"
 ---
+[Inicio](README.md){:.heading.flip-title} · [Introducción](Introducción.md){:.heading.flip-title}
 
 * Los Fundamentos: Resumen del Panorama General
 * Programa de Lectura de Los Fundamentos
@@ -154,4 +156,6 @@ Aunque solo hemos leído un poco más de tres libros de la Biblia (de un total d
 
 A medida que continúas tu viaje a través del estudio Profundiza, ten esto en mente: de hecho, saber que las respuestas a tus preguntas podrían estar <span class="bbsg_highlight">"a la vuelta de la esquina"</span> hace que sea muy emocionante leer la Biblia y ¡te encontrarás sin querer dejarla!
 
-[Profundizar](Profundizar.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.
+[Parte 2: Profundizar](Profundizar.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.
+
+[Introducción](Introducción.md){:.heading.flip-title} · [Inicio](README.md){:.heading.flip-title}

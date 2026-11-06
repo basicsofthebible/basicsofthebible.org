@@ -1,11 +1,13 @@
 ---
 description: >
-  Acerca de esta guía.
+  Historia de publicación, dedicatoria, agradecimientos y atribución de las Escrituras de la Guía de Estudio Bíblico de Shawn Handran.
+lang: es
 hide_description: true
 layout: page
 sitemap: true
-title: Acerca de
+title: "Acerca de la Guía de Estudio Bíblico"
 ---
+[Inicio](README.md){:.heading.flip-title} · [Parte 3: Próximos Pasos](PróximosPasos.md){:.heading.flip-title}
 
 ## Acerca de esta Guía
 <span class="icon-quotes-left"></span><span class="bbsg_highlight">
@@ -23,3 +25,5 @@ Agradecimientos: Agradezco a Daniel Tu por revisar y sugerir el uso de texto res
 La Escritura está tomada de la SANTA BIBLIA, NUEVA VERSIÓN INTERNACIONAL. Copyright © 1973, 1978, 1984 Sociedad Bíblica Internacional. Usado con permiso.
 
 [Inicio](README.md){:.heading.flip-title} --- Regresar a la página principal de la guía.
+
+[Parte 3: Próximos Pasos](PróximosPasos.md){:.heading.flip-title}

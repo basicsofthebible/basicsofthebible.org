@@ -1,11 +1,13 @@
 ---
 description: >
-  Parte 2: Profundizar.
+  Continúa el estudio con cinco semanas de lecturas y comentarios sobre Lucas, Hechos, Efesios, Génesis 12–50, Juan y Mateo 28.
+lang: es
 hide_description: true
 layout: page
 sitemap: true
-title: Profundizar
+title: "Parte 2: Profundizar — Plan de lectura bíblica de cinco semanas"
 ---
+[Inicio](README.md){:.heading.flip-title} · [Parte 1: Los Fundamentos](LosFundamentos.md){:.heading.flip-title}
 
 * Profundizar: Resumen del Panorama General
 * Más Contexto para el Estudio Profundizado
@@ -157,4 +159,6 @@ Pero antes de continuar, aprendamos una lección importante del libro de Hechos.
 
 Ser un bereano significa examinar y estudiar las Escrituras por ti mismo para ver si lo que Pablo (o cualquier otra persona) dice acerca de Dios es verdad. Al embarcarte en tu viaje, te animo a <span class="bbsg_highlight">ser un bereano por el resto de tu vida</span>.
 
-[PróximosPasos](PróximosPasos.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.
+[Parte 3: Próximos Pasos](PróximosPasos.md){:.heading.flip-title} --- Haz clic aquí para continuar a la siguiente sección.
+
+[Parte 1: Los Fundamentos](LosFundamentos.md){:.heading.flip-title} · [Inicio](README.md){:.heading.flip-title}

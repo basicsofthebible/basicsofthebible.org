@@ -14,6 +14,8 @@ Gloire à Dieu au plus haut des cieux, et paix sur la terre aux hommes qu'il aim
 
 Première édition publiée en 2008 par Shawn Handran. Publiée en 2012 sous la licence Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Non transposé. Pour consulter une copie de cette licence, visitez [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/3.0/) ou envoyez une lettre à Creative Commons, 444 Castro Street, Suite 900, Mountain View, Californie, 94041, États-Unis.
 
+Pour la politique actuelle de licence du contenu original du site appartenant à Shawn Handran, consultez [Autorisations et réutilisation](/PERMISSIONS/). Les licences antérieures valides et les autorisations de tiers restent en vigueur.
+
 Dédicace : À Osman, qui m'a inspiré à créer ce guide d'étude.
 
 Remerciements : Je remercie Daniel Tu pour avoir révisé et suggéré l'utilisation de texte surligné (première édition) ; ma femme Debra pour sa relecture et ses nombreux conseils utiles ; et le Dr. George Stulac pour sa révision théologique.

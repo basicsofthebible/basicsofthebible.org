@@ -14,6 +14,8 @@ Glória a Deus nas alturas, e paz na terra aos homens a quem ele concede o seu f
 
 Primeira edição publicada em 2008 por Shawn Handran. Lançado em 2012 sob a licença Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported. Para ver uma cópia desta licença, visite [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/3.0/) ou envie uma carta para Creative Commons, 444 Castro Street, Suite 900, Mountain View, Califórnia, 94041, EUA.
 
+Para a política atual de licenciamento do conteúdo original do site de propriedade de Shawn Handran, consulte [Permissões e reutilização](/PERMISSIONS/). As licenças anteriores válidas e as permissões de terceiros continuam em vigor.
+
 Dedicação: Para Osman, que me inspirou a fazer este guia de estudo.
 
 Agradecimentos: Agradeço a Daniel Tu por revisar e sugerir o uso de texto destacado (primeira edição); minha esposa Debra por revisar e fazer muitas sugestões úteis; e ao Dr. George Stulac por sua revisão teológica.

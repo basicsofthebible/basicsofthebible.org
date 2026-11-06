@@ -12,6 +12,8 @@ Glory to God in the highest, and on earth peace to men on whom his favor rests.<
 
 First edition published in 2008 by Shawn Handran. Released in 2012 under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/3.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
+For the current licensing policy for original website content owned by Shawn Handran, see [Permissions and reuse](/PERMISSIONS/). Earlier valid licenses and third-party permissions remain in effect.
+
 Dedication: To Osman, who inspired me to make this study guide.
 
 Acknowledgments: I thank Daniel Tu for reviewing and suggesting the use of high-lighted text (first edition); my wife Debra for reviewing and many helpful suggestions; and Dr. George Stulac for his theological review.

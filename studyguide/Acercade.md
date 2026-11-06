@@ -14,6 +14,8 @@ Gloria a Dios en las alturas, y en la tierra paz a los hombres en quienes él se
 
 Primera edición publicada en 2008 por Shawn Handran. Lanzada en 2012 bajo la Licencia Creative Commons Atribución-NoComercial-CompartirIgual 3.0 Unported. Para ver una copia de esta licencia, visite [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/3.0/) o envíe una carta a Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, EE. UU.
 
+Para conocer la política actual de licencias del contenido original del sitio web propiedad de Shawn Handran, consulte [Permisos y reutilización](/PERMISSIONS/). Las licencias anteriores válidas y los permisos de terceros siguen vigentes.
+
 Dedicatoria: A Osman, quien me inspiró a crear esta guía de estudio.
 
 Agradecimientos: Agradezco a Daniel Tu por revisar y sugerir el uso de texto resaltado (primera edición); a mi esposa Debra por revisar y proporcionar muchas sugerencias útiles; y al Dr. George Stulac por su revisión teológica.

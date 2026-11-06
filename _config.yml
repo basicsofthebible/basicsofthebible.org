@@ -75,7 +75,7 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             PERMISSIONS
+  - title:             Permissions and exceptions
     url:               /PERMISSIONS/
   # - title:             NOTICE
   #   url:               /NOTICE/
@@ -83,7 +83,11 @@ legal:
   #   url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Creative Commons CC BY-NC-SA 4.0, 2010 -
+copyright: >-
+  Original content owned by Shawn Handran:
+  [CC BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/),
+  unless otherwise noted. [Permissions and exceptions](/PERMISSIONS/).
+  © Shawn Handran, 2010–
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/

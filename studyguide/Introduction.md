@@ -1,10 +1,13 @@
 ---
 layout: page
-title: "Introduction — How to Read the Bible Visually"
-description: "Learn the foundational approach to reading the Bible chronologically and visually with our beginner's guide."
+title: "Introduction — Getting Started with the Basics of the Bible Study Guide"
+description: "Prepare for the 49-day non-sequential Bible study: daily reading guidance, an overview of the Bible, and how to find chapters and verses."
+lang: en
 hide_description: true
 sitemap: true
 ---
+[Study Guide home](README.md){:.heading.flip-title}
+
 * Welcome
 * The Non-Sequential Reading Approach
 * Getting Started
@@ -67,4 +70,6 @@ Most of the books are divided into <span class="bbsg_highlight">chapters</span> 
 
 <span class="bbsg_highlight">John 3:16</span>	<sup>16</sup>For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
 
-[TheBasics](TheBasics.md){:.heading.flip-title} --- Click here to continue to the next section.
+[Part 1: The Basics](TheBasics.md){:.heading.flip-title} --- Click here to continue to the next section.
+
+[Study Guide home](README.md){:.heading.flip-title}

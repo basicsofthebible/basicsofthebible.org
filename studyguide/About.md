@@ -1,10 +1,13 @@
 ---
 layout: page
-title: "About Basics of the Bible"
-description: "Learn about the mission, method, and background behind the Basics of the Bible visual study resources."
+title: "About the Basics of the Bible Study Guide"
+description: "Publication history, dedication, acknowledgments, and Scripture attribution for the Basics of the Bible Study Guide by Shawn Handran."
+lang: en
 hide_description: true
 sitemap: true
 ---
+[Study Guide home](README.md){:.heading.flip-title} · [Part 3: Next Steps](NextSteps.md){:.heading.flip-title}
+
 ## About this Guide
 <span class="icon-quotes-left"></span><span class="bbsg_highlight">
 Glory to God in the highest, and on earth peace to men on whom his favor rests.</span><span class="icon-quotes-right"></span> Luke 2:14
@@ -20,4 +23,6 @@ Acknowledgments: I thank Daniel Tu for reviewing and suggesting the use of high-
 
 Scripture taken from the HOLY BIBLE, NEW INTERNATIONAL VERSION. Copyright © 1973, 1978, 1984 International Bible Society. Used by permission.
 
-[Home](README.md){:.heading.flip-title} --- Return to the guide home page.
+[Study Guide home](README.md){:.heading.flip-title} --- Return to the guide home page.
+
+[Part 3: Next Steps](NextSteps.md){:.heading.flip-title}

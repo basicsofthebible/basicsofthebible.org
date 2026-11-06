@@ -1,10 +1,13 @@
 ---
 layout: page
-title: "Part 3: Next Steps — Survey of All 66 Books of the Bible"
-description: "A comprehensive section-by-section guide and study overview covering every book of the Old and New Testaments."
+title: "Part 3: Next Steps — Reading Plans for the Rest of the Bible"
+description: "Continue beyond the 49-day study with non-sequential reading plans for the rest of the Bible, book introductions, and suggestions for further study."
+lang: en
 hide_description: true
 sitemap: true
 ---
+[Study Guide home](README.md){:.heading.flip-title} · [Part 2: Dig Deeper](DigDeeper.md){:.heading.flip-title}
+
 * Next Steps: Big Picture Summary
 * The Structure of the Hebrew Scriptures
 * The Structure of the Greek Scriptures
@@ -27,7 +30,7 @@ Like *The Basics* and *Dig Deeper* lessons, the following plans also take you th
 
 <span class="bbsg_highlight">The Writings:</span> known as ketuvim in Hebrew, these are books of poetry and include: Job, Psalms, Proverbs, Ecclesiastes, and Song of Songs (also known as Song of Solomon). In Hebrew tradition, Ruth, Esther, Lamentations, 1-2 Chronicles, Ezra, Nehemiah and Daniel are considered part of the ketuvim, but a better understanding of the Bible as a whole is gained when these books are grouped with the historical books.
 
-See *Old Testament Structure and Timeline*: [bstot](../_projects/bstot.md){:.heading.flip-title}
+See *Old Testament Structure and Timeline*: [Old Testament Structure and Timeline](../_projects/bstot.md){:.heading.flip-title}
 
 ## The Structure of the Greek Scriptures
 <span class="bbsg_highlight">Historical books:</span> consisting of the four Gospels and Acts. The Gospels are named according to the author: Matthew, Mark, Luke and John. Matthew and John were two of the twelve disciples of Jesus during His earthly life and ministry. Mark was likely a young man who was among the larger band of disciples that followed Jesus. Luke was a Greek physician who came to believe in Jesus through Paul's missionary work. He also authored Acts.
@@ -36,7 +39,7 @@ See *Old Testament Structure and Timeline*: [bstot](../_projects/bstot.md){:.hea
 
 <span class="bbsg_highlight">Prophecy:</span> the only prophetic book of the Bible is Revelation, which tells of the return of Jesus to finalize His Kingdom after there has been sufficient time for all the nations to have a chance to hear and to respond to the message of salvation by believing in Jesus the Messiah.
 
-See *New Testament Structure and Timeline*: [bstnt](../_projects/bstnt.md){:.heading.flip-title}
+See *New Testament Structure and Timeline*: [New Testament Structure and Timeline](../_projects/bstnt.md){:.heading.flip-title}
 
 ## Proposed Reading Plans
 The remainder of the Bible can be read and studied by breaking up into the following subjects:
@@ -335,4 +338,6 @@ It is my prayer that <span class="bbsg_highlight">God</span> will continue to le
 <span class="icon-quotes-left"></span>To him who is able to keep you from falling and to present you before his glorious presence without fault and with great joy——to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen.<span class="icon-quotes-right"></span>
 {:.lead}
 
-[About](About.md){:.heading.flip-title} --- Click here to continue to the next section.
+[About this Study Guide](About.md){:.heading.flip-title} --- Click here to continue to the next section.
+
+[Part 2: Dig Deeper](DigDeeper.md){:.heading.flip-title} · [Study Guide home](README.md){:.heading.flip-title}

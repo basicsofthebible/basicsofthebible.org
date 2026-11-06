@@ -1,10 +1,13 @@
 ---
 layout: page
-title: "Part 2: Dig Deeper — Exploring Old & New Testament Context"
-description: "Deepen your understanding of biblical covenants, historical timelines, and major themes across both testaments."
+title: "Part 2: Dig Deeper — Five-Week Bible Reading Plan"
+description: "Continue the study with five weeks of readings and commentary on Luke, Acts, Ephesians, Genesis 12–50, John, and Matthew 28."
+lang: en
 hide_description: true
 sitemap: true
 ---
+[Study Guide home](README.md){:.heading.flip-title} · [Part 1: The Basics](TheBasics.md){:.heading.flip-title}
+
 * Dig Deeper: Big Picture Summary
 * More Background for the Dig Deeper Study
 * Dig Deeper Reading Schedule
@@ -156,4 +159,6 @@ But before you continue on, let's learn an important lesson from the book of Act
 
 Being a Berean means to examine and study the Scriptures for yourself to see if what Paul (or anyone else) says about God is true. As you embark on your journey, I encourage you to <span class="bbsg_highlight">be a Berean for the rest of your life</span>.
 
-[NextSteps](NextSteps.md){:.heading.flip-title} --- Click here to continue to the next section.
+[Part 3: Next Steps](NextSteps.md){:.heading.flip-title} --- Click here to continue to the next section.
+
+[Part 1: The Basics](TheBasics.md){:.heading.flip-title} · [Study Guide home](README.md){:.heading.flip-title}

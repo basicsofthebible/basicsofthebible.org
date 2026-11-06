@@ -5,6 +5,8 @@ description: >
 hide_description: false
 sitemap: true
 permalink: /bst/
+redirect_from:
+  - /infographic/index.html
 ---
 
 Provides a better understanding of when the events described in the Bible occurred in history. 

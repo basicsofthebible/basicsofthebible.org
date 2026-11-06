@@ -1,11 +1,13 @@
 ---
 description: >
-  Introduction aux bases du guide d''étude biblique
+  Préparez le parcours biblique de 49 jours : lecture quotidienne, vue d’ensemble de la Bible et repérage des chapitres et des versets.
+lang: fr
 hide_description: true
 layout: page
 sitemap: true
-title: Introduction
+title: "Introduction au guide d’étude biblique : lecture non séquentielle"
 ---
+[Accueil](README.md){:.heading.flip-title}
 
 * Bienvenue
 * L'approche de lecture non séquentielle
@@ -69,4 +71,6 @@ La plupart des livres sont divisés en <span class="bbsg_highlight">chapitres</s
 
 <span class="bbsg_highlight">Jean 3:16</span>	<sup>16</sup>Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu'il ait la vie éternelle.
 
-[LesBases](LesBases.md){:.heading.flip-title} --- Cliquez ici pour continuer à la section suivante.
+[Partie 1 : Les Bases](LesBases.md){:.heading.flip-title} --- Cliquez ici pour continuer à la section suivante.
+
+[Accueil](README.md){:.heading.flip-title}

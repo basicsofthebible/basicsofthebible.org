@@ -1,11 +1,13 @@
 ---
 description: >
-  Partie 1 : Les Bases
+  Programme de 14 jours avec commentaires sur Marc, 1 Jean, Genèse 1–11 et Romains : la première partie du guide d’étude biblique.
+lang: fr
 hide_description: true
 layout: page
 sitemap: true
-title: LesBases
+title: "Partie 1 : Les Bases — Programme de lecture biblique de 14 jours"
 ---
+[Accueil](README.md){:.heading.flip-title} · [Introduction](Introduction_fr.md){:.heading.flip-title}
 
 * Les Bases : Résumé d'ensemble
 * Calendrier de lecture des Bases
@@ -153,4 +155,6 @@ Bien que nous n'ayons encore lu qu'un peu plus de trois livres de la Bible (sur 
 
 Alors que vous poursuivez votre parcours à travers l'étude Explorez en Profondeur, gardez cela à l'esprit——en fait, savoir que les réponses à vos questions pourraient être <span class="bbsg_highlight">"juste au coin de la rue"</span> rend la lecture de la Bible très excitante et vous vous retrouverez à ne pas vouloir la poser !
 
-[Approfondissez](Approfondissez.md){:.heading.flip-title} --- Cliquez ici pour continuer à la section suivante.
+[Partie 2 : Approfondissez](Approfondissez.md){:.heading.flip-title} --- Cliquez ici pour continuer à la section suivante.
+
+[Introduction](Introduction_fr.md){:.heading.flip-title} · [Accueil](README.md){:.heading.flip-title}

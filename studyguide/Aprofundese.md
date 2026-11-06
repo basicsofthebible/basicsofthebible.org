@@ -1,11 +1,13 @@
 ---
 description: >
-  Parte 2: Aprofunde-se
+  Continue o estudo com cinco semanas de leituras e comentários sobre Lucas, Atos, Efésios, Gênesis 12–50, João e Mateus 28.
+lang: pt
 hide_description: true
 layout: page
 sitemap: true
-title: Aprofunde-se
+title: "Parte 2: Aprofunde-se — Leitura bíblica em cinco semanas"
 ---
+[Início](README.md){:.heading.flip-title} · [Parte 1: O Básico](OBasico.md){:.heading.flip-title}
 
 * Aprofunde-se: Resumo do Grande Quadro
 * Mais Informações de Contexto para o Estudo Aprofundado
@@ -158,4 +160,6 @@ Mas antes de continuar, vamos aprender uma lição importante do livro de Atos. 
 
 Ser um bereano significa examinar e estudar as Escrituras por conta própria para ver se o que Paulo (ou qualquer outra pessoa) diz sobre Deus é verdade. Ao iniciar sua jornada, encorajo você a <span class="bbsg_highlight">ser um bereano pelo resto de sua vida</span>.
 
-[PróximosPassos](PróximosPassos.md){:.heading.flip-title} --- Clique aqui para continuar para a próxima seção.
+[Parte 3: Próximos Passos](PróximosPassos.md){:.heading.flip-title} --- Clique aqui para continuar para a próxima seção.
+
+[Parte 1: O Básico](OBasico.md){:.heading.flip-title} · [Início](README.md){:.heading.flip-title}

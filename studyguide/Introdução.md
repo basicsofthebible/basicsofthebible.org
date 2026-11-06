@@ -1,11 +1,13 @@
 ---
 description: >
-  Introdução aos Fundamentos do Guia de Estudo da Bíblia
+  Prepare-se para o plano de leitura bíblica de 49 dias: leitura diária, visão geral da Bíblia e orientação sobre capítulos e versículos.
+lang: pt
 hide_description: true
 layout: page
 sitemap: true
-title: Introdução
+title: "Introdução ao Guia de Estudo da Bíblia: leitura não sequencial"
 ---
+[Início](README.md){:.heading.flip-title}
 
 * Bem-vindo
 * A Abordagem de Leitura Não Sequencial
@@ -69,4 +71,6 @@ A maioria dos livros está dividida em <span class="bbsg_highlight">capítulos</
 
 <span class="bbsg_highlight">João 3:16</span> <sup>16</sup>Porque Deus amou tanto o mundo que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.
 
-[OBasico](OBasico.md){:.heading.flip-title} --- Clique aqui para continuar para a próxima seção.
+[Parte 1: O Básico](OBasico.md){:.heading.flip-title} --- Clique aqui para continuar para a próxima seção.
+
+[Início](README.md){:.heading.flip-title}

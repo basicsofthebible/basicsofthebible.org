@@ -1,11 +1,13 @@
 ---
 description: >
-  Parte 1: O Básico
+  Programa de leitura bíblica de 14 dias com comentários sobre Marcos, 1 João, Gênesis 1–11 e Romanos: a primeira parte do Guia de Estudo da Bíblia.
+lang: pt
 hide_description: true
 layout: page
 sitemap: true
-title: OBasico
+title: "Parte 1: O Básico — Programa de leitura bíblica de 14 dias"
 ---
+[Início](README.md){:.heading.flip-title} · [Introdução](Introdução.md){:.heading.flip-title}
 
 * O Básico: Resumo da Grande Figura
 * Cronograma de Leitura do Básico
@@ -153,4 +155,6 @@ Embora tenhamos lido apenas pouco mais de três livros da Bíblia (de um total d
 
 À medida que você continua sua jornada através do estudo Dig Deeper, tenha isso em mente——na verdade, saber que as respostas para suas perguntas podem estar <span class="bbsg_highlight">"logo ao virar da esquina"</span> torna muito empolgante ler a Bíblia e você vai se pegar não querendo largá-la!
 
-[Aprofundese](Aprofundese.md){:.heading.flip-title} --- Clique aqui para continuar para a próxima seção.
+[Parte 2: Aprofunde-se](Aprofundese.md){:.heading.flip-title} --- Clique aqui para continuar para a próxima seção.
+
+[Introdução](Introdução.md){:.heading.flip-title} · [Início](README.md){:.heading.flip-title}

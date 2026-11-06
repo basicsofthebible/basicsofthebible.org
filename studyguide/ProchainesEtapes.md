@@ -1,11 +1,13 @@
 ---
 description: >
-    Partie 3 : Prochaines Étapes
+  Après les 49 jours, poursuivez avec des plans de lecture non séquentielle pour le reste de la Bible et des suggestions de lectures complémentaires.
+lang: fr
 hide_description: true
 layout: page
 sitemap: true
-title: ProchainesEtapes
+title: "Partie 3 : Prochaines Étapes — Plans de lecture pour le reste de la Bible"
 ---
+[Accueil](README.md){:.heading.flip-title} · [Partie 2 : Approfondissez](Approfondissez.md){:.heading.flip-title}
 
 * Prochaines Étapes : Résumé à Grande Échelle  
 * La Structure des Écritures Hébraïques  
@@ -29,7 +31,7 @@ Tout comme les leçons *Les Bases* et *Approfondir*, les plans suivants vous gui
 
 <span class="bbsg_highlight">Les Écrits :</span> connus sous le nom de ketuvim en hébreu, ce sont des livres de poésie qui incluent : Job, Psaumes, Proverbes, Ecclésiaste, et Cantique des Cantiques (également connu sous le nom de Cantique de Salomon). Dans la tradition hébraïque, Ruth, Esther, Lamentations, 1-2 Chroniques, Esdras, Néhémie et Daniel sont considérés comme faisant partie des ketuvim, mais une meilleure compréhension de la Bible dans son ensemble est obtenue lorsque ces livres sont regroupés avec les livres historiques.
 
-Voir *Structure et Chronologie de l'Ancien Testament* : [bstot](../_projects/bstot.md){:.heading.flip-title}
+Voir *Structure et Chronologie de l'Ancien Testament* : [Structure et Chronologie de l'Ancien Testament](../_projects/bstot.md){:.heading.flip-title}
 
 ## La Structure des Écritures Grecques
 <span class="bbsg_highlight">Livres historiques :</span> comprenant les quatre Évangiles et les Actes. Les Évangiles portent le nom de leur auteur : Matthieu, Marc, Luc et Jean. Matthieu et Jean faisaient partie des douze disciples de Jésus pendant sa vie terrestre et son ministère. Marc était probablement un jeune homme faisant partie du groupe élargi de disciples qui suivaient Jésus. Luc était un médecin grec qui en vint à croire en Jésus grâce au travail missionnaire de Paul. Il a également écrit les Actes.
@@ -38,7 +40,7 @@ Voir *Structure et Chronologie de l'Ancien Testament* : [bstot](../_projects/bst
 
 <span class="bbsg_highlight">Prophétie :</span> le seul livre prophétique de la Bible est l'Apocalypse, qui parle du retour de Jésus pour finaliser Son Royaume après qu'il ait eu suffisamment de temps pour que toutes les nations aient une chance d'entendre et de répondre au message du salut en croyant en Jésus le Messie.
 
-Voir *Structure et Chronologie du Nouveau Testament*: [bstnt](../_projects/bstnt.md){:.heading.flip-title}
+Voir *Structure et Chronologie du Nouveau Testament*: [Structure et Chronologie du Nouveau Testament](../_projects/bstnt.md){:.heading.flip-title}
 
 ## Plans de lecture proposés
 Le reste de la Bible peut être lu et étudié en le divisant en les sujets suivants :
@@ -338,4 +340,6 @@ C'est ma prière que <span class="bbsg_highlight">Dieu</span> continue de vous g
 <span class="icon-quotes-left"></span>À celui qui peut vous préserver de toute chute et vous faire paraître devant sa gloire irréprochable et dans l'allégresse——au seul Dieu notre Sauveur soient gloire, majesté, force et autorité, par Jésus-Christ notre Seigneur, avant tous les temps, maintenant et pour toujours! Amen.<span class="icon-quotes-right"></span>
 {:.lead}
 
-[Àpropos](Àpropos.md){:.heading.flip-title} --- Cliquez ici pour passer à la section suivante.
+[À propos de ce Guide](Àpropos.md){:.heading.flip-title} --- Cliquez ici pour passer à la section suivante.
+
+[Partie 2 : Approfondissez](Approfondissez.md){:.heading.flip-title} · [Accueil](README.md){:.heading.flip-title}

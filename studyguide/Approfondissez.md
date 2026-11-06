@@ -1,11 +1,13 @@
 ---
 description: >
-  Partie 2 : Approfondissez.
+  Poursuivez l’étude avec cinq semaines de lectures et de commentaires sur Luc, Actes, Éphésiens, Genèse 12–50, Jean et Matthieu 28.
+lang: fr
 hide_description: true
 layout: page
 sitemap: true
-title: Approfondissez
+title: "Partie 2 : Approfondissez — Programme de lecture biblique de cinq semaines"
 ---
+[Accueil](README.md){:.heading.flip-title} · [Partie 1 : Les Bases](LesBases.md){:.heading.flip-title}
 
 * Approfondissez : Résumé du Grand Tableau
 * Plus de Contexte pour l'Étude Approfondie
@@ -157,4 +159,6 @@ Mais avant de continuer, apprenons une leçon importante du livre des Actes. Bie
 
 Être un Béréen signifie examiner et étudier les Écritures par vous-même pour vérifier si ce que Paul (ou toute autre personne) dit à propos de Dieu est vrai. Alors que vous commencez votre voyage, je vous encourage à <span class="bbsg_highlight">être un Béréen pour le reste de votre vie</span>.
 
-[ProchainesEtapes](ProchainesEtapes.md){:.heading.flip-title} --- Cliquez ici pour continuer à la section suivante.
+[Partie 3 : Prochaines Étapes](ProchainesEtapes.md){:.heading.flip-title} --- Cliquez ici pour continuer à la section suivante.
+
+[Partie 1 : Les Bases](LesBases.md){:.heading.flip-title} · [Accueil](README.md){:.heading.flip-title}

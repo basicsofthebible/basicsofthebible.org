@@ -1,11 +1,13 @@
 ---
 description: >
-  À propos de ce guide
+  Historique de publication, dédicace, remerciements et attribution des citations bibliques du guide d’étude biblique de Shawn Handran.
+lang: fr
 hide_description: true
 layout: page
 sitemap: true
-title: Àpropos
+title: "À propos du guide d’étude biblique"
 ---
+[Accueil](README.md){:.heading.flip-title} · [Partie 3 : Prochaines Étapes](ProchainesEtapes.md){:.heading.flip-title}
 
 ## À propos de ce Guide
 <span class="icon-quotes-left"></span><span class="bbsg_highlight">
@@ -23,3 +25,5 @@ Remerciements : Je remercie Daniel Tu pour avoir révisé et suggéré l'utilisa
 Écriture tirée de la SAINTE BIBLE, NOUVELLE VERSION INTERNATIONALE. Copyright © 1973, 1978, 1984 International Bible Society. Utilisé avec permission.
 
 [Accueil](README.md){:.heading.flip-title} --- Retourner à la page d'accueil du guide.
+
+[Partie 3 : Prochaines Étapes](ProchainesEtapes.md){:.heading.flip-title}

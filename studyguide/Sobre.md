@@ -1,11 +1,13 @@
 ---
 description: >
-  Sobre este guia
+  Histórico de publicação, dedicatória, agradecimentos e atribuição das citações bíblicas do Guia de Estudo da Bíblia de Shawn Handran.
+lang: pt
 hide_description: true
 layout: page
 sitemap: true
-title: Sobre
+title: "Sobre o Guia de Estudo da Bíblia"
 ---
+[Início](README.md){:.heading.flip-title} · [Parte 3: Próximos Passos](PróximosPassos.md){:.heading.flip-title}
 
 ## Sobre este Guia
 <span class="icon-quotes-left"></span><span class="bbsg_highlight">
@@ -23,3 +25,5 @@ Agradecimentos: Agradeço a Daniel Tu por revisar e sugerir o uso de texto desta
 Texto bíblico retirado da BÍBLIA SAGRADA, NOVA VERSÃO INTERNACIONAL. Copyright © 1973, 1978, 1984 International Bible Society. Usado com permissão.
 
 [Início](README.md){:.heading.flip-title} --- Voltar à página inicial do guia.
+
+[Parte 3: Próximos Passos](PróximosPassos.md){:.heading.flip-title}

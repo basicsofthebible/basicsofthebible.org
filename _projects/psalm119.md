@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Psalm 119 — Hebrew Acrostic, Word Highlights, and Study Formats"
+title: "Psalm 119 — Hebrew Acrostic with Word Highlights"
 caption: "Acrostic Structure of Psalm 119"
 description: >
   Explore Psalm 119’s 22 eight-verse sections in Hebrew and English, with recurring vocabulary highlighted in banner and widescreen formats.

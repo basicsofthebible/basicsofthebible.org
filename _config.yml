@@ -362,7 +362,7 @@ plugins:
 
 
 # Google Analytics
-google_analytics: G-EXW33YYNJZ
+google_analytics: false
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------

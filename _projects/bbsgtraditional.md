@@ -16,8 +16,6 @@ links:
   - title: 聖經要義學習指南 (PDF)
     url: ../../assets/pdfs/basicsofthebible_traditional.pdf
 sitemap: true
-redirect_from:
-  - /traditional.html
 ---
 
 聖經要義

@@ -16,8 +16,6 @@ links:
   - title: Presentation PDF
     url: ../../assets/pdfs/basicsofthebible.pdf
 sitemap: true
-redirect_from:
-  - /english.html
 ---
 
 Basics of the Bible Study Guide

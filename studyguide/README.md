@@ -5,6 +5,8 @@ lang: en
 hide_description: false
 sitemap: true
 permalink: /studyguide/
+redirect_from:
+  - /english.html
 ---
 
 Most people that are new to the Bible approach it like any other book that they read—they start at the beginning and read linearly through to the end. However, this often leads to frustration because a linear reading approach does not readily facilitate an understanding of the Bible as you are reading it. The Basics of the Bible study guide takes a different approach by studying the books of the Bible in a non-sequential order, which more readily allows the big picture of the Bible to emerge. Basics of the Bible study guide is the resource that launched the basicsofthebible.org website.

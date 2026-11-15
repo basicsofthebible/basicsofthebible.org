@@ -40,3 +40,21 @@ Explore the four eras below, or download the complete four-page PDF for landscap
 [1500 BC to 100 BC — high-resolution PNG](/assets/img/hd/tbe3hd.png){:.heading.flip-title} <span class="icon-file-picture"></span> 0.7 MB
 
 [20 BC to 100 AD — high-resolution PNG](/assets/img/hd/tbe4hd.png){:.heading.flip-title} <span class="icon-file-picture"></span> 0.6 MB
+
+## 简体中文 — Simplified Chinese
+
+1. [史前时期至公元前2800年](/projects/tbeprehistorysimplified/)
+2. [公元前2800年至1400年](/projects/tbe2800bcsimplified/)
+3. [公元前1500年至100年](/projects/tbe1500bcsimplified/)
+4. [公元前20年至公元100年](/projects/tbe20bcsimplified/)
+
+[完整圣经事件时间轴（PDF）](/assets/pdfs/tbesimplifiedchinese.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 共4页，Legal规格横向打印（14 × 8.5英寸）
+
+## 繁體中文 — Traditional Chinese
+
+1. [史前時期至公元前2800年](/projects/tbeprehistorytraditional/)
+2. [公元前2800年至1400年](/projects/tbe2800bctraditional/)
+3. [公元前1500年至100年](/projects/tbe1500bctraditional/)
+4. [公元前20年至公元100年](/projects/tbe20bctraditional/)
+
+[完整聖經事件時間軸（PDF）](/assets/pdfs/tbetraditionalchinese.pdf){:.heading.flip-title} <span class="icon-file-pdf"></span> 共4頁，Legal規格橫向列印（14 × 8.5英吋）
